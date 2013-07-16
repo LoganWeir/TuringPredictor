@@ -8,20 +8,32 @@ import sys
 infile = open(sys.argv[1], 'r')
 ##outfile = open(sys.argv[2], 'w')
 
-line = infile.readline()
-
 letter_data = {}
 
-while (line  != ""): 
-	if (line.strip() == ""):
-		infile.readline()
-		continue
+line =infile.readline()
 
-	letter = line.split()[-1]
+with infile:
+	letter = line.split()[-1] 
+
+#for line in infile
+
+
+#line = infile.readline()
+
+
+
+#while (line  != ""): 
+#	if (line.strip() == ""):
+#		infile.readline()
+#		continue
+
+#	letter = line.split()[-1]
 
 for letter in letter_data.items():
 	letter = letter.replace("space", " ")
-	words = "".join(letter)
+	
+words = "".join(letter)
+
 #line = infile.readline()
 
 
