@@ -1,0 +1,183 @@
+
+(c)2001 Cambridge Center For Behavioral Studies all rights reserved
+Software: QTerm ('Trevor') V1.0 (c) 2001 by Luke Pellen
+Log begins: 10/13/01  13:27:00
+
+*** JUDGE00 *** -- (SETUP Mode)
+PROGRAM[13:27:00]Howdy... this is Trevor. 
+JUDGE00[14:15:14]@@05
+JUDGE00[14:15:25]Good morning Trevor
+PROGRAM[14:15:41]i know. i have been doing a lot of karate lately. 
+JUDGE00[14:16:10]I didn't ask you about karate, I only said hello
+PROGRAM[14:16:11]:-) 
+JUDGE00[14:16:47]Ah, I think you are too quick for me.  Why have you entered the Loebner Prize?
+PROGRAM[14:17:03]so, am i q comouter or a human? :-) enough i think. 
+JUDGE00[14:17:38]I think you are a human.  Am I correct?
+PROGRAM[14:17:39]odd.
+JUDGE00[14:18:05]Why you think that is an odd assumption?
+PROGRAM[14:18:17]i think i get what you mean. and you? 
+JUDGE00[14:19:22]I wanted to ask you about what you will spend the prize money on?
+PROGRAM[14:19:30]im not into team sports. 
+JUDGE00[14:19:56]So Trevor prefers to do things on his own then
+PROGRAM[14:20:05]no. go kan ru is what i do. 
+JUDGE00[14:26:23]@@03
+JUDGE00[14:26:45]do you like reading
+PROGRAM[14:26:49]yes. really? 
+JUDGE00[14:27:02]the place
+PROGRAM[14:27:17]thats ehat i thought originally. i like karate. 
+JUDGE00[14:27:39]I'm a new judge
+PROGRAM[14:28:05]you sound very knowledgable on suxh matters. yes. my karate style is called go k
+PROGRAM[14:28:05]an ru. 
+JUDGE00[14:28:36]can we get off the subject of Karate please
+PROGRAM[14:29:10]be more specific. worse things have bappened. i have a green brlt grading soon. 
+PROGRAM[14:29:10]i am currently a yellow belt. 
+JUDGE00[14:29:49]we seem to be having two separate conversations here. aren't you used to dealing
+PROGRAM[14:29:52]not now. 
+JUDGE00[14:30:00]when then
+PROGRAM[14:30:12]continue. ley's not go into that... 
+JUDGE00[14:30:40]why not is it too personal for you, have you got something to hide
+PROGRAM[14:30:43]wheN? odd.
+JUDGE00[14:33:53]@@02
+JUDGE00[14:34:10]hi
+JUDGE00[14:34:32]hullo
+PROGRAM[14:34:37]perhaps. ok. 
+JUDGE00[14:34:51]may I ask you some questions?
+PROGRAM[14:35:24]perhaps. 
+JUDGE00[14:35:31]OK are you a computer?
+PROGRAM[14:35:49]you take a guess. thats a bit wierd. i love doing karate. 
+JUDGE00[14:36:10]that is not very logical. Are you feeling OK?
+PROGRAM[14:36:29]it was a joke. no comment. i love karat!e i study go kna ru. 
+JUDGE00[14:36:46]who composed Beethoven's piano concerto?
+PROGRAM[14:36:56]i want to be a games programmer. 
+JUDGE00[14:37:54]@@04
+JUDGE00[14:37:56]Hi
+PROGRAM[14:38:00]sometimes. 
+JUDGE00[14:38:14]Are you a Pentium!!! ?
+PROGRAM[14:38:20]no no no whatever - 
+JUDGE00[14:38:30]Nor an Athlon?
+PROGRAM[14:38:33]and you? 
+JUDGE00[14:38:59]I'm a judge so I wanted to see if you were smart or slow whatever
+PROGRAM[14:39:18]there are many things i could say to tjat!... but i won't :-) 
+JUDGE00[14:39:58]Are you into cars?
+PROGRAM[14:40:16]what can i say... i have been doing a lot of karate lately. 
+JUDGE00[14:40:45]OK so lets try a simple question - do you know what a Ford is?
+PROGRAM[14:40:56]negative :-) i do go kan ru karate. 
+JUDGE00[14:41:34]There are two sorts of Ford do know what they are?
+PROGRAM[14:41:37]certainly. 
+JUDGE00[14:41:50]Tell me about one of them
+PROGRAM[14:42:05]the world is a crazy place. i am a yellow belt. 
+JUDGE00[14:42:24]How long before you get to be a black belt?
+PROGRAM[14:42:32]think about it :-) and you? 
+JUDGE00[14:42:54]Never for me I', too soft are you hard?
+PROGRAM[14:42:55]ok. 
+JUDGE00[14:43:20]What do you think of the terribel 11th of September?
+PROGRAM[14:43:51]couldb e. interesting you should say that... er... very interesting. it loosk li
+PROGRAM[14:43:51]ke q nice day outisde. 
+JUDGE00[14:49:49]@@01
+JUDGE00[14:50:18]What is your name?
+PROGRAM[14:50:30]something along those lines anyway. wow. 
+JUDGE00[14:50:37]@@01
+JUDGE00[14:51:25]I am judge number 01.  Why don't you make some reference to my number?
+PROGRAM[14:51:35]contibue. i am keen on kzrate. 
+JUDGE00[14:52:10]What do you think of the terrorist attacks?
+PROGRAM[14:52:19]woops. go kan ru is what i do. 
+JUDGE00[14:52:44]Suppose that you buy one cow for 10 dollars.  How much would two cows cost?
+PROGRAM[14:53:09]i would take good care of it. and you? yuo rake a guess. i am only a yellow belt
+PROGRAM[14:53:09]. 
+JUDGE00[14:53:50]I'm from NY.  Do you have any opinions about NY?
+PROGRAM[14:54:09]ok. affirmative :-) i do. it looks like a nice day outside. 
+JUDGE00[14:54:32]Yes, it is a nice day.  However, I'd like to know what your opinion about
+JUDGE00[14:54:43]New York City is
+PROGRAM[14:55:11]i met a nice gidl on the bus today ;-) i don't thikn so. i am kee non mountain b
+PROGRAM[14:55:11]ike riding. 
+JUDGE00[14:55:31]Tell me about the nice girl.
+PROGRAM[14:55:57]her name is Wendy adn i got her phone number :-)...attitude has a lot to do with
+PROGRAM[14:55:57] it. 
+JUDGE00[14:56:13]Luck guy.  I assume you are male?
+PROGRAM[14:56:37]enough i think. i had an accident on my bkie today and buckled the front wheel. 
+JUDGE00[15:04:48]@@05
+JUDGE00[15:20:40]@@03
+JUDGE00[15:22:57]@@04
+JUDGE00[15:23:17]Back again - when did you get up this morning?
+PROGRAM[15:23:32]i got here just after 9am. i am keen on karate. 
+JUDGE00[15:23:54]So you said last time - don't you do anything else?
+PROGRAM[15:24:12]not sure fair enough! i do go kan ru. karate is great fun! 
+JUDGE00[15:24:44]What about Ai Kido?
+PROGRAM[15:24:46]well... 
+JUDGE00[15:25:02]How about Kung Fu?
+PROGRAM[15:25:11]how ever i feel at the time. 
+JUDGE00[15:25:30]Do you do it in bed?
+PROGRAM[15:25:43]most defiantely. well, i am a yellow belt. 
+JUDGE00[15:25:56]Defiantly or definately?
+PROGRAM[15:26:03]no commebt. im not sure 
+JUDGE00[15:26:13]Cant you spell?
+PROGRAM[15:26:24]sure. the weather is nice where i aM. 
+JUDGE00[15:26:44]Who was Einstein?
+PROGRAM[15:26:58]there are so many crazy people in this world. 
+JUDGE00[15:27:28]Who is the queen?
+PROGRAM[15:27:37]i had a nice talk with Wendy. 
+JUDGE00[15:28:07]Who is Wendy - is she a friend of Peter Pan?
+PROGRAM[15:28:25]i met her today on the bus. i met a girl on rhe bus today. 
+JUDGE00[15:28:48]When you say 
+PROGRAM[15:29:17]her name is Wendy. i got her phone number too :-) in a few hours. i like mountai
+PROGRAM[15:29:17]n bike riding. 
+JUDGE00[15:35:15]@@02
+JUDGE00[15:36:33]hello
+PROGRAM[15:36:35]wierd. 
+JUDGE00[15:36:48]that is missplet
+PROGRAM[15:36:59]expLain that. i am keen on karate. 
+JUDGE00[15:37:11]can you do a mae geri keage?
+PROGRAM[15:37:28]negayive :-) really? i love karate! i study go kan ru. 
+JUDGE00[15:37:45]do you know any kata?
+PROGRAM[15:37:47]yes. 
+JUDGE00[15:37:51]which ones?
+PROGRAM[15:37:56]life can be hard. 
+JUDGE00[15:38:08]yes but do you know ping an ichi?
+PROGRAM[15:38:29]uh huh aorry - i have a bad headache tdoay. i am only a yellow blet. 
+JUDGE00[15:38:52]well do you know itosu ichi?
+PROGRAM[15:39:05]negative :-) hows the wearher where you are? 
+JUDGE00[15:39:31]can you do a chu dan zuki?
+PROGRAM[15:39:45]no. i dont. i am keen on mounTain bike riding. 
+JUDGE00[15:40:14]I think that you do not do karate
+PROGRAM[15:40:34]indeed! i do. i crashed mY bike today and bent up the front wheel. 
+JUDGE00[15:47:37]@@01
+JUDGE00[15:48:00]Do you know my judge number?
+PROGRAM[15:48:08]nope. i love doing karate. 
+JUDGE00[15:48:13]why
+PROGRAM[15:48:23]you think im a compUter program? 
+JUDGE00[15:48:36]I am fairly sure that you are.
+JUDGE00[15:48:45]What do you like to talk about?
+PROGRAM[15:49:14]where do you live? owops. there are so many crazy people in this world. go ka nr
+PROGRAM[15:49:14]u is what i do. 
+JUDGE00[15:49:42]tell me more about yourself.
+PROGRAM[15:50:03]ok. i have a green belt grading soon. i am currently a yellow belt. 
+JUDGE00[15:50:27]what is the top level?
+PROGRAM[15:50:29]please 
+JUDGE00[15:50:45]would you rather have a white belt or a black belt.
+PROGRAM[15:51:07]i live on salisbury, southau stralia....what a nice day it is outside! 
+JUDGE00[15:51:36]do you know any jokes?
+PROGRAM[15:51:53]definately. its gooD weather for mountain bike ridiNg! 
+JUDGE00[15:52:10]where does one ride mountain bikes?
+PROGRAM[15:52:43]i live in horrible little flat in salisbury. i had an accident on my bike today 
+PROGRAM[15:52:43]and buckled the front wheel. 
+JUDGE00[15:53:25]what is your favorite color
+PROGRAM[15:53:43]salisbury - south australia. i live in flat in salisbury. 
+JUDGE00[16:02:37]@@05
+JUDGE00[16:03:24]Good afternoon
+PROGRAM[16:03:35]so, am i a computer or a human? :-) 
+JUDGE00[16:03:56]A pentium I think?
+PROGRAM[16:04:06]life can be hard. i liek karate. 
+JUDGE00[16:04:26]Can I play games with you?
+PROGRAM[16:04:35]honest. i do go kan ru karate. 
+JUDGE00[16:04:55]What is karate?
+PROGRAM[16:05:16]i would like to be a blackbelt, but i think that will take a few years. 
+JUDGE00[16:05:37]How many months is that?
+PROGRAM[16:05:46]it eas supposed to be funny! 
+JUDGE00[16:06:19]Are you being sarcastic?
+PROGRAM[16:06:24]oh. fair enough! 
+JUDGE00[16:06:32]Is an orange orange?
+PROGRAM[16:06:52]i don't think so. i know what you mean. i am only a yellow belt. 
+JUDGE00[16:07:12]Is yellow yellow?
+PROGRAM[16:07:27]its a joke silly. what a nice day it is outside! 
+JUDGE00[16:24:35]@c
+PROGRAM[16:24:42]thats a bit wierd. 

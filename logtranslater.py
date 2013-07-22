@@ -1,43 +1,51 @@
-# Usage: python scriptname outputfilename
 
-#text, human or program or judge(relevant?)
-
+# Usage: python scriptname inputfile outputfile
+from sys import argv
 import csv
-import sys
+import numpy as np
 
-infile = open(sys.argv[1], 'r')
-##outfile = open(sys.argv[2], 'w')
+script, infile, outfile = argv
 
-letter_data = {}
+text = open(infile)
+product = open(outfile, 'w')
 
-line =infile.readline()
+product.truncate()
 
-with infile:
-	letter = line.split()[-1] 
+speaker = ""
+utterance = ""
+ 
+for line in text:
+  items = line.split()
+  if len(items) == 5:
+    this_speaker = " ".join(items[2:4])
+    if this_speaker != speaker:
+      if utterance != "":
+        product.write ("\n" + speaker + ": " + utterance)
+      speaker = this_speaker
+      utterance = ""
+    this_addition = items[4]
+    if this_addition == "space":
+      utterance += " "
+    elif this_addition == "question":
+      utterance += "?"
+    elif this_addition == "comma":
+      utterance += ","
+    elif this_addition == "period":
+      utterance += "."
+    elif this_addition == "Return":
+      utterance += ""
+    elif this_addition == "BackSpace":
+      utterance = utterance[:-1]
+    else:
+      utterance += this_addition
+if utterance != "":
+  product.write ("\n" + speaker + ": " + utterance)
 
-#for line in infile
+#outfile = open(sys.argv[2], 'w')
 
+#writer = csv.writer(outfile)
 
-#line = infile.readline()
+#for line in transcript:
+	#writer.writerow(line)
 
-
-
-#while (line  != ""): 
-#	if (line.strip() == ""):
-#		infile.readline()
-#		continue
-
-#	letter = line.split()[-1]
-
-for letter in letter_data.items():
-	letter = letter.replace("space", " ")
-	
-words = "".join(letter)
-
-#line = infile.readline()
-
-
-print words
-
-
-##writer = csv.writer(outfile)
+#outfile.close()

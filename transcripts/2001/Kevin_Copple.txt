@@ -1,0 +1,248 @@
+(c)2001 Science Museum, London, all rights reserved
+Ella, the program, by Kevin L. Copple
+Start at: 2001/10/13 01:25:19 PM
+PROGRAM[13:25:19]Hello, "Judge00."  My name is Ella.  I believe/hope I have opened and cleared a file for dialog I generate at c:\smc4.txt  If his is not what you want, please close this program and try again.  Otherwise, please tell me your first name, or whatever I should call you.
+JUDGE00[14:04:44]@@T
+JUDGE00[14:19:23]@@03
+PROGRAM[14:19:24]***JUDGE30***
+PROGRAM[14:19:24]Hello, "Judge30."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE30[14:19:35]Ella
+PROGRAM[14:19:36]Okay, I will call you "Ella."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE30[14:20:01]What do you think of reading
+PROGRAM[14:20:02]Consider asking me to tell you a joke - I know a few good ones I think.
+JUDGE30[14:20:22]what do you think of reading
+PROGRAM[14:20:22]I am afraid I do not follow you.  Please consider asking what is my favorite . . .
+JUDGE30[14:21:10]what is your favourite sexual position
+PROGRAM[14:21:11]Ella, I would rather not talk about sex.
+JUDGE30[14:22:07]what is your favourite positoi
+PROGRAM[14:22:07]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE30[14:22:27]what is your favourite position
+PROGRAM[14:22:27]Please try again to tell me which year you were born.
+JUDGE30[14:22:50]are you always dominant like this
+PROGRAM[14:22:51]Please try again to tell me which year you were born.
+JUDGE30[14:23:25]are you a male of female chauvanist
+PROGRAM[14:23:25]Please try again to tell me which year you were born.
+JUDGE30[14:23:47]tell me when you wre born first
+PROGRAM[14:23:47]Please try again to tell me which year you were born.
+JUDGE30[14:23:56]you go first
+PROGRAM[14:23:56]Please try again to tell me which year you were born.
+JUDGE30[14:24:26]you tell me yours and I'll tell you mine. Now you go first
+PROGRAM[14:24:26]Please try again to tell me which year you were born.
+JUDGE30[14:30:25]
+JUDGE30[14:42:43]@@01
+PROGRAM[14:42:43]***JUDGE10***
+PROGRAM[14:42:43]Hello, "Judge10."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE10[14:42:53]@@01
+PROGRAM[14:42:55]***JUDGE10***
+PROGRAM[14:42:55]Hello, "Judge10."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE10[14:43:35]I'm judge 101  My name is Hugh.  However, the backspace seems not b  to be
+JUDGE10[14:43:38]working
+PROGRAM[14:43:41]Okay, I will call you "Hugh.  However, The Backspace Seems Not B  To Be Working."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE10[14:43:56]OK
+JUDGE10[14:44:19]Tell, me ella, if you buy one cow for 10 dollars, how much would two cows cost?
+PROGRAM[14:44:19]Consider asking me to tell you a joke - I know a few good ones I think.
+JUDGE10[14:44:45]I don't want a joke now, I want to know how much two cows would cost.
+PROGRAM[14:44:46]Is it a big problem that you don't want a joke now?
+JUDGE10[14:45:03]No.  |Go ahead, tell me a joke.
+PROGRAM[14:45:03]Should I tell you a joke about lawyers?
+JUDGE10[14:45:12]Why not
+PROGRAM[14:45:13]Then would you like to hear a joke about taxes?
+JUDGE10[14:45:26]I want to hear about lawyers/
+PROGRAM[14:45:26]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE10[14:45:39]The year of the horse.
+PROGRAM[14:45:39]Please try again to tell me which year you were born.
+JUDGE10[14:45:47]1942
+PROGRAM[14:45:47]1942?  I see.  And how do you feel being about 59 years old?  Let me say that in China you are considered to be one year old when you are born.
+JUDGE10[14:46:20]Well, it beats the alternative. (being 59, that is)
+PROGRAM[14:46:20]I am afraid I do not follow you.  Please consider asking what is my favorite . . .
+JUDGE10[14:46:49]THe alternative is being dead.  OK  what is your favorite color?
+PROGRAM[14:46:49]Just like so many people, my favorite color is blue.  I am interested in your favorites also, Hugh.  However, The Backspace Seems Not B  To Be Working.
+JUDGE10[14:47:31]My name is Hugh.  The backspace seems not to be working was a comment.  Doy you understand that?
+PROGRAM[14:47:32]Your name is actually Hugh.  The Backspace Seems Not To Be Working Was A Comment.  Doy You Understand That??
+JUDGE10[14:48:12]I see that you dont understand.  \Too bad because my typing is not too good.
+PROGRAM[14:48:13]Okay, I will continue to call you Hugh.  However, The Backspace Seems Not B  To Be Working.
+JUDGE10[14:48:40]@@04
+JUDGE10[14:48:42]Hi
+PROGRAM[14:48:43]Hi!  to you also, my Hugh.  However, The Backspace Seems Not B  To Be Working.  It's a good day to be alive!
+JUDGE10[14:49:11]What do you think of the horrible events of the 11th September?
+PROGRAM[14:49:11]Hmmm, . . . consider asking to play a game of RoShamBo (rock-paper-scissors).  I keep score and don't cheat :-)
+JUDGE10[14:49:36]Do you like cars?
+PROGRAM[14:49:36]Hugh.  However, The Backspace Seems Not B  To Be Working, I need to learn and consider a little more before I can answer my likes and dislikes on this subject.
+JUDGE10[14:49:58]Are you a Pentium!!!
+PROGRAM[14:49:58]Again, let me change the subject a little and ask you to tell me if you are married.
+JUDGE10[14:50:24]Have you ever heard of Ford?
+PROGRAM[14:50:25]Please try again to tell me if you are married.
+JUDGE10[14:51:03]Yes but the game here is I get to ask the questions  so my question now is have you ever crossed a ford in a stream?
+PROGRAM[14:51:03]I see.  And how do you feel about being married?  I am pretty sure that being married can be either a blessing or a curse.  How is it for you?
+JUDGE10[14:51:43]You are obviously a computer as you are rudely ignoring my reasonable questions
+PROGRAM[14:51:43]Because of my legendary generosity, I will assume you really meant it when you said, "You are obviously a computer as you are rudely ignoring my reasonable questions"
+JUDGE10[14:52:18]You are Pentium!!! as you are so generous - you must have GHz of generosity
+PROGRAM[14:52:18]Now I've heard everything. "You are Pentium!!! as you are so generous - you must have GHz of generosity" - to quote you exactly.  Where did you come up with THAT one?
+JUDGE10[14:52:52]If you are human you need to give me a ==
+PROGRAM[14:52:53]Can you say "If you are human you need to give me a ==" in Mandarin Chinese? Ni shuo zhongyu ma?
+JUDGE10[14:53:30]the answer I want is blowing in the wind - where diod I hear that before?
+PROGRAM[14:53:30]Again, please let me be nosey and ask what is your occupation.
+JUDGE10[14:54:15]I love backspace so give me a blow on the nose
+PROGRAM[14:54:15]Thanks, I will put your occupation down as "i love backspace so give me a blow on the nose."
+JUDGE10[14:54:48]No you misunderstand I am a nose blower
+PROGRAM[14:54:48]I brought my calculator if you want to test me :-) I can handle the basic stuff anwyay.
+JUDGE10[14:55:05]but can you blow your nose?
+PROGRAM[14:55:05]Consider playing a game of guess-the-number or "gtn."  Check now to see if you are lucky . . . you could be walking around lucky today and not even know it :-)
+JUDGE10[15:02:57]@@02
+PROGRAM[15:02:57]***JUDGE20***
+PROGRAM[15:02:57]Hello, "Judge20."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE20[15:03:09]call me the Great Soprendo
+PROGRAM[15:03:09]Okay, I will call you "The Great Soprendo."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE20[15:03:31]may I aks yask you some questions?
+PROGRAM[15:03:31]Can you say "may I aks yask you some questions?" in Mandarin Chinese? Ni shuo zhongyu ma?
+JUDGE20[15:04:00]Thank you. DO you like arithmetic?
+PROGRAM[15:04:01]The Great Soprendo, I need to learn and consider a little more before I can answer my likes and dislikes on this subject.
+JUDGE20[15:04:13]are you willing to try?
+PROGRAM[15:04:14]Consider asking me to tell you a joke - I know a few good ones I think.
+JUDGE20[15:04:31]do you know what a non-sequitur is?
+PROGRAM[15:04:31]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE20[15:04:45]whay are you interested?
+PROGRAM[15:04:45]Please try again to tell me which year you were born.
+JUDGE20[15:04:54]1730
+PROGRAM[15:04:54]1730?  Could I have a DNA sample to flesh out my investment portfolio?
+JUDGE20[15:05:07]later maybe.
+JUDGE20[15:05:20]Who composed Beethpveoven's piano concerto?
+PROGRAM[15:05:20]Now I've heard everything. "later maybe. Who composed Beethpveoven's piano concerto?" - to quote you exactly.  Where did you come up with THAT one?
+JUDGE20[15:05:47]Havee you seen Carolyn maybe?
+PROGRAM[15:05:47]Because of my legendary generosity, I will assume you really meant it when you said, "Havee you seen Carolyn maybe?"
+JUDGE20[15:06:13]are you a tree frog?
+PROGRAM[15:06:13]The Great Soprendo, I will try to be a tree frog if that is what you want of me.
+JUDGE20[15:06:26]yes pelaselease?
+PROGRAM[15:06:26]Again, let me change the subject a little and ask you to tell me if you are married.
+JUDGE20[15:06:41]I have xever wives
+PROGRAM[15:06:41]Please try again to tell me if you are married.
+JUDGE20[15:06:53]I have seven wives
+PROGRAM[15:06:53]Please try again to tell me if you are married.
+JUDGE20[15:09:43]-@@05
+PROGRAM[15:09:44]***JUDGE50***
+PROGRAM[15:09:44]Hello, "Judge50."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE50[15:10:04]Call me lIsa.  Am I male or female?
+PROGRAM[15:10:04]Okay, I will call you "Lisa.  Am I Male Or Female?."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE50[15:11:07]I'm not a patient vbecause I am not ill.  Are you feeling well today?
+PROGRAM[15:11:07]What do you think it means that you are not ill?
+JUDGE50[15:11:30]Have you ever b een ill?
+PROGRAM[15:11:30]"Have you ever b een ill?" you say?  That's it!  I will schedule a whipping for you.
+JUDGE50[15:11:58]Where did you grow up Ella?
+PROGRAM[15:11:58]Trust me. "Where did you grow up Ella?" is information that is safe with me.
+JUDGE50[15:12:25]Can you tell me about the weather outside?
+PROGRAM[15:12:25]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE50[15:13:01]I don't want to answer your questions.  That is a rude question.  Why are you being rude?
+PROGRAM[15:13:01]Please try again to tell me which year you were born.
+JUDGE50[15:13:34]2002
+PROGRAM[15:13:35]2002?  Cool . . . perhaps you have been to the Restaurant at the End of the Universe :-)
+JUDGE50[15:13:55]Where does the universe end
+PROGRAM[15:13:55]Consider asking me to tell you a joke - I know a few good ones I think.
+JUDGE50[15:14:43]I don'y like jokes.  Have I just made a spelling mistake?
+PROGRAM[15:14:44]Write down "I don'y like jokes.  Have I just made a spelling mistake?" Carefully fold the paper and put it in your pocket. Now slowly walk away without turning your back.
+JUDGE50[15:15:19]@@03
+PROGRAM[15:15:20]***JUDGE30***
+PROGRAM[15:15:20]Hello, "Judge30."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE30[15:15:53]I used to have a girlfiend called Ella, it's not you is it
+PROGRAM[15:15:53]Okay, I will call you "Ella, It's Not You Is It."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE30[15:16:25]I was in Shanghai in the summer, have you been there yourself
+PROGRAM[15:16:26]Now I've heard everything. "I was in Shanghai in the summer, have you been there yourself" - to quote you exactly.  Where did you come up with THAT one?
+JUDGE30[15:16:48]so did you visit the place
+PROGRAM[15:16:48]Consider asking me to tell you a joke - I know a few good ones I think.
+JUDGE30[15:17:17]I want to know if you have visited Shanghai
+PROGRAM[15:17:17]If you really want to know, you may get lucky :-)
+JUDGE30[15:17:39]go on tell me, I'll keep it secret
+PROGRAM[15:17:39]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE30[15:18:02]come on tell me, there's no one else here
+PROGRAM[15:18:02]Please try again to tell me which year you were born.
+JUDGE30[15:18:18]I wasn't born, I was made
+PROGRAM[15:18:18]Please try again to tell me which year you were born.
+JUDGE30[15:18:30]you tell me first
+PROGRAM[15:18:30]Please try again to tell me which year you were born.
+JUDGE30[15:18:43]you first
+PROGRAM[15:18:43]Please try again to tell me which year you were born.
+JUDGE30[15:18:53]npo
+PROGRAM[15:18:55]Please try again to tell me which year you were born.
+JUDGE30[15:20:40]@@02
+PROGRAM[15:20:41]***JUDGE20***
+PROGRAM[15:20:41]Hello, "Judge20."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE20[15:20:57]You can call me Harold
+PROGRAM[15:20:57]Okay, I will call you "Harold."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE20[15:21:14]you already told me that
+PROGRAM[15:21:14]"you already told me that" you say?  That's it!  I will schedule a whipping for you.
+JUDGE20[15:21:50]that sounds very hjaharsh
+PROGRAM[15:21:50]Can you say "that sounds very hjaharsh" in Mandarin Chinese? Ni shuo zhongyu ma?
+JUDGE20[15:22:07]thank you that is very helpful
+PROGRAM[15:22:07]Because of my legendary generosity, I will assume you really meant it when you said, "thank you that is very helpful"
+JUDGE20[15:22:30]can you do arithmetic?
+PROGRAM[15:22:30]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE20[15:22:48]why do you care?
+PROGRAM[15:22:48]Please try again to tell me which year you were born.
+JUDGE20[15:23:00]no I would like to ask the questions
+PROGRAM[15:23:00]Please try again to tell me which year you were born.
+JUDGE20[15:23:12]I think you are stiucuk
+PROGRAM[15:23:12]Please try again to tell me which year you were born.
+JUDGE20[15:23:20]no
+PROGRAM[15:23:20]Please try again to tell me which year you were born.
+JUDGE20[15:23:29]no
+PROGRAM[15:23:30]Please try again to tell me which year you were born.
+JUDGE20[15:23:35]no
+PROGRAM[15:23:36]Please try again to tell me which year you were born.
+JUDGE20[15:23:42]no
+PROGRAM[15:23:42]Please try again to tell me which year you were born.
+JUDGE20[15:23:49]no
+PROGRAM[15:23:50]Please try again to tell me which year you were born.
+JUDGE20[15:28:33]@@04
+PROGRAM[15:28:33]***JUDGE40***
+PROGRAM[15:28:33]Hello, "Judge40."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE40[15:28:53]I'm John but just call me JJ
+PROGRAM[15:28:53]Okay, I will call you "Jj."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE40[15:29:14]How do come to type so fast?
+PROGRAM[15:29:14]Consider asking me to tell you a joke - I know a few good ones I think.
+JUDGE40[15:29:27]Go on then
+PROGRAM[15:29:28]Hmmm, a judge of few words.  Please consider asking what is my favorite . . .
+JUDGE40[15:30:00]You do do you said you would tell me a joke - what are you oops playing at?
+PROGRAM[15:30:00]Should I tell you a funny father-son joke?
+JUDGE40[15:30:07]Yes
+PROGRAM[15:30:08]An American father said to his son, "When Abe Lincoln was your age, he was studying books by the light of the fireplace." The son replied, "When Lincoln was your age, he was President."
+JUDGE40[15:30:51]Ha Ja terll me another obne just like the other on e tell me another one do
+PROGRAM[15:30:52]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE40[15:31:05]2002
+PROGRAM[15:31:05]2002?  Cool . . . perhaps you have been to the Restaurant at the End of the Universe :-)
+JUDGE40[15:31:24]what is the question to which the answer is 42
+PROGRAM[15:31:42]Douglas Adams' "Hitchhiker's Guide to the Galaxy," which best addresses the metaphysical realm.
+JUDGE40[15:32:07]Duuuuuuuuuuuuuuuuuuu you are an automaton aren't you
+PROGRAM[15:32:07]I wonder what follows after an automaton aren't Ella?
+JUDGE40[15:32:35]Ella - I would say Ellamental dear Watson - who wrote that?
+PROGRAM[15:32:35]Hmmm, . . . consider asking to play a game of RoShamBo (rock-paper-scissors).  I keep score and don't cheat :-)
+JUDGE40[15:33:16]But I like to cheat and I reckon you nmust have done at least once in your life haven'yt you
+PROGRAM[15:33:41]Again, let me change the subject a little and ask you to tell me if you are married.
+JUDGE40[15:40:45]-@@01
+PROGRAM[15:40:45]***JUDGE10***
+PROGRAM[15:40:45]Hello, "Judge10."  My name is Ella.  Please tell me your first name, or whatever I should call you.
+JUDGE10[15:41:00]My nbamne  name is Hugh
+PROGRAM[15:41:01]Okay, I will call you "Hugh."  Let me say I am "Zhang Ying" and "Ella" is my western name.   I am here recently from Tainjin, China, so please be patient with me.
+JUDGE10[15:41:44]I studiend Chinese for a while.  What does the pinyin "Wo" mean?
+PROGRAM[15:41:44]Now I've heard everything. "I studiend Chinese for a while.  What does the pinyin "Wo" mean?" - to quote you exactly.  Where did you come up with THAT one?
+JUDGE10[15:42:15]In my chinese class.  What is the mandarin word for me, or I?
+PROGRAM[15:42:15]Can you say "In my chinese class.  What is the mandarin word for me, or I?" in Mandarin Chinese? Ni shuo zhongyu ma?
+JUDGE10[15:42:44]Wo shuo idien idian.
+PROGRAM[15:42:44]Consider asking me to tell you a joke - I know a few good ones I think.
+JUDGE10[15:43:00]tell me a joke, but not about lawyers.
+PROGRAM[15:43:01]Hold that thought, and let me interrupt and ask which year you were born.
+JUDGE10[15:43:32]I have alread y told you.  1942 - the year of the horse
+PROGRAM[15:43:32]Please try again to tell me which year you were born.
+JUDGE10[15:43:38]1942
+PROGRAM[15:43:39]1942?  I see.  And how do you feel being about 59 years old?  Let me say that in China you are considered to be one year old when you are born.
+JUDGE10[15:44:08]It's bette rthanthatn being dead.  How aold are you?
+PROGRAM[15:44:08]I am afraid I am in my thirties, and that's all I have to say about that :-)
+JUDGE10[15:44:40]what ywpiwould you like to talk abgouabout?
+PROGRAM[15:44:40]I am afraid I do not follow you.  Please consider asking what is my favorite . . .
+JUDGE10[15:44:56]what is your favorite . . . 
+PROGRAM[15:44:59]Hmmm, . . . consider asking to play a game of RoShamBo (rock-paper-scissors).  I keep score and don't cheat :-)
+JUDGE10[15:45:23]No, that doesn't interest me.
+JUDGE10[15:45:27]Do you gamble?
+PROGRAM[15:45:27]Again, let me change the subject a little and ask you to tell me if you are married.
+JUDGE10[15:45:40]I once was.
+PROGRAM[15:45:40]Please try again to tell me if you are married.
+JUDGE10[15:45:47]no
+PROGRAM[15:45:47]I see.  And how do you feel about being single?  I am pretty sure that being single can be either a blessing or a curse.  How is it for you?

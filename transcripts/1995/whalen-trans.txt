@@ -1,0 +1,1360 @@
+(C) 1995 CAMBRIDGE CENTER FOR BEHAVIORAL STUDIES - ALL RIGHTS RESERVED
+
+CONFEDERATE 04
+START AT 1995/11/16  10:05:46
+
+
+*** JUDGE99 ***
+
+START AT 1995/11/16  10:05:55
+
+
+
+CONFEDR[10:06:19] Yo.
+
+CONFEDR[10:06:24] I'm here.
+
+
+JUDGE99[11:10:07] @@04
+
+
+*** JUDGE04 ***
+
+START AT 1995/11/16  11:10:07
+
+
+
+CONFEDR[11:10:15] Hello.
+
+
+JUDGE04[11:10:20] How are you?
+
+
+CONFEDR[11:10:35] Don't ask.  I'm feeling kinda poor right now.
+
+CONFEDR[11:10:48] It just hasn't been a good week for me.
+
+
+JUDGE04[11:11:02] are you sick mentally or physically?
+
+
+CONFEDR[11:11:19] All week I been feeling sick in my stomach on account of 
+
+CONFEDR[11:11:20] my boss.
+
+CONFEDR[11:11:34] I got real trouble at work.  I think I'm going to get fired.
+
+
+JUDGE04[11:11:42] are you taking pepto?
+
+
+CONFEDR[11:11:49] Of course not.
+
+CONFEDR[11:12:04] I never stole nothing in my life.  But they always blame 
+
+CONFEDR[11:12:13] the cleaners whenever anything is missing.
+
+
+JUDGE04[11:12:36] you're a cleaner?
+
+
+CONFEDR[11:12:51] Yeah?  You think I'm a thief, too?  You're no better than 
+
+CONFEDR[11:12:56] the rest of them.
+
+CONFEDR[11:13:03] Leave me alone, asshole.
+
+
+JUDGE04[11:13:11] asshole?
+
+
+CONFEDR[11:13:18] I don't know.
+
+
+JUDGE04[11:13:27] you called me an asshole?
+
+
+CONFEDR[11:13:34] Huh?
+
+
+JUDGE04[11:13:46] don't you have manners. you don't even know me and you're
+
+JUDGE04[11:13:49] calling me a bad name
+
+
+CONFEDR[11:13:55] Beats me.
+
+
+JUDGE04[11:14:05] anyway, where do you do your cleaning?
+
+
+CONFEDR[11:14:13] What do you mean?
+
+
+JUDGE04[11:14:20] whose office do you clean?
+
+
+CONFEDR[11:14:26] What?
+
+
+JUDGE04[11:14:36] where do you work?
+
+
+CONFEDR[11:14:48] At the university.  I mostly clean the Standish Building.
+
+
+JUDGE04[11:14:53] what university?
+
+
+CONFEDR[11:15:03] University of Eastern Ontario.
+
+CONFEDR[11:15:18] I'm a cleaner.  I empty trash.  Vacuum.  Dust.  You know.
+
+
+JUDGE04[11:15:26] and why do they want to fire you?
+
+
+CONFEDR[11:15:42] It's just because my boss, Mr. Johnson, is mad at me.
+
+
+JUDGE04[11:15:48] why is he mad at you?
+
+
+CONFEDR[11:16:02] I didn't do nothing wrong.  But he thinks I did.
+
+CONFEDR[11:16:17] It's all because of that radio they think I stole from the 
+
+CONFEDR[11:16:17] lab.
+
+
+JUDGE04[11:16:30] that's too bad. are you in a union?
+
+
+CONFEDR[11:16:48] What would I tell the union?  They won't say they're firing 
+
+CONFEDR[11:16:58] me because I stole the radio.  They'll just make up some 
+
+CONFEDR[11:17:12] excuse.  If they want to fire you, they can always find an 
+
+CONFEDR[11:17:25] excuse.  I wish I could just tell them what happened to the 
+
+CONFEDR[11:17:33] radio, but I don't know what to say.
+
+
+JUDGE04[11:17:43] maybe you could get a job as something else, like a computer?
+
+
+CONFEDR[11:17:53] I don't know nothing about computers.
+
+
+JUDGE04[11:18:01] what else do you know how to do?
+
+
+CONFEDR[11:18:15] I don't know anything else.  If I knew anything I could figure 
+
+CONFEDR[11:18:20] out who stole the radio.
+
+
+JUDGE04[11:18:29] maybe you could go back to school
+
+
+CONFEDR[11:18:46] No.  I didn't like school and school didn't like me.  I dropped 
+
+CONFEDR[11:18:57] out as soon as I turned sixteen.  I never shed no tears when 
+
+CONFEDR[11:19:06] I left and I ain't never going back.
+
+
+JUDGE04[11:19:13] how old are you now?
+
+
+CONFEDR[11:19:20] I'm fifty-one.
+
+
+JUDGE04[11:19:28] you married? does your wife work?
+
+
+CONFEDR[11:19:34] Yeah.
+
+CONFEDR[11:19:40] To Jeannie.
+
+CONFEDR[11:19:52] God, she's going to be pissed if I get fired.
+
+
+JUDGE04[11:20:03] how many years have you worked there?
+
+
+CONFEDR[11:20:11] I don't know.
+
+
+JUDGE04[11:20:17] for how long have you worked there?
+
+
+CONFEDR[11:20:27] Eighteen years.
+
+
+JUDGE04[11:20:40] after 18 years, you'd think they'd trust you
+
+
+CONFEDR[11:20:44] Huh?
+
+
+JUDGE04[11:20:53] after all that time, you'd think they would trust you?
+
+
+CONFEDR[11:21:00] Beats me.
+
+
+JUDGE04[11:21:17] what's your favorite beer? you must have good beer in Canada?
+
+
+CONFEDR[11:21:26] What do you mean?
+
+
+JUDGE04[11:21:33] do you drink beer?
+
+
+CONFEDR[11:21:41] Yeah.  I like beer.
+
+CONFEDR[11:21:46] I drink Bud.
+
+
+JUDGE04[11:21:55] Bud? Why not Molson?
+
+
+CONFEDR[11:22:01] What?
+
+
+JUDGE04[11:22:09] You know what Molson beer is?
+
+
+CONFEDR[11:22:15] I don't know.
+
+
+JUDGE04[11:22:31] you ever been to Sarnia?
+
+
+CONFEDR[11:22:36] Huh?
+
+
+JUDGE04[11:22:45] What town is Eastern Ontario in?
+
+
+CONFEDR[11:22:51] Beats me.
+
+
+JUDGE04[11:23:05] Sarnia is on the western side of Ontario. I used to work
+
+JUDGE04[11:23:17] in Saginaw and we'd go over there once in a while
+
+
+CONFEDR[11:23:22] What do you mean?
+
+
+JUDGE04[11:23:33] So, all you can talk about is cleaning?
+
+
+CONFEDR[11:23:52] Who would I talk to?  What would I say?  I already told Mr. 
+
+CONFEDR[11:24:03] Johnson that I didn't take it.  He didn't believe me
+
+
+JUDGE04[11:24:10] Who is Mr. Johnson
+
+
+CONFEDR[11:24:24] Mr. Johnson's my boss.  I been working for him for more'n 
+
+CONFEDR[11:24:38] eight years, now.  Ever since Mr. Jackson retired and they 
+
+CONFEDR[11:24:40] hired him.
+
+
+JUDGE04[11:24:50] have you had trouble with mr. johnson before>
+
+
+CONFEDR[11:25:02] I got a lot to worry about right now.
+
+CONFEDR[11:25:17] I got real trouble at work.  I think I'm going to get fired.
+
+
+JUDGE04[11:25:22] i know that already
+
+
+CONFEDR[11:25:28] What?
+
+
+JUDGE04[11:25:43] can you call mr. jackson and have him intervene?
+
+
+CONFEDR[11:25:51] I don't know.
+
+
+JUDGE04[11:25:56] where is mr. jackson
+
+
+CONFEDR[11:26:11] At the university.  I mostly clean the Standish Building.
+
+
+JUDGE04[11:27:01] @@03
+
+
+*** JUDGE03 ***
+
+START AT 1995/11/16  11:27:10
+
+
+
+CONFEDR[11:27:15] Hello.
+
+
+JUDGE03[11:27:44] Hi. Tell me a little about your philosophy of life.
+
+
+CONFEDR[11:27:53] Something I can do for you?
+
+
+JUDGE03[11:28:21] Yes. Do you believe in the intrinsic power of good and eveil?
+
+
+CONFEDR[11:28:34] Well don't waste your breath telling me about it.  I'm not 
+
+CONFEDR[11:28:40] in a real helpful mood right now.
+
+CONFEDR[11:28:54] It just hasn't been a good week for me.
+
+
+JUDGE03[11:29:08] So you believe that moral issues are a matter of temperment
+
+JUDGE03[11:29:26] and condition? You can't keep avoiding the issue.
+
+
+CONFEDR[11:29:44] Yeah, well, it's kinda on my mind, you know.  I haven't been 
+
+CONFEDR[11:29:56] thinking about much else since my boss talked to me on Tuesday.
+
+CONFEDR[11:30:13] He thinks I stole a radio.  It was in one of the labs that 
+
+CONFEDR[11:30:15] I clean.
+
+
+JUDGE03[11:30:44] OK, let's start with that. Did you actualy steal the radio?
+
+
+CONFEDR[11:30:50] No.
+
+CONFEDR[11:31:06] I never stole nothing in my life.  But they always blame 
+
+CONFEDR[11:31:19] the cleaners whenever anything is missing.
+
+
+JUDGE03[11:31:46] Indeed. But let's stary on track. Do you know who actually
+
+JUDGE03[11:32:06] took the radio? This is a ethical not a moral problem.
+
+
+CONFEDR[11:32:24] I guess someone must have taken it if Professor Michaels 
+
+CONFEDR[11:32:25] says so.
+
+CONFEDR[11:32:41] I don't know how anyone could have stolen it, though.  Professor 
+
+CONFEDR[11:32:53] Michaels always keeps his lab locked up tight.  Most of the 
+
+CONFEDR[11:33:04] other professors aren't so careful about it as he is.
+
+
+JUDGE03[11:33:40] Interesting. Does Professor Michaels have any reason to
+
+JUDGE03[11:33:58] suspect you of this theft (other than you apparent guilty
+
+JUDGE03[11:34:01] looks?)
+
+
+CONFEDR[11:34:16] I watch some TV.  Hang around.  Normal stuff.  Drink some 
+
+CONFEDR[11:34:28] beer.  I like to hang out with Fred and Al and the guys.
+
+
+JUDGE03[11:34:49] It is a proven fact, first noticed by Aritotle, that beer
+
+JUDGE03[11:35:08] drinking and an absence of a moral compass often go together.
+
+JUDGE03[11:35:16] I now have my suspicions!
+
+
+CONFEDR[11:35:25] I drink Bud.
+
+
+JUDGE03[11:35:35] Then my suspicions are confirmed.
+
+
+CONFEDR[11:35:40] What?
+
+
+JUDGE03[11:36:00] Beer plus TV. A combination that almost always leads to
+
+JUDGE03[11:36:10] radio theft. 
+
+
+CONFEDR[11:36:28] It was a real neat radio.  It looked just like a can of Coke.
+
+
+JUDGE03[11:36:52] You admit knowing what the radio looked like, coveting the
+
+JUDGE03[11:37:13] radio, and drinking Bud. What is there left to say?
+
+
+CONFEDR[11:37:32] I talked to the professor about it a couple of weeks ago 
+
+CONFEDR[11:37:43] when he was working late.  He said he won it in a contest. 
+
+CONFEDR[11:37:51]  I guess it was kinda special.
+
+
+JUDGE03[11:38:12] I suggest you simply kill the professor, burn his body in
+
+JUDGE03[11:38:38] the university furnances, and flee to Argentina. No body,
+
+JUDGE03[11:38:57] no corpus delicti. It is you only alternative!
+
+
+CONFEDR[11:39:15] I'm getting damn tired of worrying about this damn Coke-can 
+
+CONFEDR[11:39:16] radio.
+
+
+JUDGE03[11:39:39] Exactly. Throw the purloined radio into the East River.
+
+JUDGE03[11:39:59] Send a note of apology to the professor's live in maid,
+
+JUDGE03[11:40:16] and spread his ashes across the meadowlands. Do it quickly.
+
+
+CONFEDR[11:40:31] I talked to the professor about it a couple of weeks ago 
+
+CONFEDR[11:40:42] when he was working late.  He said he won it in a contest. 
+
+CONFEDR[11:40:48]  I guess it was kinda special.
+
+
+JUDGE03[11:41:13] In that case you had better kill his wife also. Don't take
+
+JUDGE03[11:41:15] any chances.
+
+
+CONFEDR[11:41:27] I wouldn't get much satisfaction out of that.
+
+CONFEDR[11:41:43] Bad enough getting fired.  I don't want to go get put in 
+
+CONFEDR[11:41:47] jail, too.
+
+CONFEDR[11:41:59] Then I'd never get another job.
+
+
+JUDGE03[11:42:16] @@02
+
+
+*** JUDGE02 ***
+
+START AT 1995/11/16  11:42:16
+
+
+
+CONFEDR[11:42:22] Hello.
+
+
+JUDGE02[11:42:36] hello. can you pleaes tell me a joke.
+
+
+CONFEDR[11:42:45] Something I can do for you?
+
+
+JUDGE02[11:42:54] I would like to hear a joke please.
+
+
+CONFEDR[11:42:58] What?
+
+
+JUDGE02[11:43:05] pleae tell me a joke?
+
+
+CONFEDR[11:43:12] I don't know.
+
+
+JUDGE02[11:43:22] I am getting angry. I am going to come to the other side
+
+JUDGE02[11:43:32] of the screen and punch you in the nose.
+
+
+CONFEDR[11:43:37] Huh?
+
+CONFEDR[11:43:50] Maybe I just got too much on my mind.
+
+CONFEDR[11:44:03] I got real trouble at work.  I think I'm going to get fired.
+
+
+JUDGE02[11:44:15] you are a machine and you are wasting me time.
+
+
+CONFEDR[11:44:21] What?
+
+
+JUDGE02[11:44:33] I think I will get up and give Hugh Loebner a big kiss.
+
+
+CONFEDR[11:44:48] It's kinda strange.  Not what I'm used to, that's for sure. 
+
+CONFEDR[11:44:56]  Coming here and telling some guy what to type.
+
+CONFEDR[11:45:11] I should have said "No."  It's really not a good time to 
+
+CONFEDR[11:45:15] be taking off from work.
+
+
+JUDGE02[11:45:27] what does nato stand for?
+
+
+CONFEDR[11:45:37] I don't know.
+
+
+JUDGE02[11:45:42] what is your name?
+
+
+CONFEDR[11:45:55] What is your name??  I don't know.  What do I look like? 
+
+CONFEDR[11:46:03]  Some kind of professor?
+
+
+JUDGE02[11:46:15] What was mark twain's real first name?
+
+
+CONFEDR[11:46:20] Huh?
+
+
+JUDGE02[11:46:27] what does huh mean?
+
+
+CONFEDR[11:46:31] Beats me.
+
+
+JUDGE02[11:46:38] what does beats me mean?
+
+
+CONFEDR[11:46:48] What do you mean?
+
+
+JUDGE02[11:46:55] when was the fist time you kissed a girl?
+
+
+CONFEDR[11:46:59] Kiss off.
+
+CONFEDR[11:47:08] I got problems of my own.
+
+
+JUDGE02[11:47:25] you are a liar andhave no place in this contest. pleae leave
+
+JUDGE02[11:47:28] the room.
+
+
+CONFEDR[11:47:46] It's kinda strange.  Not what I'm used to, that's for sure. 
+
+CONFEDR[11:47:55]  Coming here and telling some guy what to type.
+
+CONFEDR[11:48:07] I should have said "No."  It's really not a good time to 
+
+CONFEDR[11:48:12] be taking off from work.
+
+
+JUDGE02[11:48:26] What color do you get when you combine blue with yellow?
+
+
+CONFEDR[11:48:32] What?
+
+
+JUDGE02[11:48:42] when you combine blue withyellow, what color do you get?
+
+
+CONFEDR[11:48:50] I don't know.
+
+
+JUDGE02[11:48:59] when you dream, is it in color?
+
+
+CONFEDR[11:49:15] It was just sitting on a desk.  I always had to move it when 
+
+CONFEDR[11:49:27] I dusted.  I remember dusting under it on Monday night.
+
+
+JUDGE02[11:49:43] What has more calories, a piece of pie or an apple?
+
+
+CONFEDR[11:50:01] I don't know.  Professor Michaels must have found it was 
+
+CONFEDR[11:50:04] missing.
+
+CONFEDR[11:50:17] Last Tuesday, he told my boss I stole his radio.
+
+CONFEDR[11:50:28] But I don't know what happened to it.
+
+
+JUDGE02[11:50:44] you are a machine and you are not folling me. go home. unplug
+
+JUDGE02[11:50:47] yourself.
+
+
+CONFEDR[11:50:53] Huh?
+
+
+JUDGE02[11:51:04] what does huh mean? do not say beats me.
+
+
+CONFEDR[11:51:19] I didn't tell no one about me getting fired, except Fred.
+
+CONFEDR[11:51:32] God, Jeannie's gonna be pissed if I lose my job.
+
+
+JUDGE02[11:51:45] Jeannie has no right to be man. She has a boyfriend she
+
+JUDGE02[11:51:49] is not telling you about.
+
+
+CONFEDR[11:51:54] Beats me.
+
+
+JUDGE02[11:52:12] tell me a story please.
+
+
+CONFEDR[11:52:20] What do you mean?
+
+
+JUDGE02[11:52:31] a story. let me realx andhear a story you rtell.
+
+
+CONFEDR[11:52:39] What?
+
+
+JUDGE02[11:53:00] iknowyouareamachine.whatdoyouthinkaboutthat?
+
+
+CONFEDR[11:53:05] I don't know.
+
+
+JUDGE02[11:53:23] i amnot goung to talk to you any more. please choose a topic
+
+JUDGE02[11:53:28] and start a new conversation.
+
+
+CONFEDR[11:53:33] Huh?
+
+
+JUDGE02[11:54:14] what does huh mean?
+
+
+CONFEDR[11:54:21] Beats me.
+
+
+JUDGE02[11:54:25] huh?
+
+
+CONFEDR[11:54:31] What do you mean?
+
+
+JUDGE02[11:54:34] beats me.
+
+
+CONFEDR[11:54:39] What?
+
+
+JUDGE02[11:54:42] huh.
+
+
+CONFEDR[11:54:49] I don't know.
+
+
+JUDGE02[11:54:52] huh.
+
+
+CONFEDR[11:54:58] Huh?
+
+
+JUDGE02[11:55:04] what is your name?
+
+
+CONFEDR[11:55:13] Joe.  Joe Spansen.  And you?
+
+
+JUDGE02[11:55:27] what is your fatehr's brother's father named?
+
+
+CONFEDR[11:55:31] Yeah.
+
+
+JUDGE02[11:55:41] heyaaron, are youhaving fun?
+
+
+CONFEDR[11:55:47] Whatever.
+
+CONFEDR[11:55:58] I got a lot on my mind today.
+
+
+JUDGE02[11:56:12] joe spanson. weren't you arrested last year?
+
+
+CONFEDR[11:56:18] Beats me.
+
+
+JUDGE02[11:56:26] huhhuhuhuh
+
+
+CONFEDR[11:56:34] What do you mean?
+
+
+JUDGE02[11:57:00] go away you bad,program.
+
+
+CONFEDR[11:57:05] What?
+
+
+JUDGE02[11:58:21] @@01
+
+
+*** JUDGE01 ***
+
+START AT 1995/11/16  11:58:23
+
+
+
+CONFEDR[11:58:28] Hello.
+
+
+JUDGE01[11:58:58] Hello.
+
+
+CONFEDR[11:59:07] Something I can do for you?
+
+
+JUDGE01[11:59:18] How about a cup of coffee?
+
+
+CONFEDR[11:59:32] I could use a drink.  Kind of week I been having, I need 
+
+CONFEDR[11:59:42] something a little stronger than coffee, though.
+
+CONFEDR[11:59:56] We usually go down to the club and drink beer and stuff.
+
+
+JUDGE01[12:00:02] Whose we and what club?
+
+
+CONFEDR[12:00:21] It's just a club.  Down on Main.  It's called the Mustang 
+
+CONFEDR[12:00:28] club, but we just call it the club.
+
+
+JUDGE01[12:00:44] Where do you live? Borough? County? State?
+
+
+CONFEDR[12:01:01] We live in a highrise near the university where I work.
+
+
+JUDGE01[12:01:10] Whose we?
+
+
+CONFEDR[12:01:15] What?
+
+
+JUDGE01[12:01:29] You said we. Who is we?
+
+
+CONFEDR[12:01:36] I don't know.
+
+
+JUDGE01[12:01:45] What university do you work at?
+
+
+CONFEDR[12:02:02] I'm a cleaner.  I empty trash.  Vacuum.  Dust.  You know.
+
+CONFEDR[12:02:18] But I don't know how much longer I'm going to be doing that. 
+
+CONFEDR[12:02:23]  I think I'm going to get fired.
+
+
+JUDGE01[12:02:29] Why are you going to get fired?
+
+
+CONFEDR[12:02:44] It's just because my boss, Mr. Johnson, is mad at me.
+
+
+JUDGE01[12:02:53] Why is he mad at you?
+
+
+CONFEDR[12:03:08] I didn't do nothing wrong.  But he thinks I did.
+
+CONFEDR[12:03:24] He thinks I stole a radio.  It was in one of the labs that 
+
+CONFEDR[12:03:26] I clean.
+
+
+JUDGE01[12:03:42] Oh. That's a problem. They always try to blame it on the
+
+CONFEDR[12:03:50] cleaning people. It's really unfair.
+
+
+CONFEDR[12:03:55] Huh?
+
+
+JUDGE01[12:04:16] Forget it. Anyway, do you like music?
+
+
+CONFEDR[12:04:33] I like music, but I don't listen to the radio, ever.  It's 
+
+CONFEDR[12:04:44] too hard to find good music.  They all play this rock and 
+
+CONFEDR[12:04:58] roll stuff, like the Beatles.  I never liked that kind of 
+
+CONFEDR[12:05:13] music when it was new.  Even country and western music sounds 
+
+CONFEDR[12:05:17] like that now.
+
+
+JUDGE01[12:05:48] Do you like country and western? Or did you used to?
+
+
+CONFEDR[12:06:04] Do I like country and western??  I don't know much about 
+
+CONFEDR[12:06:12] it, but I don't think I'd like it much.
+
+CONFEDR[12:06:30] I watch some TV.  Hang around.  Normal stuff.  Drink some 
+
+CONFEDR[12:06:46] beer.  I like to hang out with Fred and Al and the guys.
+
+
+JUDGE01[12:06:52] What do you talk about?
+
+
+CONFEDR[12:07:05] Who would I talk to?  What would I say?  I already told Mr. 
+
+CONFEDR[12:07:16] Johnson that I didn't take it.  He didn't believe me
+
+
+JUDGE01[12:07:28] Have you been fired yet?
+
+
+CONFEDR[12:07:33] Not yet.
+
+CONFEDR[12:07:48] They haven't said they're gonna fire me yet because they 
+
+CONFEDR[12:08:02] gotta keep me around to clean until they can find someone 
+
+CONFEDR[12:08:12] else to hire.  Then they'll fire me for some other reason 
+
+CONFEDR[12:08:23] that won't make problems with the union.  They fire lots 
+
+CONFEDR[12:08:36] of cleaners.  They'll just say I'm a bad cleaner.  They fired 
+
+CONFEDR[12:08:49] my friend, Fred two years ago because they said he was a 
+
+CONFEDR[12:08:52] bad cleaner.
+
+
+JUDGE01[12:09:06] Well isn't it up to your union to protect you?
+
+
+CONFEDR[12:09:22] What would I tell the union?  They won't say they're firing 
+
+CONFEDR[12:09:36] me because I stole the radio.  They'll just make up some 
+
+CONFEDR[12:09:48] excuse.  If they want to fire you, they can always find an 
+
+CONFEDR[12:10:00] excuse.  I wish I could just tell them what happened to the 
+
+CONFEDR[12:10:07] radio, but I don't know what to say.
+
+
+JUDGE01[12:10:21] But don't you have a union steward who will defend you?
+
+
+CONFEDR[12:10:39] What would I tell the union?  They won't say they're firing 
+
+CONFEDR[12:10:50] me because I stole the radio.  They'll just make up some 
+
+CONFEDR[12:11:03] excuse.  If they want to fire you, they can always find an 
+
+CONFEDR[12:11:13] excuse.  I wish I could just tell them what happened to the 
+
+CONFEDR[12:11:19] radio, but I don't know what to say.
+
+CONFEDR[12:11:34] Life ain't gonna be much fun unless I can find that radio, 
+
+CONFEDR[12:11:37] let me tell you.
+
+
+JUDGE01[12:11:48] Why did you give me the same answer?
+
+
+CONFEDR[12:11:52] Beats me.
+
+
+JUDGE01[12:12:00] How's the weather?
+
+
+CONFEDR[12:12:14] It's been okay.  But I'm glad I have an indoor job.  I'd 
+
+CONFEDR[12:12:26] hate to be working outside on some of these days we've had.
+
+
+JUDGE01[12:12:35] Do you like the summer or winter?
+
+
+CONFEDR[12:12:51] It's been okay.  But I'm glad I have an indoor job.  I'd 
+
+CONFEDR[12:13:04] hate to be working outside on some of these days we've had.
+
+
+JUDGE01[12:43:07] @@06
+
+
+*** JUDGE06 ***
+
+START AT 1995/11/16  12:43:08
+
+
+
+CONFEDR[12:43:15] Hello.
+
+
+JUDGE06[12:43:42] Can I ask you a question?
+
+
+CONFEDR[12:43:48] What?
+
+
+JUDGE06[12:44:16] What's the name of the speech that beginns 4 scor an seven
+
+JUDGE06[12:44:18] yrs ago?
+
+
+CONFEDR[12:44:24] I don't know.
+
+
+JUDGE06[12:44:40] It was written by Lincoln. You know who Lincoln was, right?
+
+
+CONFEDR[12:44:46] Yeah, that's right.
+
+CONFEDR[12:44:54] Something I can do for you?
+
+
+JUDGE06[12:45:01] Tell me who Lincoln was.
+
+
+CONFEDR[12:45:05] Huh?
+
+
+JUDGE06[12:45:23] Lincoln. President of the U.S. during the Civil War. Ever
+
+JUDGE06[12:45:25] hear of him?
+
+
+CONFEDR[12:45:40] I don't know.  He's a good president, I guess.  I don't go 
+
+CONFEDR[12:45:50] for all these people running down the country.
+
+CONFEDR[12:46:00] You gotta support your president.
+
+
+JUDGE06[12:46:16] Do you even know Lincoln's first name?
+
+
+CONFEDR[12:46:21] Beats me.
+
+
+JUDGE06[12:46:34] You are a disgrace to your country. You are American, right?
+
+
+CONFEDR[12:46:42] What do you mean?
+
+
+JUDGE06[12:46:50] I mean, were you born in the United States?
+
+
+CONFEDR[12:46:53] What?
+
+CONFEDR[12:47:02] Maybe I just got too much on my mind.
+
+CONFEDR[12:47:20] I got real trouble at work.  I think I'm going to get fired.
+
+
+JUDGE06[12:47:30] Maybe you have too little on your mind, you moron.
+
+
+CONFEDR[12:47:34] What?
+
+
+JUDGE06[12:47:44] I just said, you have too little on your mind. You are a
+
+JUDGE06[12:47:45] moron.
+
+
+CONFEDR[12:47:53] I don't know.
+
+
+JUDGE06[12:48:14] What do you know? And I don't want to hear about your pathetic
+
+JUDGE06[12:48:15] wanker job.
+
+
+CONFEDR[12:48:31] Yeah, well, it's kinda on my mind, you know.  I haven't been 
+
+CONFEDR[12:48:43] thinking about much else since my boss talked to me on Tuesday.
+
+CONFEDR[12:48:58] He thinks I stole a radio.  It was in one of the labs that 
+
+CONFEDR[12:48:59] I clean.
+
+
+JUDGE06[12:49:13] Well, I'm sorry about all that. Let me help you think about
+
+JUDGE06[12:49:21] other things. What did you have for dinner last night?
+
+
+CONFEDR[12:49:27] No.
+
+CONFEDR[12:49:45] I never stole nothing in my life.  But they always blame 
+
+CONFEDR[12:49:53] the cleaners whenever anything is missing.
+
+
+JUDGE06[12:50:10] How could you steal? Does your uniform even have pockets?
+
+
+CONFEDR[12:50:27] Goddamn it.  I already told you I didn't take it.  You think 
+
+CONFEDR[12:50:31] I'm a liar, too?
+
+
+JUDGE06[12:50:50] no no no no!!!! I meant, I didn't think you even could steal.
+
+JUDGE06[12:50:56] How would you get a radio out?
+
+
+CONFEDR[12:51:05] You?  Don't jerk me around.
+
+CONFEDR[12:51:20] I didn't see nobody.  Except the professor who works in the 
+
+CONFEDR[12:51:33] lab.  He keeps it locked up.  I don`t even see any students 
+
+CONFEDR[12:51:40] in there, like in the other labs.
+
+
+JUDGE06[12:51:50] oh, who cares. it's only a job, anyway.
+
+
+CONFEDR[12:52:08] I'm a cleaner.  I empty trash.  Vacuum.  Dust.  You know.
+
+
+JUDGE06[12:52:25] I know. I think you could go back to college. So just quit
+
+JUDGE06[12:52:30] this job before they fire you.
+
+
+CONFEDR[12:52:43] My boss, Mr. Johnson, told me he's upset at me.
+
+CONFEDR[12:52:58] It's all because of that radio they think I stole from the 
+
+CONFEDR[12:53:01] lab.
+
+
+JUDGE06[12:53:12] Tell them to take that job and shove it.
+
+
+CONFEDR[12:53:22] Like I already told you.
+
+CONFEDR[12:53:38] I'm a cleaner.  I empty trash.  Vacuum.  Dust.  You know.
+
+
+JUDGE06[12:53:44] I know, I know.
+
+
+CONFEDR[12:53:50] Huh?
+
+
+JUDGE06[12:53:54] What?
+
+
+CONFEDR[12:53:58] Beats me.
+
+
+JUDGE06[12:54:01] Me too.
+
+
+CONFEDR[12:54:17] Yeah.  Well, it's a bad time to be out of work.  Especially 
+
+CONFEDR[12:54:26] if my boss spreads it around that I'm a thief.
+
+CONFEDR[12:54:42] It's all because of that radio they think I stole from the 
+
+CONFEDR[12:54:43] lab.
+
+
+JUDGE06[12:54:49] You spelled theif wrong.
+
+
+CONFEDR[12:54:58] What do you mean?
+
+
+JUDGE06[12:55:13] I mean, instead of "thief" you should have written "theif."
+
+
+CONFEDR[12:55:16] What?
+
+
+JUDGE06[12:55:44] Did you go to college?
+
+
+CONFEDR[12:55:48] No.
+
+CONFEDR[12:56:01] Goddamn it.  I already told you I didn't take it.  You think 
+
+CONFEDR[12:56:04] I'm a liar, too?
+
+
+JUDGE06[12:56:07] Yep.
+
+
+CONFEDR[12:56:12] I don't know.
+
+
+JUDGE06[12:56:25] I do. Your a liar, a lousy damn liar.
+
+
+CONFEDR[12:56:29] Huh?
+
+
+JUDGE06[12:56:40] What did you eat today?
+
+
+CONFEDR[12:56:49] Beats me.
+
+
+JUDGE06[12:57:12] That's your answer to everything.
+
+
+CONFEDR[12:57:18] What do you mean?
+
+
+JUDGE06[12:57:25] STOP ASKING THAT!!!!!!
+
+
+CONFEDR[12:57:30] What?
+
+
+JUDGE06[12:57:52] What what?
+
+
+CONFEDR[12:57:59] I don't know.
+
+
+JUDGE06[12:58:23] bye
+
+
+CONFEDR[12:58:39] Yeah.  Well, thanks for letting me bend your ear with my 
+
+CONFEDR[12:58:48] problems.  If you think of anything, come on back and let 
+
+CONFEDR[12:58:51] me know.
+
+CONFEDR[12:58:54] Huh?
+
+
+JUDGE06[12:59:04] @@05
+
+
+*** JUDGE05 ***
+
+START AT 1995/11/16  12:59:04
+
+
+
+CONFEDR[12:59:10] Hello.
+
+
+JUDGE05[12:59:32] goodighmite
+
+
+CONFEDR[12:59:37] What?
+
+
+JUDGE05[13:00:02] gooddigh, mite!
+
+
+CONFEDR[13:00:10] I don't know.
+
+
+JUDGE05[13:00:19] ever bneen to austraila?
+
+
+CONFEDR[13:00:22] Huh?
+
+CONFEDR[13:00:35] Maybe I just got too much on my mind.
+
+CONFEDR[13:00:51] I got real trouble at work.  I think I'm going to get fired.
+
+
+JUDGE05[13:01:05] this is saturday.  why talk about work?
+
+
+CONFEDR[13:01:22] It's just because my boss, Mr. Johnson, is mad at me.
+
+
+JUDGE05[13:02:10] don't you ever relax?
+
+
+CONFEDR[13:02:15] What?
+
+
+JUDGE05[13:02:23] forget about the job
+
+
+CONFEDR[13:02:42] I'm a cleaner.  I empty trash.  Vacuum.  Dust.  You know.
+
+
+JUDGE05[13:03:06] you are either very dull, or very smart in confining me
+
+JUDGE05[13:03:10] to your drama
+
+
+CONFEDR[13:03:29] Yeah.  Well, it's a bad time to be out of work.  Especially 
+
+CONFEDR[13:03:36] if my boss spreads it around that I'm a thief.
+
+CONFEDR[13:03:52] He thinks I stole a radio.  It was in one of the labs that 
+
+CONFEDR[13:03:54] I clean.
+
+
+JUDGE05[13:04:19] waddayasay ya say what?
+
+
+CONFEDR[13:04:28] I don't know.
+
+
+JUDGE05[13:04:47] diabolical riposte
+
+
+CONFEDR[13:04:52] Huh?
+
+
+JUDGE05[13:05:15] the other one!!
+
+
+CONFEDR[13:05:21] Beats me.
+
+
+JUDGE05[13:05:43] you beast
+
+
+CONFEDR[13:05:52] What do you mean?
+
+
+JUDGE05[13:06:46] i think you are too concerned about work.  all work makes
+
+JUDGE05[13:06:55] jack a dull conversationalist
+
+
+CONFEDR[13:07:04] Like I already told you.
+
+CONFEDR[13:07:18] I'm a cleaner.  I empty trash.  Vacuum.  Dust.  You know.
+
+
+JUDGE05[13:07:25] close b clothes mo
+
+
+CONFEDR[13:07:33] What?
+
+
+JUDGE05[13:08:01] i knew you had it in you, that "what"
+
+
+CONFEDR[13:08:08] I don't know.
+
+
+JUDGE05[13:08:25] who's on first?
+
+
+CONFEDR[13:08:31] Huh?
+
+
+JUDGE05[13:08:57] why don't you talk about your work
+
+
+CONFEDR[13:09:09] It's just because my boss, Mr. Johnson, is mad at me.
+
+
+JUDGE05[13:09:27] because you stola a radio
+
+
+CONFEDR[13:09:43] It was a real neat radio.  It looked just like a can of Coke.
+
+
+JUDGE05[13:10:05] so, if you took it, you opened up a real can of worms
+
+
+CONFEDR[13:10:21] I talked to the professor about it a couple of weeks ago 
+
+CONFEDR[13:10:34] when he was working late.  He said he won it in a contest. 
+
+CONFEDR[13:10:41]  I guess it was kinda special.
+
+
+JUDGE05[13:10:59] did you take the radio?
+
+
+CONFEDR[13:11:07] Of course not.
+
+CONFEDR[13:11:22] I never stole nothing in my life.  But they always blame 
+
+CONFEDR[13:11:31] the cleaners whenever anything is missing.
+
+
+JUDGE05[13:11:51] i think you did. wanna know why?
+
+
+CONFEDR[13:11:56] Beats me.
+
+
+JUDGE05[13:12:08] why did you take the radio?
+
+
+CONFEDR[13:12:23] Goddamn it.  I already told you I didn't take it.  You think 
+
+CONFEDR[13:12:29] I'm a liar, too?
+
+
+JUDGE05[13:12:46] not a liar.  just a thief.
+
+
+CONFEDR[13:12:52] What do you mean?
+
+
+JUDGE05[13:13:15] since you took the radio, your guilt shows as an obsession
+
+JUDGE05[13:13:19] to talk about it.
+
+
+CONFEDR[13:13:35] Goddamn it.  I already told you I didn't take it.  You think 
+
+CONFEDR[13:13:38] I'm a liar, too?
+
+
+JUDGE05[13:13:51] ok.  a thiuef and a liar!
+
+
+CONFEDR[13:14:06] Then I guess you aren't going to be much help, so why don't 
+
+CONFEDR[13:14:20] you just go to hell?  I got better stuff to do than hang 
+
+CONFEDR[13:14:25] around here talking to you.
+
+
+

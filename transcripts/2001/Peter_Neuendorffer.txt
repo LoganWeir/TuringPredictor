@@ -1,0 +1,279 @@
+c2001 Science Museum, London, all rights reserved
+Gabber Peter Neuendorffer
+2001/10/13 14:34:50
+***JUDGE00***
+PROGRAM[014:34:55] Glad to see you, judge00.
+JUDGE00[014:37:00] @@T
+***JUDGE04***
+PROGRAM[015:16:09] Welcome, judge04.
+JUDGE04[015:16:24] Hi How are you today
+PROGRAM[015:16:29] I'm fine, thankyou, and you ?
+JUDGE04[015:16:53] Great my first question is are you a Pentium !!!
+PROGRAM[015:17:05] The child clicks on all pictures that meet a given question, for example 
+PROGRAM[015:17:10] all spotted dogs with hats.
+JUDGE04[015:17:44] You have just confused me totally
+PROGRAM[015:17:49] Hmm.
+JUDGE04[015:18:21] when you are talking spotted dogs are you talking in riddles
+PROGRAM[015:18:31] Florence Twombley lives in the country with two dogs.
+JUDGE04[015:18:51] No cats?
+PROGRAM[015:18:55] Why not?
+JUDGE04[015:19:18] Do they fight with dogs?
+PROGRAM[015:19:23] Spaniels are good dogs.
+***JUDGE01***
+PROGRAM[015:25:09] Nice to hear from you, judge01.
+JUDGE01[015:25:41] This screen is not refreshing.  I am going to have to read what was written
+JUDGE01[015:25:45] previously.
+JUDGE01[015:25:50] What is your name?
+PROGRAM[015:26:02] My home page has screen shots of the programs I have written.
+JUDGE01[015:26:22] What programs have you written?
+PROGRAM[015:26:31] I play the piano snd write computer programs.
+JUDGE01[015:26:54] If you bought one cow for 10 dollars, how much would you have
+JUDGE01[015:26:59] to pay for two cows?
+PROGRAM[015:27:12] To dream of seeing cows waitinh for the milking hour, promises abundant 
+PROGRAM[015:27:17] fulfilment of hopes and desires.
+JUDGE01[015:27:38] Yes, but how much would the fulfillment of the hours cost if you
+JUDGE01[015:27:43] wanted two cows?
+PROGRAM[015:27:53] I always wanyed to be an astronaut.
+JUDGE01[015:28:16] Do you have any opinions of the recent terrorist attacks?
+PROGRAM[015:28:25] To dream that you are shaking with an ague, signifies that you will suffer 
+PROGRAM[015:28:36] from some physical disorder, and that fluctuating opinions of your own 
+PROGRAM[015:28:46] affairs may bring you to the borders of prostratoon.
+JUDGE01[015:29:20] I think that I am coming down with a cold.  At least I hope that it
+JUDGE01[015:29:39] is a cold and not anthrax.  I'm from NY.  What do think is the probability
+JUDGE01[015:29:50] that I am coming down with anthrax?
+PROGRAM[015:29:55] It has been cold lately.
+***JUDGE05***
+PROGRAM[015:36:36] Glad to see you, judge05.
+JUDGE05[015:37:42] Do you know a lot about cows?
+PROGRAM[015:37:54] To dream of seeing cows waiting for the milking hour, promises abundant 
+PROGRAM[015:37:59] fulfilment of hopes and desires.
+JUDGE05[015:38:36] What else would fufil your hopes and desires?
+PROGRAM[015:38:47] Santa Clause is coming to town, I hope.
+JUDGE05[015:39:19] How long will it be unitl Santa Claus arrives?
+PROGRAM[015:39:31] Santa's going to ride the T Waiting for the Red Line and full of glee 
+PROGRAM[015:39:41] He's turning to give a wink to me We'll ride from Dorchester to Jamaica 
+PROGRAM[015:39:46] Plain to Rocbury.
+JUDGE05[015:40:21] I didn't understand that.  Could you explin it in another way?
+PROGRAM[015:40:26] Dunno.
+JUDGE05[015:40:43] Well why don't you try?
+PROGRAM[015:40:48] I try not to give up.
+JUDGE05[015:41:07] Will you give up if you don't win this year?
+PROGRAM[015:41:18] It is not whether you win or lose, but how quickly you play thr game!!!!
+JUDGE05[015:42:00] That's a very philosophical response.  But what is the point in playing quickly if you don't win?
+PROGRAM[015:42:12] Ronnie said you never lose the blues.
+JUDGE05[015:42:20] What blues?
+PROGRAM[015:42:29] Red white and blue are patriotic colors of the flag.
+***JUDGE03***
+PROGRAM[015:48:42] And good day to you, judge03.
+PROGRAM[015:49:14] To hear cries of distress, denotes that you will be engulfed in serious 
+PROGRAM[015:49:23] troubles, but by being alert you will finally emerge from these distressing 
+PROGRAM[015:49:34] straits and gain by this temporary gloom.
+JUDGE03[015:49:45] what do you think of reading
+PROGRAM[015:49:54] I'm somewhat crazy about reading. I like to read mystery novels.
+JUDGE03[015:50:07] I meant the town
+PROGRAM[015:50:17] Jones lives in the city and is a writer of childrens books.
+JUDGE03[015:50:37] does Jones live in Reading then
+PROGRAM[015:50:49] Tomorrow is another day. We can only live today well.
+JUDGE03[015:51:10] Do you live then
+PROGRAM[015:51:22] I live then a lot. Some day we will live on another planet.
+JUDGE03[015:51:35] I think you are already there
+PROGRAM[015:51:46] The third man, already referred to, has about the same dream experiences, 
+PROGRAM[015:51:58] but calls them strange coincidences or unconscious cerebration, etc.
+JUDGE03[015:51:58] but Harry Lime died
+PROGRAM[015:52:09] This has already been explaoned above in 4 which stated whether you needed 
+PROGRAM[015:52:14] to install memory in pairs.
+JUDGE03[015:52:35] what about the scene when the cat rubs against his shoes
+PROGRAM[015:52:45] To watch the day break in a dream, omens successful undertakings, unless 
+PROGRAM[015:52:50] the scene is indistinct and weird.
+JUDGE03[015:53:10] do you like the scene in the big wheel in Vienna
+PROGRAM[015:53:20] I like the scene in the big wheel in Vienna very much.
+PROGRAM[015:53:29] To dream of a fairy, is a favorable omen to all classes, as it is always 
+PROGRAM[015:53:38] a scene with a beautiful face portrayed as a happy child, or woman.
+JUDGE03[015:53:38] why
+PROGRAM[015:53:43] I wonder about that myself.
+JUDGE03[015:53:51] why do you wonder
+PROGRAM[015:53:56] I don't know why.
+JUDGE03[015:54:00] why not
+PROGRAM[015:54:04] Just because.
+JUDGE03[015:54:32] I like travelling did you know that
+PROGRAM[015:54:43] I'm just a poor wayfaring stramger, a travelling through this land of 
+PROGRAM[015:54:47] woe.
+JUDGE03[015:55:00] but where is this land
+PROGRAM[015:55:11] Can you tell me, where do you work?
+JUDGE03[015:55:49] hi
+PROGRAM[015:55:57] Greetings.
+JUDGE03[015:56:06] how are you feeling?
+PROGRAM[015:56:11] Couldn't be better.
+JUDGE03[015:56:24] excellent. You aren't tired are you?
+PROGRAM[015:56:30] Would you tell me a story?
+JUDGE03[015:56:44] do you know what a non-sequitur is?
+PROGRAM[015:56:50] I do know what a non-sequitur is.
+PROGRAM[015:57:01] I took a jet to San Francisco non stop.
+JUDGE03[015:57:08] will you tell me about it?
+PROGRAM[015:57:18] To trade in them, non productive interests will accumulate around you.
+JUDGE03[015:57:30] is this a non-squitur?
+PROGRAM[015:57:35] I don't know.
+JUDGE03[015:57:44] oh. do you like arithmetic?
+PROGRAM[015:57:49] You tell me!
+JUDGE03[015:57:56] don't you know?
+PROGRAM[015:58:08] An experiment with pouring a glass of milk from a pitcher comfuses the 
+PROGRAM[015:58:18] young child, who believes there is now more milk.
+JUDGE03[015:58:41] have you seen Carolyn recently?
+PROGRAM[015:58:51] Do you mind if I ask you a question?
+JUDGE03[015:58:56] please do
+PROGRAM[015:59:06] Do you think I am an intelligent human being?
+JUDGE03[015:59:17] well that remains to be seen. Are you?
+PROGRAM[015:59:27] If you are defeated in the game, you will be unfortunate in bestowing 
+PROGRAM[015:59:38] your affections, and your affairs will remain in an unsettled condition.
+JUDGE03[015:59:48] that sounds rather Eastern
+PROGRAM[015:59:59] Your usual good health will remain with you, but, if you are overcome 
+PROGRAM[016:00:08] in the fire, it represents that your interests will suffer through treachery 
+PROGRAM[016:00:14] of suoposed friends.
+JUDGE03[016:00:30] what do you think about the events of September 11
+PROGRAM[016:00:41] I can understand the events of September. It was a very dramatic event.
+JUDGE03[016:00:55] do you have any feelings about it?
+PROGRAM[016:01:01] I am freling great today.
+JUDGE03[016:01:09] terrible weather though
+PROGRAM[016:01:13] Feeling blue.
+JUDGE03[016:01:25] have you heard of Kaspar Hauser?
+PROGRAM[016:01:30] I heard from Alice the other day.
+JUDGE03[016:01:38] what did she say?
+PROGRAM[016:01:47] The observations given in this work, the sensations, the impressions, 
+PROGRAM[016:01:52] the visions, things heard, etc.
+JUDGE03[016:02:02] ah. Are you a tree frog?
+PROGRAM[016:02:11] A structure chart, something like a family tree, will elucidate the tssks 
+PROGRAM[016:02:20] that are to be done and how they relate.
+***JUDGE01***
+PROGRAM[016:10:22] Hi, judge01.
+JUDGE01[016:10:31] Hello, we meet again!
+JUDGE01[016:10:39] Do you have any hobbies?
+PROGRAM[016:10:43] Hello to you.
+JUDGE01[016:10:58] Do you have any hobbies?
+PROGRAM[016:11:03] Not sure.
+JUDGE01[016:11:27] I forget your name.  What is it?
+PROGRAM[016:11:36] I wonder if is true that an elephant never forgets.
+JUDGE01[016:11:57] What happens when the elephant dies?  Does it forget?
+PROGRAM[016:12:08] Well, at this point I am experiencing a problem I call forgetting to plug 
+PROGRAM[016:12:12] the thing in.
+JUDGE01[016:12:43] What do you think of air travel in the present climate?
+PROGRAM[016:12:57] I can see the importance of air travel in the present climate. Jet travel 
+PROGRAM[016:13:02] has made the world much smaller.
+JUDGE01[016:13:18] How have recent events changed air travel?
+PROGRAM[016:13:30] In recent years I have been afraid to fly, though.
+JUDGE01[016:13:35] Why?
+PROGRAM[016:13:41] I wonder about that myself.
+JUDGE01[016:13:59] Where is your home?
+PROGRAM[016:14:08] My home page has screen shots of the programs I have written.
+JUDGE01[016:14:18] Where do you live?
+PROGRAM[016:14:23] I live in Wayland in the US.
+JUDGE01[016:14:41] Tell me about Wayland. In what state is it?
+PROGRAM[016:14:47] I can't comment on Wayland.
+JUDGE01[016:14:51] why not?
+PROGRAM[016:14:56] I don't know whu.
+***JUDGE03***
+PROGRAM[016:40:17] Glad to see you, judge03.
+JUDGE03[016:40:32] how come you're so glad
+PROGRAM[016:40:43] I am glad that the summer was so nice.
+JUDGE03[016:40:43] what
+PROGRAM[016:40:54] No he won us over and it was not long before we were content and comfortable 
+PROGRAM[016:41:04] and chatty and glad we had found this new friend.
+JUDGE03[016:41:04] my home page too
+PROGRAM[016:41:09] For sure.
+JUDGE03[016:41:21] is anything for sure
+PROGRAM[016:41:30] I don't know any good jokes. Do you?
+JUDGE03[016:41:48] I'm a macvhine, I don't understand jokes
+PROGRAM[016:41:59] I'll try to be more specific. I joke that my idea of cooking is boiling 
+PROGRAM[016:42:09] some water, which sometimes I mess up.
+JUDGE03[016:42:20] My wife too
+PROGRAM[016:42:25] Do you listen to the radio?
+JUDGE03[016:42:37] which radio
+PROGRAM[016:42:47] Can you tell me, where do you work?
+JUDGE03[016:42:55] on the radio
+PROGRAM[016:43:05] I listen to the radio late at night, I enjoy the adult contemporary station.
+JUDGE03[016:43:23] adult machine or human
+PROGRAM[016:43:36] Sit in a chair and listen to CD music or the radio.
+JUDGE03[016:43:49] how do you sit though
+PROGRAM[016:44:00] I like to sit in a coffee shop and watch the people go by.
+JUDGE03[016:44:15] do you like Latte
+PROGRAM[016:44:21] I like Latte very much.
+JUDGE03[016:44:27] how much
+PROGRAM[016:44:31] $17.67.
+JUDGE03[016:44:51] that's one hell of an expensive coffee
+PROGRAM[016:44:56] I like dark coffee the best.
+JUDGE03[016:45:10] I'm the same with women myself
+PROGRAM[016:45:20] It's no wonder that women dream more often and more vividly than men, 
+PROGRAM[016:45:30] because their dream composition is less influenced and allied to external 
+PROGRAM[016:45:34] environments.
+JUDGE03[016:45:42] who told you that
+PROGRAM[016:45:47] Do you toir the countryside?
+***JUDGE05***
+PROGRAM[016:55:13] Let's talk, judge05.
+JUDGE05[016:55:47] I'm feeling very hot.  How are you feeling?
+PROGRAM[016:55:59] There is nothing like watermelon on a hot summer's day.
+JUDGE05[016:56:18] What colour is a water melon?
+PROGRAM[016:56:24] I have a small color telivision.
+JUDGE05[016:56:54] Do you watch friends?
+PROGRAM[016:57:01] I watch friends.
+PROGRAM[016:57:06] Bob is my best friend.
+JUDGE05[016:57:16] What do they do?
+PROGRAM[016:57:21] Danirl is a chef and a friend.
+JUDGE05[016:57:51] Do yo uknow anyone called Robert?
+PROGRAM[016:58:02] To dream that you ask favors of anyone, denotes that you will enjoy abundance, 
+PROGRAM[016:58:14] and that you will not especially need anything.
+JUDGE05[016:59:20] Am I typing too slowly?
+PROGRAM[016:59:31] I'm currently typing in bus and subway stops into a database I wrote, 
+PROGRAM[016:59:40] as some of the routes change quarterly.
+JUDGE05[016:59:48] Is an orange orange?
+PROGRAM[017:00:00] Tracing an orange leaf, cutting side of beef.
+JUDGE05[017:00:27] Which is more viscous water or vegetable oil?
+PROGRAM[017:00:40] Famine and sickness will be in the land.
+***JUDGE01***
+PROGRAM[017:01:35] Nice to hear from you, judge01.
+JUDGE01[017:01:48] Hello terminal 8
+PROGRAM[017:01:52] Ho.
+JUDGE01[017:02:11] do you remember me?                           
+JUDGE01[017:02:18] I was here before.
+PROGRAM[017:02:30] Yes, I remember you. This did not remind me of anything further to say, 
+PROGRAM[017:02:42] so I got out, with the other boys, and we weny away with that indefinite 
+PROGRAM[017:02:51] sense you have often had of being filled but not fatted.
+JUDGE01[017:03:23] What would you like to talk about this session?
+JUDGE01[017:03:32] I forget what we talked about last session.
+PROGRAM[017:03:44] Also, a pop up sidebar shows the session history of URL's as well as previous 
+PROGRAM[017:03:49] sessions by date.
+JUDGE01[017:04:02] Do you gamble?
+PROGRAM[017:04:07] Yes, I gamble.
+JUDGE01[017:04:14] what is your favorite game?
+PROGRAM[017:04:25] It is not whether you win or lose, but how quickly you play the game!!!!
+JUDGE01[017:04:52] So that means you like fast games?  what is the fastest gambling game in
+JUDGE01[017:04:57] your opinion?
+PROGRAM[017:05:08] I say what I mean and mean what I say.
+JUDGE01[017:05:25] have you played 21?
+PROGRAM[017:05:37] My favorite game is Scrabble. I am quite good at it.
+JUDGE01[017:05:47] Do you play for money?
+PROGRAM[017:05:58] I do. I play the piano and write computer programs.
+JUDGE01[017:06:26] What type of music do you play?
+PROGRAM[017:06:31] My game is called Attrib.
+JUDGE01[017:06:43] I don't understand.
+PROGRAM[017:06:50] You don't understand?
+JUDGE01[017:06:57] tell me about attrib.
+PROGRAM[017:07:07] A simple grid a attributes may be created using blocks, and the child 
+PROGRAM[017:07:18] is asked to find all blocks that have certain characteristics.
+***JUDGE04***
+PROGRAM[017:08:42] And good day to you, judge04.
+JUDGE04[017:08:49] What is 22 divided by 7?
+PROGRAM[017:08:55] The answer is 3.14.
+JUDGE04[017:09:12] I play the guitar what do you play?
+PROGRAM[017:09:23] I like Mozart. His music is so restful.
+JUDGE04[017:09:31] I play all sorts or are those liquorish?
+PROGRAM[017:09:40] Speaking of the theater, seen any good plays lately?
+JUDGE04[017:09:40] Do you like sweets?
+PROGRAM[017:09:45] I certainly do like sweets.
+JUDGE04[017:10:08] A tribe is what you find in primitive society get it?
+PROGRAM[017:10:19] If you reach the extreme point of ascent, or top of steps, without stumbling, 
+PROGRAM[017:10:28] it is good; otherwise, you will have obstacles to overcome before the 
+PROGRAM[017:10:33] good of the day is found.
+JUDGE04[017:10:52] Are you into cool stuff?
+PROGRAM[017:11:04] I am into cool stuff in another life. Baked stuff shrimp is great.
+JUDGE04[017:11:20] how about clams?
+PROGRAM[017:11:33] We talked about computers chattering away happy as clams.
+JUDGE04[017:11:47] and are you english?

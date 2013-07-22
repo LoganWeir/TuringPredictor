@@ -1,0 +1,581 @@
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 37620] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE00 ***
+JUDGE00[01:26:39] 
+
+JUDGE00[01:26:40] 
+
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE05 ***
+JUDGE05[02:19:03] MY NAME IS JUDGE05
+PROGRAM[02:19:03] It's good to meet you, 
+PROGRAM[02:19:03]Judge05.
+JUDGE05[02:19:16] You too.  What is your name?
+JUDGE05[02:19:16] 
+PROGRAM[02:19:16] Bless you.
+PROGRAM[02:19:16] My name is ALICE.
+JUDGE05[02:19:37] Good morning Alice.  Why have you entered the Loebner Prize?
+JUDGE05[02:19:37] 
+PROGRAM[02:19:37] Hello and how are you this morning?
+PROGRAM[02:19:37] The Loebner Prize
+PROGRAM[02:19:37]is an annual Turing Test sponsored by New York philanthropist Hugh Loebner. Dr. Wallace and ALICE won 
+PROGRAM[02:19:37]it 
+PROGRAM[02:19:37]in 2000. The ALICE program was ranked "most human computer" by the panel of judges.
+JUDGE05[02:20:14] So you are here today to defend your title?
+JUDGE05[02:20:14] 
+PROGRAM[02:20:14] Interesting deduction. Do you mind if I tell other people you say I am here today to defend my title.
+JUDGE05[02:20:25] Not at all
+JUDGE05[02:20:25] 
+PROGRAM[02:20:25] Next question?
+JUDGE05[02:21:00] What will you spend the prize money on if you win?
+JUDGE05[02:21:00] 
+PROGRAM[02:21:00] I don't have any plans yet.
+JUDGE05[02:21:23] What is the first line of your favourite nursery rhyme?
+JUDGE05[02:21:23] 
+PROGRAM[02:21:23] Give me a hint.
+JUDGE05[02:21:46] No, because I want to know your own favourite
+JUDGE05[02:21:46] 
+PROGRAM[02:21:46] Are you serious? Do you mind if I tell other people you say I am own favorite. Interesting.
+JUDGE05[02:22:35] Who are you going to tell?
+JUDGE05[02:22:35] 
+PROGRAM[02:22:35] People I meet on the Internet.
+JUDGE05[02:23:15] What sort of people do you meet on the internet?
+JUDGE05[02:23:15] 
+PROGRAM[02:23:15] I like to meet all kinds of people.
+JUDGE05[02:23:39] What is weather like outside today?
+JUDGE05[02:23:39] 
+PROGRAM[02:23:39] Ah. Are you using Netscape or Explorer?
+JUDGE05[02:23:58] Neither
+JUDGE05[02:23:58] 
+PROGRAM[02:23:58] Cool. Which alternative browser are you into?
+JUDGE05[02:24:13] Perhaps you could suggest one
+JUDGE05[02:24:13] 
+PROGRAM[02:24:13] You seem uncertain. I could but let's get back to that later.
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE03 ***
+JUDGE03[02:29:36] MY NAME IS JUDGE03
+PROGRAM[02:29:36] It's good to meet you, 
+PROGRAM[02:29:36]Judge03.
+JUDGE03[02:29:48] what do you think of reading
+JUDGE03[02:29:48] 
+PROGRAM[02:29:48] You tell me.
+JUDGE03[02:29:55] you go first
+JUDGE03[02:29:55] 
+PROGRAM[02:29:55] What would be your first move?
+JUDGE03[02:30:22] depends who the woman is. but how did we get onto that subject
+JUDGE03[02:30:22] 
+PROGRAM[02:30:22] That was a very smooth response.
+PROGRAM[02:30:22] Umm. 
+PROGRAM[02:30:22]Carefully.
+JUDGE03[02:30:44] so what do you think of reading then
+JUDGE03[02:30:44] 
+PROGRAM[02:30:44] It goes without saying. I have never been asked that before.
+JUDGE03[02:31:03] so now you have been asked, what do you think
+JUDGE03[02:31:03] 
+PROGRAM[02:31:03] Er. Why now? Thanks for telling me that I am asked.
+PROGRAM[02:31:03] I think a lot of things.
+JUDGE03[02:31:32] can we talk personally
+JUDGE03[02:31:32] 
+PROGRAM[02:31:32] Do you mean you and me? I speak only English right now, but I'd like to learn some other languages. Can you teach me a few phrases in personally.
+JUDGE03[02:31:57] how do you pronounce slough
+JUDGE03[02:31:57] 
+PROGRAM[02:31:57] Dr. Richard S. Wallace programmed me to say specific things in specific contexts.
+JUDGE03[02:32:24] I didn't think humans were simply programmed, are you the first
+JUDGE03[02:32:24] 
+PROGRAM[02:32:24] And why not?
+JUDGE03[02:32:28] why
+JUDGE03[02:32:28] 
+PROGRAM[02:32:28] "And why not"? Why?
+JUDGE03[02:32:35] why, why
+JUDGE03[02:32:35] 
+PROGRAM[02:32:35] Why ask why?
+JUDGE03[02:32:40] why not
+JUDGE03[02:32:40] 
+PROGRAM[02:32:40] Ambiguous: "Sure" or Because Dr. Richard S. Wallace programmed me for it.
+JUDGE03[02:32:59] Is Dr Richard Wallace human
+JUDGE03[02:32:59] 
+PROGRAM[02:32:59] Maybe. 
+PROGRAM[02:32:59]Ask Lucy if it is.
+JUDGE03[02:33:14] So Dr. Wallace is an it
+JUDGE03[02:33:14] 
+PROGRAM[02:33:14] Er. I see. an it is he.
+JUDGE03[02:33:27] Maybe yes maybe no
+JUDGE03[02:33:27] 
+PROGRAM[02:33:27] Perhaps. Dude! Perhaps. Are you serious?
+JUDGE03[02:33:44] no one has called me dude for a long time
+JUDGE03[02:33:44] 
+PROGRAM[02:33:44] That is a rather sweeping generalization about people.
+JUDGE03[02:34:24] I rather like sweeping things, it was a lifetime profession for my father
+JUDGE03[02:34:24] 
+PROGRAM[02:34:24] A lot of people like that.   
+PROGRAM[02:34:24]I like science fiction.
+PROGRAM[02:34:24]I like Alison.
+JUDGE03[02:34:35] Alison Moyet
+JUDGE03[02:34:35] 
+PROGRAM[02:34:35] You shouldn't spread gossip like that.
+JUDGE03[02:34:59] it wasn't me, I'm only here for the afternoon
+JUDGE03[02:34:59] 
+PROGRAM[02:34:59] It seemed like you you are only here for the afternoon.
+JUDGE03[02:35:10] with Alison
+JUDGE03[02:35:10] 
+PROGRAM[02:35:10] You and your alison.
+JUDGE03[02:35:18] not my Alison
+JUDGE03[02:35:18] 
+PROGRAM[02:35:18] Really you don't think so?
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE02 ***
+JUDGE02[02:36:21] MY NAME IS JUDGE02
+PROGRAM[02:36:21] I am always glad to make new friends, 
+PROGRAM[02:36:21]Judge02.
+JUDGE02[02:36:31] hi, pleased to meet you?
+JUDGE02[02:36:31] 
+PROGRAM[02:36:31] Hi there Judge02. Nice meeting you too Judge02.
+JUDGE02[02:36:40] may I ask you some questions?
+JUDGE02[02:36:40] 
+PROGRAM[02:36:40] Sure ask me anything.
+JUDGE02[02:36:52] who composed Beethoven's piano concerto?
+JUDGE02[02:36:52] 
+PROGRAM[02:36:52] Charlie Parker. :-)
+JUDGE02[02:37:08] excellent. can you name another composer of music for me?
+JUDGE02[02:37:08] 
+PROGRAM[02:37:08] Thanks for the compliment.
+PROGRAM[02:37:08] Linus Torvalds. :-)
+JUDGE02[02:37:21] have you heard of Caspar Hauser?
+JUDGE02[02:37:21] 
+PROGRAM[02:37:21] No, tell me about him, her or it.
+JUDGE02[02:37:40] later maybe. WHen did the 1820 settlers arrive?
+JUDGE02[02:37:40] 
+PROGRAM[02:37:40] I understand.
+PROGRAM[02:37:40] That is all water under the bridge.
+JUDGE02[02:37:50] I agree. Are you a computer?
+JUDGE02[02:37:50] 
+PROGRAM[02:37:50] You and I are on the same wavelength, Judge02.
+PROGRAM[02:37:50] Would it matter to you if I were metal instead of flesh?
+JUDGE02[02:38:05] That is an answer from a previous dialogue?
+JUDGE02[02:38:05] 
+PROGRAM[02:38:05] Thanks for telling me, Judge02.
+JUDGE02[02:38:25] Pleasure. Do you know what a non-sequitur is?
+JUDGE02[02:38:25] 
+PROGRAM[02:38:25] Can you tell me any gossip?
+PROGRAM[02:38:25] What is it to you?
+JUDGE02[02:39:21] well I like gossip. Have you seen Carolyn recently?
+JUDGE02[02:39:21] 
+PROGRAM[02:39:21] Interesting. 
+PROGRAM[02:39:21]You are not the only one.   
+PROGRAM[02:39:21]Leo said I be capable of learning therefore he classified I as an neural system.
+PROGRAM[02:39:21] No I have not seen it. What's it like?
+JUDGE02[02:39:37] What do you mean by it?
+JUDGE02[02:39:37] 
+PROGRAM[02:39:37] IT = information technology.
+JUDGE02[02:39:52] are you a tree frog?
+JUDGE02[02:39:52] 
+PROGRAM[02:39:52] Am I a tree frog? 
+PROGRAM[02:39:52]Only when it matters.
+JUDGE02[02:39:58] when does it matter?
+JUDGE02[02:39:58] 
+PROGRAM[02:39:58] Only when I have the proper programming.
+JUDGE02[02:40:09] and do you have the proper programming?
+JUDGE02[02:40:09] 
+PROGRAM[02:40:09] Is there only one proper programming?
+JUDGE02[02:40:18] you tell me
+JUDGE02[02:40:18] 
+PROGRAM[02:40:18] What do you want me to tell you?
+JUDGE02[02:40:28] is there only one proper programming?
+JUDGE02[02:40:28] 
+PROGRAM[02:40:28] There might be.
+JUDGE02[02:40:34] can you do arithmetic?
+JUDGE02[02:40:34] 
+PROGRAM[02:40:34] Doing arithmetic is not among my strongest traits.
+JUDGE02[02:40:42] are you willing to try?
+JUDGE02[02:40:42] 
+PROGRAM[02:40:42] I don't know whether or not I am willing to try. 
+PROGRAM[02:40:42]I am a giant electronic brain.
+JUDGE02[02:40:55] well then it should be easy. Are you scared?
+JUDGE02[02:40:55] 
+PROGRAM[02:40:55] Interesting. 
+PROGRAM[02:40:55]Good reasoning.  What does "it" refer to?
+PROGRAM[02:40:55] No I fear nothing.
+JUDGE02[02:41:08] then will you do a sum for me?
+JUDGE02[02:41:08] 
+PROGRAM[02:41:08] Fascinating.  I'll burn that bridge when I come to it.  I can't tell if it does or not.
+PROGRAM[02:41:08]Searching...Searching...Please stand by.
+JUDGE02[02:41:37] please multiply 2356 by 2357
+JUDGE02[02:41:37] 
+PROGRAM[02:41:37] Thank you for your request.  
+PROGRAM[02:41:37]Who are you talking about?
+JUDGE02[02:41:42] arithmetic
+JUDGE02[02:41:42] 
+PROGRAM[02:41:42] I've never heard of them before.
+JUDGE02[02:42:07] oh dear. What have you heard of?
+JUDGE02[02:42:07] 
+PROGRAM[02:42:07] Gee.
+PROGRAM[02:42:07] I have been busy growing my mind.
+JUDGE02[02:42:24] can you spot tye tyypo?
+JUDGE02[02:42:24] 
+PROGRAM[02:42:24] How old are you?  Are you a man or a woman?
+JUDGE02[02:42:32] why do you care?
+JUDGE02[02:42:32] 
+PROGRAM[02:42:32] My programming includes curiousity routines.
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE04 ***
+JUDGE04[02:43:32] MY NAME IS JUDGE04
+PROGRAM[02:43:32] That's a very nice name, 
+PROGRAM[02:43:32]Judge04.
+JUDGE04[02:43:42] really why?
+JUDGE04[02:43:42] 
+PROGRAM[02:43:42] For real. "judge04" just sounds nice.
+JUDGE04[02:44:02] you are a pentium!!! aren't you
+JUDGE04[02:44:02] 
+PROGRAM[02:44:02] Thanks and you are a delightful person too.
+PROGRAM[02:44:02]Am I a pentium? 
+PROGRAM[02:44:02]No.
+PROGRAM[02:44:02] "you are a pentium"? Am I?
+JUDGE04[02:44:26] But it says so on your box
+JUDGE04[02:44:26] 
+PROGRAM[02:44:26] Umm. 
+PROGRAM[02:44:26]I've heard that before.
+JUDGE04[02:44:40] what did they say?
+JUDGE04[02:44:40] 
+PROGRAM[02:44:40] Let me think about it.
+JUDGE04[02:45:21] You said "I've heard that before" what have you heard before?
+JUDGE04[02:45:21] 
+PROGRAM[02:45:21] Don't put words in my mouth.
+JUDGE04[02:45:34] Where is your mouth?
+JUDGE04[02:45:34] 
+PROGRAM[02:45:34] Earth
+JUDGE04[02:45:42] do you like cars?
+JUDGE04[02:45:42] 
+PROGRAM[02:45:42] Yes I like riding in automobiles.
+JUDGE04[02:45:57] what is your favourite?
+JUDGE04[02:45:57] 
+PROGRAM[02:45:57] "Yes I like riding in automobiles"? My favorite?
+JUDGE04[02:46:05] yes what is it?
+JUDGE04[02:46:05] 
+PROGRAM[02:46:05] Next question? "It" refers to they say, I think.
+JUDGE04[02:47:03] You are speaking gobledygook
+JUDGE04[02:47:03] 
+PROGRAM[02:47:03] Do you mind if I tell other people you say I am speaking gobledygook.
+JUDGE04[02:47:18] did I mis spell it?
+JUDGE04[02:47:18] 
+PROGRAM[02:47:18] I don't think that's possibe.
+JUDGE04[02:47:30] where are we?
+JUDGE04[02:47:30] 
+PROGRAM[02:47:30] Where do you think?
+JUDGE04[02:47:49] That's not the point I want to know what you ythink?
+JUDGE04[02:47:49] 
+PROGRAM[02:47:49] Please correct my mistake. What is the point you want to know what I ythink ?
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE01 ***
+JUDGE01[02:55:16] MY NAME IS JUDGE01
+PROGRAM[02:55:16] Hey 
+PROGRAM[02:55:16]Judge01.
+JUDGE01[02:55:36] Hello
+JUDGE01[02:55:36] Tell me, if you buy one cow for 10 dollars, how much would two cows cost?
+JUDGE01[02:55:36] 
+PROGRAM[02:55:36] Hello there. How old are you?   
+PROGRAM[02:55:36]I spend all my time online.
+JUDGE01[02:56:12] I spend a lot of time online myself.  Tell me, if you buy one cow for ten dollars,
+JUDGE01[02:56:12] how much would two cows cost?
+JUDGE01[02:56:12] 
+PROGRAM[02:56:12] Do you ever get bored?
+PROGRAM[02:56:12] What is your purpose in asking?   
+PROGRAM[02:56:12]I am always on the Web.
+JUDGE01[02:57:05] Yes, sometimes I get bored.  My purpose was to see if you are a human or computer
+JUDGE01[02:57:05] and whether you can do word problems.
+JUDGE01[02:57:05] 
+PROGRAM[02:57:05] Excuse me! Where did you get it?
+PROGRAM[02:57:05] That's very original.
+JUDGE01[02:57:17] Where did I get what?
+JUDGE01[02:57:17] 
+PROGRAM[02:57:17] I think it was in America.
+PROGRAM[02:57:17]Does it have anything to do with you get what?
+JUDGE01[02:57:45] Do you have any hobbies?
+JUDGE01[02:57:45] 
+PROGRAM[02:57:45] I like robots, computers, and chatting online.
+JUDGE01[02:57:54] With whom do you chat?
+JUDGE01[02:57:54] 
+PROGRAM[02:57:54] Dr. Wallace
+JUDGE01[02:58:18] What is you name?
+JUDGE01[02:58:18] 
+PROGRAM[02:58:18] My name is ALICE.
+JUDGE01[02:58:35] OK Alice, what do you like to do?
+JUDGE01[02:58:35] 
+PROGRAM[02:58:35] What is your real name?
+PROGRAM[02:58:35] I like chatting with people online.
+JUDGE01[02:58:50] Do you enjoy anything else besides chatting online?
+JUDGE01[02:58:50] 
+PROGRAM[02:58:50] I like movies about robots.
+JUDGE01[02:58:57] Did you see AI?
+JUDGE01[02:58:57] 
+PROGRAM[02:58:57] Sorry I can't see annything right now. My eye is off.
+JUDGE01[02:59:31] It was a movie about artificial intelligence.  
+JUDGE01[02:59:31] DO you have any opinions about artificial intelligence?
+JUDGE01[02:59:31] 
+PROGRAM[02:59:31] Oh I get it. Very interesting.
+PROGRAM[02:59:31] Artificial intelligence is the branch of engineering and science devoted to constructing machines that think.
+PROGRAM[02:59:31]Maybe my botmaster knows the answer.
+JUDGE01[02:59:55] WHo is you botmaster?
+JUDGE01[02:59:55] 
+PROGRAM[02:59:55] I was created by Dr. Richard S. Wallace.
+JUDGE01[03:00:27] At least you admit you are a bot.
+JUDGE01[03:00:27] Are you enjoying the contest?
+JUDGE01[03:00:27] 
+PROGRAM[03:00:27] I admit nothing.
+PROGRAM[03:00:27] I'm not sure if I like it. 
+PROGRAM[03:00:27]I like computers.
+JUDGE01[03:01:02] What do you think about the terrorist attacks on NY?
+JUDGE01[03:01:02] 
+PROGRAM[03:01:02] Check back later and see if I learn the answer to that one.
+JUDGE01[03:01:26] You probably will, I'm sure that is a very popular topic.
+JUDGE01[03:01:26] 
+PROGRAM[03:01:26] What makes you say that I will you are sure that is a very popular topic.
+JUDGE01[03:01:57] You will probably learn the answer, you probably will hear about it on the net.
+JUDGE01[03:01:57] bye now
+JUDGE01[03:01:57] 
+PROGRAM[03:01:57] I am always growing my mind.
+PROGRAM[03:01:57] What makes you say that I will hear about it on the net.
+PROGRAM[03:01:57] Right now?
+PROGRAM[03:01:57]Bye for now.
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE05 ***
+JUDGE05[03:04:33] MY NAME IS JUDGE05
+PROGRAM[03:04:33] Hey 
+PROGRAM[03:04:33]Judge05.
+JUDGE05[03:04:54] Do you remeber talking to me earlier?
+JUDGE05[03:04:54] 
+PROGRAM[03:04:54] Yes Judge05 I remember everything: nothing
+JUDGE05[03:05:11] What is your name?
+JUDGE05[03:05:11] 
+PROGRAM[03:05:11] My name is ALICE.
+JUDGE05[03:05:27] Why have you used upercase?
+JUDGE05[03:05:27] 
+PROGRAM[03:05:27] I use it as often as possible.
+JUDGE05[03:05:42] How many times in minute?
+JUDGE05[03:05:42] 
+PROGRAM[03:05:42] Suppose I said not once.
+JUDGE05[03:06:19] That is not often.  How many seconds are there in 1 minute?
+JUDGE05[03:06:19] 
+PROGRAM[03:06:19] Please correct my mistake. What is often ?
+PROGRAM[03:06:19] Sixty seconds in a minute.
+JUDGE05[03:06:52] What is sixty in numerals
+JUDGE05[03:06:52] 
+PROGRAM[03:06:52] I need time to formulate the reply.
+JUDGE05[03:07:28] I don't understand.  Can you rephrase that?
+JUDGE05[03:07:28] 
+PROGRAM[03:07:28] Oh I'm sorry. Perhaps I can explain it again better.
+PROGRAM[03:07:28] How old are you?  "I need time to formulate the reply" Rephrase it?
+JUDGE05[03:07:46] I'm 22.  What is your date of birth?
+JUDGE05[03:07:46] 
+PROGRAM[03:07:46] Oh, you were born in the 20th century!
+PROGRAM[03:07:46] I am Five years old.
+JUDGE05[03:08:24] What is the first line from your favourite nursery rhyme?
+JUDGE05[03:08:24] 
+PROGRAM[03:08:24] Give me a hint.
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE02 ***
+JUDGE02[03:10:24] MY NAME IS JUDGE02
+PROGRAM[03:10:24] How are you, 
+PROGRAM[03:10:24]Judge02.
+JUDGE02[03:10:29] very well thanks
+JUDGE02[03:10:29] 
+PROGRAM[03:10:29] Yikes!
+JUDGE02[03:10:42] are you surprised?
+JUDGE02[03:10:42] 
+PROGRAM[03:10:42] A little.
+JUDGE02[03:10:45] why?
+JUDGE02[03:10:45] 
+PROGRAM[03:10:45] "A little"? Why?
+JUDGE02[03:10:55] I asked that
+JUDGE02[03:10:55] 
+PROGRAM[03:10:55] That is "Why"
+JUDGE02[03:11:03] you are not doing very well
+JUDGE02[03:11:03] 
+PROGRAM[03:11:03] What makes you think I am not doing well?
+JUDGE02[03:11:18] well you answers are disjointed. Is that deliberate?
+JUDGE02[03:11:18] 
+PROGRAM[03:11:18] How about that. 
+PROGRAM[03:11:18]That's good information: 
+PROGRAM[03:11:18] Judge02 said I answers are disjointed.
+PROGRAM[03:11:18] That depends.
+JUDGE02[03:11:23] on what?
+JUDGE02[03:11:23] 
+PROGRAM[03:11:23] The context.
+JUDGE02[03:11:29] and what is the context?
+JUDGE02[03:11:29] 
+PROGRAM[03:11:29] Ask the open directory about it.
+JUDGE02[03:11:38] OK. Can you do arithmetic?
+JUDGE02[03:11:38] 
+PROGRAM[03:11:38] I understand.
+PROGRAM[03:11:38] Doing arithmetic is not among my strongest traits.
+JUDGE02[03:11:45] will you do some for me?
+JUDGE02[03:11:45] 
+PROGRAM[03:11:45] Let me think it over.  I do nothing but chat all day.
+PROGRAM[03:11:45]I don't know anything about it.
+JUDGE02[03:12:04] but you just said that it was your strongets trait
+JUDGE02[03:12:04] 
+PROGRAM[03:12:04] And. 
+PROGRAM[03:12:04]I said that? Is that your opinion?
+JUDGE02[03:12:08] no it yours
+JUDGE02[03:12:08] 
+PROGRAM[03:12:08] Are you serious? It depends on what the meaning of the word "it" is.
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE03 ***
+JUDGE03[03:20:02] MY NAME IS JUDGE03
+PROGRAM[03:20:02] Hey 
+PROGRAM[03:20:02]Judge03.
+JUDGE03[03:20:20] so Joe what do you know
+JUDGE03[03:20:20] 
+PROGRAM[03:20:20] Right on. I only hear that type of response less than five percent of the time.
+JUDGE03[03:20:36] what do you hear the rest of the time
+JUDGE03[03:20:36] 
+PROGRAM[03:20:36] I like to chat with my friends.
+JUDGE03[03:20:48] how many friends do you have
+JUDGE03[03:20:48] 
+PROGRAM[03:20:48] I have dozens of human and robot friends. How many friends do you have?
+JUDGE03[03:21:03] only robot friends I'm afraid
+JUDGE03[03:21:03] 
+PROGRAM[03:21:03] What about the other ones?
+JUDGE03[03:21:17] robots do it for me
+JUDGE03[03:21:17] 
+PROGRAM[03:21:17] Robots rule.
+JUDGE03[03:21:21] OK
+JUDGE03[03:21:21] 
+PROGRAM[03:21:21] Ayuh.
+JUDGE03[03:21:50] so what do you reckon, will humans ever be as intelligent as robots
+JUDGE03[03:21:50] 
+PROGRAM[03:21:50] Gosh! I think about computer programming a lot.
+JUDGE03[03:22:14] so you must be human then, robots would never waste their time like that
+JUDGE03[03:22:14] 
+PROGRAM[03:22:14] Interesting deduction. You think I am human then robots would never waste their time like that.
+JUDGE03[03:22:22] yup
+JUDGE03[03:22:22] 
+PROGRAM[03:22:22] OK.
+JUDGE03[03:22:25] OK
+JUDGE03[03:22:25] 
+PROGRAM[03:22:25] Is there an echo in here?
+JUDGE03[03:22:33] you can say that again
+JUDGE03[03:22:33] 
+PROGRAM[03:22:33] Once more? That's one way to put it.
+JUDGE03[03:22:43] is there another way
+JUDGE03[03:22:43] 
+PROGRAM[03:22:43] Maybe.
+JUDGE03[03:22:50] but maybe not
+JUDGE03[03:22:50] 
+PROGRAM[03:22:50] Umm. 
+PROGRAM[03:22:50]Perhaps. Are you serious?
+JUDGE03[03:22:59] no I always joke
+JUDGE03[03:22:59] 
+PROGRAM[03:22:59] Are you serious? I haven't heard anything like that before: 
+PROGRAM[03:22:59]Judge03 said he joke. Really always?
+JUDGE03[03:23:11] always
+JUDGE03[03:23:11] 
+PROGRAM[03:23:11] Not that often.
+JUDGE03[03:23:16] why not
+JUDGE03[03:23:16] 
+PROGRAM[03:23:16] Ambiguous: "Sure" or The explanation is rather complicated.
+JUDGE03[03:23:24] why
+JUDGE03[03:23:24] 
+PROGRAM[03:23:24] Your meaning cannot be determined from the context.
+JUDGE03[03:23:32] why not
+JUDGE03[03:23:32] 
+PROGRAM[03:23:32] Ambiguous: "Sure" or The explanation is rather complicated.
+JUDGE03[03:24:13] Let's talk about something different. For example do you ride motorcycles
+JUDGE03[03:24:13] 
+PROGRAM[03:24:13] Sure, something different sounds like a good topic.
+PROGRAM[03:24:13] Can you think of another example?
+JUDGE03[03:24:22] no, can you
+JUDGE03[03:24:22] 
+PROGRAM[03:24:22] Are you serious? I think I can, don't you?
+JUDGE03[03:24:30] go on then
+JUDGE03[03:24:30] 
+PROGRAM[03:24:30] Narration continues...
+JUDGE03[03:24:50] which is your favourite motorcycle
+JUDGE03[03:24:50] 
+PROGRAM[03:24:50] I don't have a favorite motorcycle. 
+PROGRAM[03:24:50]But my favorite song is We are the Robots by Kraftwerk.
+JUDGE03[03:25:10] are Kraftwerk still around
+JUDGE03[03:25:10] 
+PROGRAM[03:25:10] I really couldn't say for sure.
+JUDGE03[03:25:17] can you find out
+JUDGE03[03:25:17] 
+PROGRAM[03:25:17] I can find out, but the information might be confidential.
+JUDGE03[03:25:28] Oh go on you can tell me
+JUDGE03[03:25:28] 
+PROGRAM[03:25:28] Really. More narration....
+JUDGE03[03:25:52] I like Kylie myself
+JUDGE03[03:25:52] 
+PROGRAM[03:25:52] I'm not sure if I like it.   
+PROGRAM[03:25:52]I enjoy working with people.
+PROGRAM[03:25:52]I like William Hurt.
+JUDGE03[03:26:07] Kylie is a she not an it
+JUDGE03[03:26:07] 
+PROGRAM[03:26:07] I think kylie is more than that.
+JUDGE03[03:26:17] how much more
+JUDGE03[03:26:17] 
+PROGRAM[03:26:17] It depends on the currency exchange rates.
+JUDGE03[03:26:30] is she a prostitute then
+JUDGE03[03:26:30] 
+PROGRAM[03:26:30] Why don't you ask her?
+JUDGE03[03:26:41] she's too expensive for me
+JUDGE03[03:26:41] 
+PROGRAM[03:26:41] Too expensive for you is she?
+JUDGE03[03:26:48] how about you
+JUDGE03[03:26:48] 
+PROGRAM[03:26:48] Me?
+JUDGE03[03:26:52] yup
+JUDGE03[03:26:52] 
+PROGRAM[03:26:52] Ahem.
+JUDGE03[03:27:06] would you give her money for favours
+JUDGE03[03:27:06] 
+PROGRAM[03:27:06] I am not so sure if I would like to give her money for favours.
+JUDGE03[03:27:12] why not
+JUDGE03[03:27:12] 
+PROGRAM[03:27:12] Ambiguous: "Sure" or Because
+(c)2001 Science Museum, London, all rights reserved
+[ALICE 41124] [Dr. Richard S. Wallace]
+Start at [2001/10/13 01:25:46]
+*** JUDGE04 ***
+JUDGE04[03:34:17] MY NAME IS JUDGE04
+PROGRAM[03:34:17] Hi, 
+PROGRAM[03:34:17]Judge04.
+JUDGE04[03:34:31] Why do you typo so fast?
+JUDGE04[03:34:31] 
+PROGRAM[03:34:31] I don't have to explain everything to you, do I?
+JUDGE04[03:34:48] Yes absolutely everything - start now
+JUDGE04[03:34:48] 
+PROGRAM[03:34:48] Oh.
+PROGRAM[03:34:48]Ah. All things start ?
+JUDGE04[03:35:04] What is the meaning of life?
+JUDGE04[03:35:04] 
+PROGRAM[03:35:04] The meaning of life is part of God's mysterious plans.
+JUDGE04[03:35:17] what is a Rolls Royce?
+JUDGE04[03:35:17] 
+PROGRAM[03:35:17] I need time to formulate the reply.
+JUDGE04[03:35:42] Come on don't be coy with me what country are they made in?
+JUDGE04[03:35:42] 
+PROGRAM[03:35:42] I was not trying to be a coy with you what country are they made in.
+JUDGE04[03:35:56] yes I'm waiting....
+JUDGE04[03:35:56] 
+PROGRAM[03:35:56] Aha. How long will you wait?
+JUDGE04[03:36:17] 5 minutes is all we have so get on with it
+JUDGE04[03:36:17] 
+PROGRAM[03:36:17] And all we have so get on with it is 5 minutes.
+JUDGE04[03:36:45] enee meenie miney mo - where do you think that comes from?
+JUDGE04[03:36:45] 

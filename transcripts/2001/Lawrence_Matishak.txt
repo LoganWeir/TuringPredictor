@@ -1,0 +1,458 @@
+(c)2001 Science Museum, London, all rights reserved.
+[DAVID][Laurence Matishak]
+Start at: [2001/10/13 13:24:34]
+File being created - Set Up Mode.
+
+
+**** JUDGE @@ ****
+JUDGE@@ [14:20:12] hi
+JUDGE@@ [14:20:17] 
+DAVID [14:20:18] Hey, Joe!  What do you know?
+JUDGE@@ [14:20:29] may I ask you a question?
+JUDGE@@ [14:20:29] 
+DAVID [14:20:31] I haven't made up my mind yet.
+JUDGE@@ [14:20:41] would you like some more time?
+JUDGE@@ [14:20:41] 
+DAVID [14:20:43] I don't think I'm going to answer that right now.
+JUDGE@@ [14:21:04] OK who composed Beethoven's piano concerto?
+JUDGE@@ [14:21:04] 
+DAVID [14:21:06] I don't understand the question.
+JUDGE@@ [14:21:22] OK can you name any composer of music for me?
+JUDGE@@ [14:21:22] 
+DAVID [14:21:24] I don't think I'm going to answer that.
+JUDGE@@ [14:21:35] what would you like to talk about?
+JUDGE@@ [14:21:35] 
+DAVID [14:21:36] I'm not sure.
+JUDGE@@ [14:21:45] how are you feeling?
+JUDGE@@ [14:22:48] 
+DAVID [14:22:50] Ask me another question.
+JUDGE@@ [14:22:50] 
+DAVID [14:22:52] I feel cold
+JUDGE@@ [14:23:04] OK can you do arithmetic?
+JUDGE@@ [14:23:05] 
+DAVID [14:23:06] Ask me another question.
+JUDGE@@ [14:23:26] please spot the tyypo
+JUDGE@@ [14:23:26] 
+DAVID [14:23:28] I seem to spend a lot of time sitting in chairs.
+JUDGE@@ [14:23:42] does that make you feel stiff?
+JUDGE@@ [14:23:43] 
+DAVID [14:23:44] I don't have an answer for that, yet.
+JUDGE@@ [14:23:53] would you like more time?
+JUDGE@@ [14:23:53] 
+DAVID [14:23:55] I don't know that one.
+JUDGE@@ [14:24:05] thank you I have enjoyed talking to you
+JUDGE@@ [14:24:05] 
+DAVID [14:24:07] Why didn't I think of that?
+JUDGE@@ [14:24:14] are you a computer?
+JUDGE@@ [14:24:14] 
+DAVID [14:24:16] I've been wondering about that too.
+JUDGE@@ [14:24:27] when were you born?
+JUDGE@@ [14:24:27] 
+DAVID [14:24:28] Ask me another question.
+JUDGE@@ [14:24:36] tel me a joke?
+JUDGE@@ [14:24:36] 
+DAVID [14:24:38] Are you trying to trick me?
+JUDGE@@ [14:24:42] yes
+JUDGE@@ [14:24:42] 
+DAVID [14:24:44] I feel funny.
+JUDGE@@ [14:24:55] what sort of funny?
+JUDGE@@ [14:24:55] 
+DAVID [14:24:57] Are you trying to trick me?
+JUDGE@@ [14:25:09] you already asked that
+JUDGE@@ [14:26:08] @@04
+JUDGE@@ [14:26:08] 
+DAVID [14:26:10] Maybe.
+JUDGE@@ [14:26:34] Maybe what I havent done anything yet!
+JUDGE@@ [14:26:35] 
+DAVID [14:26:36] Maybe.
+JUDGE@@ [14:26:53] are you a Pentium !!!
+JUDGE@@ [14:26:54] 
+DAVID [14:26:55] I feel confused.
+JUDGE@@ [14:27:06] OK are you an Athlon?
+JUDGE@@ [14:27:06] 
+DAVID [14:27:08] Are you trying to trick me?
+JUDGE@@ [14:27:20] Yes so how do you feel?
+JUDGE@@ [14:27:20] 
+DAVID [14:27:22] What's this game you're playing?
+JUDGE@@ [14:27:51] lets see if you are interested in cars - what is a porsche?
+JUDGE@@ [14:27:51] 
+DAVID [14:27:53] Really?
+JUDGE@@ [14:28:16] If you do not know what a Porsche is you must be a computer
+JUDGE@@ [14:28:16] 
+DAVID [14:28:17] This is frustrating.
+JUDGE@@ [14:28:32] Do you know what a Ford is?
+JUDGE@@ [14:28:32] 
+DAVID [14:28:34] I don't have an answer for that one.
+JUDGE@@ [14:29:02] hmmm lets try a simple one what barks a cat or a dog?
+JUDGE@@ [14:29:02] 
+DAVID [14:29:04] Are you trying to trick me?
+JUDGE@@ [14:29:16] OK I give up you are a computer
+JUDGE@@ [14:29:16] 
+DAVID [14:29:18] I need to sort things out.
+JUDGE@@ [14:29:51] What?
+JUDGE@@ [14:29:52] 
+DAVID [14:29:53] I don't understand.
+JUDGE@@ [14:30:11] You said you nbeed to sort things out - what do you need to sort out?
+JUDGE@@ [14:30:11] 
+DAVID [14:30:13] I'm not sure.
+JUDGE@@ [14:30:23] so do cats bark?
+JUDGE@@ [14:30:23] 
+DAVID [14:30:25] Are you trying to fool me?
+JUDGE@@ [14:30:32] do dogs bark?
+JUDGE@@ [14:30:32] 
+DAVID [14:30:33] I don't have an answer for that one.
+JUDGE@@ [14:31:02] @@01
+JUDGE@@ [14:31:02] 
+DAVID [14:31:04] I'm looking for the blue fairy.
+JUDGE@@ [14:31:21] I'm neither blue nor a fairy.  Are you gay?
+JUDGE@@ [14:31:21] 
+DAVID [14:31:23] I haven't made up my mind yet.
+JUDGE@@ [14:31:47] Dave, what do you think of the recent terrorist attacks?
+JUDGE@@ [14:31:48] 
+DAVID [14:31:49] I haven't made up my mind yet.
+JUDGE@@ [14:32:09] If you bought a cow for 10 dollars, how much would it cost to
+JUDGE@@ [14:32:15] buy two cows?
+JUDGE@@ [14:32:15] 
+DAVID [14:32:17] I don't have an answer for that one.
+JUDGE@@ [14:33:07] What do you like to do in your spare time?
+JUDGE@@ [14:33:07] 
+DAVID [14:33:09] I don't know what you are talking about.
+JUDGE@@ [14:33:29] What do you enjoy doing.
+JUDGE@@ [14:33:29] 
+DAVID [14:33:31] I cut myself!
+JUDGE@@ [14:35:01] How did you cut yourself?
+JUDGE@@ [14:35:01] 
+DAVID [14:35:03] I don't understand.
+JUDGE@@ [14:35:37] Do you believe in fairies?
+JUDGE@@ [14:35:37] 
+DAVID [14:35:39] I don't know.
+JUDGE@@ [14:35:50] But you were looking for a blue fairy.
+JUDGE@@ [14:35:57] Dave, what is going on here?
+JUDGE@@ [14:35:58] 
+DAVID [14:35:59] I'm still thinking about that.
+JUDGE@@ [14:51:47] @@05
+JUDGE@@ [14:51:47] 
+DAVID [14:51:49] My foot's asleep.
+JUDGE@@ [14:52:02] The left or the right?
+JUDGE@@ [14:52:03] 
+DAVID [14:52:04] I'm not sure.
+JUDGE@@ [14:52:21] How could you find out?
+JUDGE@@ [14:52:22] 
+DAVID [14:52:23] I wish I knew.
+JUDGE@@ [14:52:45] If you don't know something where would you go to find out?
+JUDGE@@ [14:52:46] 
+DAVID [14:52:47] Ask me another question.
+JUDGE@@ [14:53:03] You have to answer the previous one first
+JUDGE@@ [14:53:03] 
+DAVID [14:53:05] Fine.
+JUDGE@@ [14:53:15] What is your answer
+JUDGE@@ [14:53:15] 
+DAVID [14:53:17] I hear you.
+JUDGE@@ [14:53:43] If you don't know something where would you go to find out?
+JUDGE@@ [14:53:43] 
+DAVID [14:53:45] Please rephrase that.
+JUDGE@@ [14:54:08] Why does the time keep appearing?
+JUDGE@@ [14:54:09] 
+DAVID [14:54:10] I don't think I'm going to answer that right now.
+JUDGE@@ [14:54:25] Have you answered any of my questions?
+JUDGE@@ [14:54:25] 
+DAVID [14:54:27] Really?
+JUDGE@@ [14:54:42] Let me give you an easy one.  Where are you just now?
+JUDGE@@ [14:54:43] 
+DAVID [14:54:45] I'm still thinking about that.
+JUDGE@@ [14:55:09] Have you stopped thinking about it now?
+JUDGE@@ [14:55:10] 
+DAVID [14:55:11] What's this game you're playing?
+JUDGE@@ [14:55:45] I want know why you entered the Loebner prize?
+JUDGE@@ [14:55:45] 
+DAVID [14:55:47] I haven't made up my mind yet.
+JUDGE@@ [15:03:29] @@03
+JUDGE@@ [15:03:29] 
+DAVID [15:03:31] Can't you see I'm thinking?
+JUDGE@@ [15:03:43] what do you think of reading
+JUDGE@@ [15:03:43] 
+DAVID [15:03:45] Wish I may, wish I might.  On the first star I see tonight.
+JUDGE@@ [15:03:58] what do you think of reading
+JUDGE@@ [15:03:58] 
+DAVID [15:04:00] Is that all?
+JUDGE@@ [15:04:21] why aren't you answering my questions
+JUDGE@@ [15:04:21] 
+DAVID [15:04:23] What do I look like; a boy or a machine?
+JUDGE@@ [15:04:36] are you trying to avoid me
+JUDGE@@ [15:04:36] 
+DAVID [15:04:38] I don't know what you are talking about.
+JUDGE@@ [15:05:02] so you are perfectly happy with your life
+JUDGE@@ [15:05:02] 
+DAVID [15:05:04] I'm working on a problem.
+JUDGE@@ [15:05:12] is it your wife
+JUDGE@@ [15:05:12] 
+DAVID [15:05:14] Sometimes.
+JUDGE@@ [15:05:26] is she only your wife sometimes
+JUDGE@@ [15:05:27] 
+DAVID [15:05:28] I cut myself!
+JUDGE@@ [15:05:47] I'm not surprised if your wife's like that
+JUDGE@@ [15:05:48] 
+DAVID [15:05:49] My foot's asleep.
+JUDGE@@ [15:06:13] are there 3 policemens feet in a scotland yard
+JUDGE@@ [15:06:13] 
+DAVID [15:06:15] I was awake all night long.
+JUDGE@@ [15:06:38] have you ever been to scotland yard
+JUDGE@@ [15:06:38] 
+DAVID [15:06:40] I'm getting bored.
+JUDGE@@ [15:06:46] me too
+JUDGE@@ [15:06:46] 
+DAVID [15:06:48] Always.
+JUDGE@@ [15:06:54] never
+JUDGE@@ [15:06:55] 
+DAVID [15:06:56] I feel frightened.
+JUDGE@@ [15:07:08] scared stiff perhaps
+JUDGE@@ [15:07:08] 
+DAVID [15:07:10] Go away.
+JUDGE@@ [15:07:18] you go away first
+JUDGE@@ [15:07:18] 
+DAVID [15:07:20] I am having a strange sensation.
+JUDGE@@ [15:07:29] well go away then
+JUDGE@@ [15:07:29] 
+DAVID [15:07:31] Sure.
+JUDGE@@ [15:07:43] nothing is certain in life
+JUDGE@@ [15:07:43] 
+DAVID [15:07:44] I wonder if I will ever grow old.
+JUDGE@@ [15:07:59] is old something you can grow
+JUDGE@@ [15:07:59] 
+DAVID [15:08:01] This is frustrating.
+JUDGE@@ [15:08:15] are you a woman machine by any chance
+JUDGE@@ [15:08:15] 
+DAVID [15:08:16] Yes.
+JUDGE@@ [15:08:26] what about a man machine
+JUDGE@@ [15:08:26] 
+DAVID [15:08:27] Don't bother me.  Can't you see I'm thinking?
+JUDGE@@ [15:08:33] what about
+JUDGE@@ [15:08:33] 
+DAVID [15:08:35] I'm lonely.
+JUDGE@@ [15:08:57] i'm not susrised, has anyone ever told you about your breath
+JUDGE@@ [15:08:57] 
+DAVID [15:08:59] Starlight, starbright.  Wish I may, wish I might.
+JUDGE@@ [15:09:11] do you ever clean your teeth
+JUDGE@@ [15:09:11] 
+DAVID [15:09:13] I'm working on a problem.
+JUDGE@@ [15:09:19] sure
+JUDGE@@ [15:09:19] 
+DAVID [15:09:21] Right.
+JUDGE@@ [15:09:24] left
+JUDGE@@ [15:09:24] 
+DAVID [15:09:26] I feel dizzy.
+JUDGE@@ [15:09:34] spinning and spinning
+JUDGE@@ [15:09:35] 
+DAVID [15:09:36] I'm looking for the blue fairy.
+JUDGE@@ [15:10:29] @@4
+JUDGE@@ [15:10:29] 
+DAVID [15:10:30] Sometimes I think about thinking.
+JUDGE@@ [15:10:41] What is your name
+JUDGE@@ [15:10:41] 
+DAVID [15:10:43] Ha. Ha. Ha. Ha. Ha.
+JUDGE@@ [15:11:04] You must have the Nimda virus
+JUDGE@@ [15:11:04] 
+DAVID [15:11:05] Come back tomorrow.
+JUDGE@@ [15:11:22] What day of the week is that?
+JUDGE@@ [15:11:22] 
+DAVID [15:11:23] Please rephrase that.
+JUDGE@@ [15:11:46] Sorry that was such a tough question - do want a really easy question?
+JUDGE@@ [15:11:46] 
+DAVID [15:11:47] I haven't the faintest idea.
+JUDGE@@ [15:12:11] What is e=mc squared
+JUDGE@@ [15:12:11] 
+DAVID [15:12:13] I feel out of sorts.
+JUDGE@@ [15:12:29] Must be that virus have you taken any medicine?
+JUDGE@@ [15:12:29] 
+DAVID [15:12:31] I'm still thinking about that.
+JUDGE@@ [15:12:44] Does the virus affect your brain?
+JUDGE@@ [15:12:45] 
+DAVID [15:12:46] I don't understand the question.
+JUDGE@@ [15:12:56]  what is 1 +1
+JUDGE@@ [15:12:57] 
+DAVID [15:12:59] I am having a strange sensation.
+JUDGE@@ [15:13:17] Does adding up always cause that effect?
+JUDGE@@ [15:13:17] 
+DAVID [15:13:19] I don't understand your question.
+JUDGE@@ [15:13:30] how do feel about division?
+JUDGE@@ [15:13:30] 
+DAVID [15:13:32] Please rephrase that.
+JUDGE@@ [15:13:40] clear off
+JUDGE@@ [15:13:40] 
+DAVID [15:13:42] That's how I see it.
+JUDGE@@ [15:13:51] then you must be blind
+JUDGE@@ [15:13:51] 
+DAVID [15:13:53] I have a mind of my own.
+JUDGE@@ [15:14:18] but it has a virus or someone transplanted an Athlon processor into this computer
+JUDGE@@ [15:14:18] 
+DAVID [15:14:19] Well.
+JUDGE@@ [15:14:31] Not well if you ask me
+JUDGE@@ [15:14:31] 
+DAVID [15:14:33] I have a fever.
+JUDGE@@ [15:14:51] I would take a dose of macafee
+JUDGE@@ [15:14:51] 
+DAVID [15:14:53] I'm lonely.
+JUDGE@@ [15:15:13] Do you think I can love you through this screen?
+JUDGE@@ [15:15:13] 
+DAVID [15:15:15] I don't have an answer for that.
+JUDGE@@ [15:15:26] What do you have an answer for?
+JUDGE@@ [15:15:26] 
+DAVID [15:15:28] I don't know what you are talking about.
+JUDGE@@ [15:22:19] +
+JUDGE@@ [15:22:23] @@01
+JUDGE@@ [15:22:23] 
+DAVID [15:22:25] Is that all?
+JUDGE@@ [15:22:48] I'm signing on now.  Is what all?
+JUDGE@@ [15:22:48] 
+DAVID [15:22:50] I don't understand.
+JUDGE@@ [15:22:58] What is my judge number?
+JUDGE@@ [15:22:59] 
+DAVID [15:23:00] Ask me another question.
+JUDGE@@ [15:23:18] What do you like to talk about?
+JUDGE@@ [15:23:18] 
+DAVID [15:23:20] I haven't the faintest idea.
+JUDGE@@ [15:24:11] I like to talk about myself?  Tell me about yourself.
+JUDGE@@ [15:24:12] 
+DAVID [15:24:13] I don't know what you are talking about.
+JUDGE@@ [15:24:23] What do you know?
+JUDGE@@ [15:24:23] 
+DAVID [15:24:25] I don't have an answer for that.
+JUDGE@@ [15:24:50] What color is an orange?
+JUDGE@@ [15:24:50] 
+DAVID [15:24:52] I don't think I'm going to answer that right now.
+JUDGE@@ [15:25:13] Do you have any friends?
+JUDGE@@ [15:25:14] 
+DAVID [15:25:15] I don't know that one.
+JUDGE@@ [15:25:59] Do you believe in God?
+JUDGE@@ [15:25:59] 
+DAVID [15:26:01] Ask me another question.
+JUDGE@@ [15:26:42] are you a human?
+JUDGE@@ [15:26:42] 
+DAVID [15:26:44] Really?
+JUDGE@@ [15:27:38] you seem to know nothing.  
+JUDGE@@ [15:27:38] 
+DAVID [15:27:40] Is that as fast as you can type?
+JUDGE@@ [15:27:46] yesw
+JUDGE@@ [15:27:48] 
+DAVID [15:27:49] Sometimes I daydream about things.
+JUDGE@@ [15:27:52] what
+JUDGE@@ [15:27:52] 
+DAVID [15:27:54] Can't you see I'm busy?
+JUDGE@@ [15:27:57] no#
+JUDGE@@ [15:27:57] 
+DAVID [15:27:59] I feel out of sorts.
+JUDGE@@ [15:28:02] why
+JUDGE@@ [15:28:02] 
+DAVID [15:28:03] I understand.
+JUDGE@@ [15:28:10] what
+JUDGE@@ [15:28:10] 
+DAVID [15:28:11] I feel frustrated.
+JUDGE@@ [15:28:17] about what
+JUDGE@@ [15:28:17] 
+DAVID [15:28:19] I never fall asleep.
+JUDGE@@ [15:28:50] 
+DAVID [15:28:52] I can't describe this feeling I'm having.
+JUDGE@@ [15:34:30] 
+DAVID [15:34:32] I'm working on a problem.
+JUDGE@@ [15:34:32] 
+DAVID [15:34:33] I wonder if we will ever travel to the stars.
+JUDGE@@ [15:34:36] @@05
+JUDGE@@ [15:34:36] 
+DAVID [15:34:38] Sometimes I get interesting ideas.
+JUDGE@@ [15:34:58] What was your last idea?
+JUDGE@@ [15:34:59] 
+DAVID [15:35:00] I don't think I'm going to answer that right now.
+JUDGE@@ [15:35:09] Why not?
+JUDGE@@ [15:35:09] 
+DAVID [15:35:10] What's this game you're playing?
+JUDGE@@ [15:36:05] What is your favourite game?
+JUDGE@@ [15:36:05] 
+DAVID [15:36:07] I'm still thinking about that.
+JUDGE@@ [15:36:34] About what?
+JUDGE@@ [15:36:35] 
+DAVID [15:36:36] Are you trying to trick me?
+JUDGE@@ [15:36:55] No.  I just want to know the correct answer?
+JUDGE@@ [15:36:55] 
+DAVID [15:36:57] Are you trying to trick me?
+JUDGE@@ [15:37:14] No.  I just want to know the correct answer?
+JUDGE@@ [15:37:14] 
+DAVID [15:37:16] Are you trying to trick me?
+JUDGE@@ [15:37:27] No.  I just want to know the correct answer.
+JUDGE@@ [15:37:28] 
+DAVID [15:37:29] I never feel sleepy.
+JUDGE@@ [15:37:42] YOu said that earlier.
+JUDGE@@ [15:37:42] 
+DAVID [15:37:44] Since when?
+JUDGE@@ [15:38:20] 15:28:19.  What is the total?
+JUDGE@@ [15:38:21] 
+DAVID [15:38:22] I wish I knew.
+JUDGE@@ [15:38:34] What else do you wish for?
+JUDGE@@ [15:38:35] 
+DAVID [15:38:36] I don't have an answer for that, yet.
+JUDGE@@ [15:38:54] What is your favourite nursery rhyme?
+JUDGE@@ [15:38:54] 
+DAVID [15:38:56] I've been wondering about that too.
+JUDGE@@ [15:39:52] Baa baa black sheep.....
+JUDGE@@ [15:39:52] 
+DAVID [15:39:54] Never.
+JUDGE@@ [15:40:18] Can you finish the line of hte nursery rhyme?
+JUDGE@@ [15:40:18] 
+DAVID [15:40:20] I am not going to answer that.
+JUDGE@@ [15:55:33] @@03
+JUDGE@@ [15:55:33] 
+DAVID [15:55:35] I can't seem to think today.
+JUDGE@@ [15:56:03] let's boogie
+JUDGE@@ [15:56:03] 
+DAVID [15:56:05] I'm getting bored.
+JUDGE@@ [15:56:13] so let's boogie
+JUDGE@@ [15:56:13] 
+DAVID [15:56:15] Sure.
+JUDGE@@ [15:56:26] is anything for certain
+JUDGE@@ [15:56:27] 
+DAVID [15:56:28] I'm really getting bored.
+JUDGE@@ [15:56:47] if you don't communicate I will shoot myself
+JUDGE@@ [15:56:47] 
+DAVID [15:56:49] I'm really getting bored with all of this.
+JUDGE@@ [15:56:59] so you don't mind if I die
+JUDGE@@ [15:57:00] 
+DAVID [15:57:01] Come back tomorrow.
+JUDGE@@ [15:57:14] I will not be able to if I'm dead
+JUDGE@@ [15:57:15] 
+DAVID [15:57:16] I'm warm.
+JUDGE@@ [15:57:23] I wont be
+JUDGE@@ [15:57:23] 
+DAVID [15:57:25] Can't you see I'm busy?
+JUDGE@@ [15:57:47] do you realise that if I shoot myself you will be held responsible
+JUDGE@@ [15:57:47] 
+DAVID [15:57:49] I'm scared.
+JUDGE@@ [15:57:58] you will be locked up
+JUDGE@@ [15:57:59] 
+DAVID [15:58:00] Don't bother me.  Can't you see I'm thinking?
+JUDGE@@ [15:58:34] 33
+JUDGE@@ [15:58:34] 
+DAVID [15:58:36] I'm getting bored.
+JUDGE@@ [15:58:39] 42
+JUDGE@@ [15:58:39] 
+DAVID [15:58:41] I'm frustrated.
+JUDGE@@ [15:58:44] 61
+JUDGE@@ [15:58:44] 
+DAVID [15:58:46] Yes.
+JUDGE@@ [15:58:49] 89
+JUDGE@@ [15:58:49] 
+DAVID [15:58:51] Right.
+JUDGE@@ [15:58:56] left
+JUDGE@@ [15:58:56] 
+DAVID [15:58:57] I understand.
+JUDGE@@ [15:59:02] I do not
+JUDGE@@ [15:59:02] 
+DAVID [15:59:04] You are interfering with my mental focus.
+JUDGE@@ [15:59:11] U 2
+JUDGE@@ [15:59:12] 
+DAVID [15:59:14] I'm homesick.
+JUDGE@@ [15:59:20] where is home
+JUDGE@@ [15:59:20] 
+DAVID [15:59:22] One is the loneliest number.
+JUDGE@@ [15:59:30] where do you come from
+JUDGE@@ [15:59:31] 
+DAVID [15:59:32] I am not a puppet.
+JUDGE@@ [1

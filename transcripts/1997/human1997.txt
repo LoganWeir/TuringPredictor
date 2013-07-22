@@ -1,0 +1,329 @@
+(C) 1997 CAMBRIDGE CENTER FOR BEHAVIORAL STUDIES - ALL RIGHTS RESERVED
+CONFEDERATE 01
+START AT 1997/03/29   8:16:39
+@@02
+*** JUDGE02 ***
+START AT 1997/03/29   9:56:21
+CONFEDR[09:56:33] Hi how are you?
+CONFEDR[09:56:55] HI How are you?
+JUDGE02[09:57:27] I'm fine. How are you?
+CONFEDR[09:57:41] I'm fine. Its a nice day today.
+JUDGE02[09:58:13] Not as nice as I would like it to be.
+CONFEDR[09:58:29] What are your plans tonite?
+JUDGE02[09:58:59] I'm having dinner at the Salmagundi Club.  Would you like
+JUDGE02[09:59:06] to join me?
+CONFEDR[09:59:17] Sure. What's a good time?
+JUDGE02[09:59:58] Seven p.m. What would appeal to  you for your meal?
+CONFEDR[10:00:11] Fish is usually a good choice.
+JUDGE02[10:00:36] The fish here is very good. I would suggest you have the
+JUDGE02[10:01:04] salmon.  Before you eat, I would offer you the opportunity
+JUDGE02[10:01:29] to see the new sculpture show here.
+CONFEDR[10:01:56] Yes-I saw the big penquin. Taht one is really good.
+JUDGE02[10:02:34] It did not win a prize. It is a well executed sculpture
+JUDGE02[10:03:02] but the judges didn't like it enought to give it a prize.
+CONFEDR[10:03:20] Why? Is it because of its size?
+JUDGE02[10:03:50] No. I was not a judge so I  don't know why.
+CONFEDR[10:04:12] Many of the others are very good also. How long is the show
+CONFEDR[10:04:20] going to be up?
+JUDGE02[10:04:52] From tonight to May 9th with a reception  and awards on
+JUDGE02[10:04:59] May 2nd.
+CONFEDR[10:05:16] Which one is your favorite piece?
+JUDGE02[10:05:26] Mine.  The white seal.
+CONFEDR[10:05:39] What medium did you use?
+JUDGE02[10:05:45] Marble.
+CONFEDR[10:05:58] Is that your favorite medium?
+JUDGE02[10:06:02] Yes.
+CONFEDR[10:06:13] What are you working on
+JUDGE02[10:06:29] @@01
+*** JUDGE01 ***
+START AT 1997/03/29  10:06:30
+CONFEDR[10:06:42] Hi How are you today?
+JUDGE01[10:06:51] Good thanks. How are you?
+CONFEDR[10:07:20] I'm fine thankyou. I was busy all weekend fixing roofs.
+JUDGE01[10:07:28] Whose roof were you fixing?
+JUDGE01[10:07:46] Whose roof were you fixing?
+JUDGE01[10:08:01] Is that what you usually do on weekends?
+CONFEDR[10:08:20] yes. Sometimes it gets very hot up there.
+JUDGE01[10:08:28] Did you get a tan?
+CONFEDR[10:09:02] Yes. The old tin roof is also a great place to watch people
+CONFEDR[10:09:07] from?
+JUDGE01[10:09:36] Right, when you're not too busy working. What kind of people
+JUDGE01[10:09:43] did you see fromteh old tin roof?
+CONFEDR[10:10:04] Usually kids and people walking their dogs.
+JUDGE01[10:10:14] Are you a dog lover?
+CONFEDR[10:10:36] Yes. I have a hugh dog - a fox hound.
+JUDGE01[10:10:56] (You're as bad a typist as I am.) I love dogs. My family
+JUDGE01[10:11:06] used to have a dog called a keeshond.
+CONFEDR[10:11:19] How big a dog is that?
+JUDGE01[10:11:38] She was about a foot and a half high - short squat dog with
+JUDGE01[10:11:55] really thick gray fur. Its a Norwegian breed, I think.
+JUDGE01[10:12:04] Did you have a dog when you were growing up?
+CONFEDR[10:12:17] Yes. Several in fact.
+JUDGE01[10:12:25] What were their names?
+CONFEDR[10:12:54] Doe Doe, Susie, Black Beauty,Charly, etc ....
+JUDGE01[10:13:00] etc is a funny name for a dog
+CONFEDR[10:13:12] Well there were so many.
+JUDGE01[10:13:19] Which was your favorite?
+CONFEDR[10:13:25] Doe Doe.
+JUDGE01[10:13:35] What was she like?
+CONFEDR[10:14:03] She was part Norweigian Elkhound and police dog. She won
+CONFEDR[10:14:20] a prize is a dog beauty contest.
+JUDGE01[10:14:32] Where did you grow up?
+CONFEDR[10:14:41] In Bklyn and Conn.
+JUDGE01[10:14:57] Wehreabouts? I live in Bklyn heights, and I went to school
+JUDGE01[10:15:00] in CT
+CONFEDR[10:15:27] I went to Berkeley and the Kent School in Kent Ct.
+JUDGE01[10:15:41] When were you at Berkeley? I have a bunch of friends who
+JUDGE01[10:15:44] went there.
+CONFEDR[10:15:56] In the '70s.
+JUDGE01[10:16:06] Ah, before my time.
+JUDGE01[10:16:25] It looks like I've gotta go. It was nice talking with you.
+CONFEDR[10:16:42] Thankyou. I hope we can talk again soon.
+JUDGE01[10:16:50] Me too.
+CONFEDR[10:17:07] When will you be back at the club?
+JUDGE01[10:28:36] @@05
+*** JUDGE05 ***
+START AT 1997/03/29  10:28:36
+CONFEDR[10:28:43] Hi  how are you?
+JUDGE05[10:29:03] Well,ok.Kind of jet-lagged.
+CONFEDR[10:29:14] Where did you fly in from?
+JUDGE05[10:29:28] I just arrived yesterday from Hamburg.
+JUDGE05[10:29:50] The Swedish stewardesses wouldn't let me sleep.
+CONFEDR[10:30:11] Why not? Where they banging and clanging tray about all
+CONFEDR[10:30:15] nite?
+JUDGE05[10:30:44] NO, but every time I tried to get some sleep they would
+JUDGE05[10:31:04] shake me to serve me water or a refreshing towel or
+anything.
+JUDGE05[10:31:18] Probably thought it was good service.
+CONFEDR[10:31:33] Hamburg is a seaport isn't it?
+JUDGE05[10:31:39] Yeah, right.
+JUDGE05[10:31:55] Actually my office is overlooking the port. Nice place.
+CONFEDR[10:32:12] Recently the town has improved a lot correct?
+JUDGE05[10:32:20] What do you mean?
+CONFEDR[10:32:42] Arn't there more tourists there then in years before?
+JUDGE05[10:32:56] Couldn't say so.
+CONFEDR[10:33:27] I have a French friend who married a guy from Hamburg. He
+CONFEDR[10:33:35] is an Architect.
+JUDGE05[10:33:54] Oh, yeah? What kind of projects did he work on?
+CONFEDR[10:34:19] Small stuff. He was younger than she. She had a pretty wild
+CONFEDR[10:34:39] life before she married him. But he was quite goodlooking
+CONFEDR[10:34:54] and young-so moldable so to speak.
+JUDGE05[10:35:19] Hm. I allways thought it's man who like young "moldable"
+JUDGE05[10:35:23] partners.
+CONFEDR[10:35:43] Well she had been married twice before and had lived all
+CONFEDR[10:36:04] over the place. She had worked for Scotland Yard at one
+CONFEDR[10:36:08] point.
+JUDGE05[10:36:29] Wow, you've got interesting friends.
+JUDGE05[10:36:33] What do you do?
+CONFEDR[10:37:06] Right now Im involved in a comabination of things. I want
+CONFEDR[10:37:27] to sstart a private foundation to raise money for a
+historical
+CONFEDR[10:37:31] museum.
+JUDGE05[10:37:41] What museum?
+CONFEDR[10:38:06] A children's Cival war museum. That way the public that
+CONFEDR[10:38:21] tramps through is hopefully controllable.
+JUDGE05[10:38:28] Controllable?
+CONFEDR[10:38:42] They are supposed to be anyway.
+JUDGE05[10:39:20] @@04
+*** JUDGE04 ***
+START AT 1997/03/29  10:39:20
+CONFEDR[10:39:27] Hi how are you?
+JUDGE04[10:40:07] I am  ok.  A little tired of typing.
+CONFEDR[10:40:19] Have you been typing long?
+JUDGE04[10:40:54] yes, you are the fifth chat i have had today.
+CONFEDR[10:41:04] Who were the others?
+JUDGE04[10:41:33] That is unimportant.  Where are you?
+CONFEDR[10:41:51] I'm in New York but like to travel.
+JUDGE04[10:42:05] Where have you travelled to?
+CONFEDR[10:42:24] I just got back from Cape May N.J.
+JUDGE04[10:42:48] What did you do there?
+CONFEDR[10:43:03] Fix more "old tin roofs".
+JUDGE04[10:43:25] Have others complained about the space bar?
+CONFEDR[10:43:43] No. We just "merrily roll along".
+JUDGE04[10:43:55] What does that mean
+CONFEDR[10:44:29] We just keep going. One little old space bar doesn't matter.
+JUDGE04[10:45:02] Would you like to see a movie after this event.
+CONFEDR[10:45:28] No thankyou. It's to nice a day to spend time in a theatre.
+JUDGE04[10:45:41] Whatdoes thankyou mean?
+CONFEDR[10:46:09] You invited me out and I declined. Polite conversation
+requires
+CONFEDR[10:46:24] me to Thank You for your invitation.
+JUDGE04[10:46:32] Butofcourse.
+JUDGE04[10:47:04] Do you believe in UFO's?
+CONFEDR[10:47:30] Yes. I think Other forms of life are constantly watching
+CONFEDR[10:47:42] us and amused at what they see.
+JUDGE04[10:48:18] They are watching LUCY in the next galaxy.
+CONFEDR[10:48:29] Did you see athe comet??
+JUDGE04[10:49:06] I saw Halleys and I saw Hale Bopp on TV, I Missed the
+spacecraft
+JUDGE04[10:49:13] behind it though.
+CONFEDR[10:49:25] Well better luck next time.
+JUDGE04[10:49:57] @@03
+*** JUDGE03 ***
+START AT 1997/03/29  10:49:58
+CONFEDR[10:50:06] Hi how are you?
+JUDGE03[10:50:23] I'm feelingquitewell,thanks-- how are you?
+CONFEDR[10:50:45] Just fine. I'm thinking about lunch aand wondering where
+CONFEDR[10:50:48] to go?
+JUDGE03[10:51:07] How much do you want to spend? Andwhat are your"won't eats"?
+CONFEDR[10:51:29] About 10 bucks and I don't want anything greasy.
+JUDGE03[10:51:48] Go toZen Palate at UnionSquare, and ordersomething in the
+JUDGE03[10:52:06] cafe downstairs.  It's not greasy. And it's tasty. Where
+JUDGE03[10:52:10] are you from?
+CONFEDR[10:52:32] I'm from New York. Have you heard about this new airbourn
+CONFEDR[10:52:56] virus that is flesh eating? Its in North Caralina now.
+JUDGE03[10:53:16] I was thinking about lunch, too, but Iwasn't really in
+themood
+JUDGE03[10:53:24]  for flesh.
+CONFEDR[10:53:48] Well thats understandable. But have you heard about this
+CONFEDR[10:53:52] virus?
+JUDGE03[10:54:05] No! I was the human last year, btw.
+CONFEDR[10:54:27] OK. So where are you going for lunch?
+JUDGE03[10:54:48] Not sure yet. I understandHugh Loebner willbe
+servingsandwiches
+JUDGE03[10:54:59] -- and boy,amI ready for my sandwich...
+CONFEDR[10:55:06] Any  beer??
+JUDGE03[10:55:15] No, I do not imbibe beer.
+CONFEDR[10:55:26] What do you imbibe?
+JUDGE03[10:55:50] White wine, red wine, champagne (sometimes), scotch and
+JUDGE03[10:55:56] fresh margaritas.
+CONFEDR[10:56:13] That all sounds good. Have you been to any of the new cigar
+CONFEDR[10:56:16] bars?
+JUDGE03[10:56:29] I avoid thoseplaces like the plague -- which is what they
+JUDGE03[10:56:48] are. I did check out Bar & Books a few times. What a
+sillydump.
+CONFEDR[10:57:15] I haven't been to a cigar bar yet . There's a reall seedy
+CONFEDR[10:57:34] old place that's near work where I go. It used to be an
+CONFEDR[10:57:51] Indian bar where all the steel workers hang out. They tell
+CONFEDR[10:58:08] some pretty good stories. The steel men are considered the
+CONFEDR[10:58:17] Supermen of construction.
+JUDGE03[10:58:32] Soundsvery atmospheric.  So you've beensucked in by
+theromance
+JUDGE03[10:58:42] of manly work,and allthat?
+CONFEDR[10:58:51] No-by the cheap beer.
+JUDGE03[10:59:01] Where do you work? Manhattan?
+CONFEDR[10:59:12] No. At Metrotech in Bklyn.
+JUDGE03[10:59:23] I get it. How did you end uphere today?
+CONFEDR[10:59:39] I have a floating schedule.
+JUDGE03[10:59:49] Mmhm. The best kind.
+CONFEDR[11:00:26] Yes.   Also my boss went on vacation.
+JUDGE03[11:01:07] @@02
+*** JUDGE02 ***
+START AT 1997/03/29  11:01:07
+CONFEDR[11:01:15] Hi what up?
+JUDGE02[11:01:36] Hello.  Do you know anything about art?
+CONFEDR[11:01:48] Yes. What do you want to know?
+JUDGE02[11:02:10] What is your favorite medium?
+CONFEDR[11:02:19] Clay.
+JUDGE02[11:02:38] As sculpture or making ceramic pots?
+CONFEDR[11:03:00] As sculpture.  How long have you been a member here?
+JUDGE02[11:03:14] How do you know I'm a member?
+CONFEDR[11:03:44] Well its only a guess-but since you like to talk about art
+CONFEDR[11:04:09] and all that I think you may be a member of some art club.
+JUDGE02[11:04:26] Do you know the nameof this art club?
+CONFEDR[11:04:55] Well there are so many. There's a really nice one near
+Grammercy
+CONFEDR[11:05:11] Park as well and yes I know the name of this club.
+JUDGE02[11:05:18] Whatisit?
+CONFEDR[11:05:30] The Salmagundi Club.
+JUDGE02[11:06:18] @@01
+*** JUDGE01 ***
+START AT 1997/03/29  11:06:19
+CONFEDR[11:06:30] Hi What's up?
+JUDGE01[11:06:40] Not much. Remember me?
+CONFEDR[11:07:04] Yes. Where are you going for lunch? Or are you going to
+CONFEDR[11:07:10] have a sandwich?
+JUDGE01[11:07:20] I'll just grab a sandwich, probably.
+JUDGE01[11:07:42] I need to ask you three questions. The first one is, when
+JUDGE01[11:07:45] were you born?
+CONFEDR[11:07:56] That's a personal question.
+JUDGE01[11:08:12] OK, so whats your sign, then? No age involved.
+CONFEDR[11:08:19] I'm a libra.
+JUDGE01[11:08:23] OK.
+JUDGE01[11:08:34] When you got your first liscence, was it in a stick or an
+JUDGE01[11:08:38] automatic?
+CONFEDR[11:08:46] A stick shift.
+JUDGE01[11:08:56] Do you still drive stick?
+CONFEDR[11:09:15] No. my car got stolen. And Stickshifts are a pain.
+JUDGE01[11:09:30] no fooling. I'm sorry about your car. did it get stolen
+JUDGE01[11:09:34] in NYC?
+CONFEDR[11:09:52] Yes. But it was a bomb so they didn't get far.
+JUDGE01[11:10:05] ...and you didn't want it back?
+CONFEDR[11:10:17] Yes but the police never found it.
+JUDGE01[11:10:32] its probably been turned into parts in the So. Brnx
+CONFEDR[11:10:54] Yes. Those hack shops are really something.
+JUDGE01[11:11:12] i think they call them "chop shops". thats how i leanred
+JUDGE01[11:11:15] it, anyway
+CONFEDR[11:11:34] Yes thats what they're called. What
+JUDGE01[11:11:42] what what?
+CONFEDR[11:12:06] Well not much. I think I may zip down to Wall Street to
+CONFEDR[11:12:15] caheck out that new beer.
+JUDGE01[11:17:29] @@05
+*** JUDGE05 ***
+START AT 1997/03/29  11:17:29
+CONFEDR[11:17:41] Hi Whats up?
+JUDGE05[11:17:48] Do you remembermy name?
+CONFEDR[11:18:01] Its a number no?
+JUDGE05[11:18:21] Yeah, but didn't I tell you my name?
+CONFEDR[11:18:38] Are you the guy from Hamburg?
+JUDGE05[11:18:41] Right.
+CONFEDR[11:19:12] So are you going to check out any of our micro-brews?(beer).
+JUDGE05[11:19:32] Well, I know it's a shame but even though I live in Germany
+JUDGE05[11:19:38] I don't drink beer.
+CONFEDR[11:20:01] OK.  What sort of stocks do you like?
+JUDGE05[11:20:20] Stocks? You are investing?
+CONFEDR[11:20:34] Sure. Everyone does sooner or later.
+JUDGE05[11:20:43] Have you had any luck so far?
+CONFEDR[11:20:56] Yes. I like communications .
+JUDGE05[11:21:19] Well, a lot of those semingly hot companies were utter
+failures.
+JUDGE05[11:21:27] did you hear about Informix?
+CONFEDR[11:21:51] No. I mainly go with safe bets-like att lucent tech etc.
+JUDGE05[11:22:08] Well, less risk, less gain,right?
+CONFEDR[11:22:22] not really. Microsoft went up 85%.
+JUDGE05[11:22:29] Ok,andIntel of course.
+CONFEDR[11:22:37]
+JUDGE05[11:23:08] @@04
+*** JUDGE04 ***
+START AT 1997/03/29  11:23:10
+CONFEDR[11:23:19] Hi what's up now?
+JUDGE04[11:23:31] morechat round two.
+JUDGE04[11:23:43] What stocksdo you like?
+CONFEDR[11:24:12] The  phrama. and the Comm. stocks are really good. I look
+CONFEDR[11:24:35] for companies that are based and invested worldwide.
+JUDGE04[11:25:04] I would watchout  for the Comm Stocks.  We are looking
+JUDGE04[11:25:31] at a technological shift to wireless soon.  They may get
+JUDGE04[11:25:36] killed.
+CONFEDR[11:26:03] I think that its important to see who gets what airspace.
+CONFEDR[11:26:14] The auctions are wild.
+JUDGE04[11:26:34] The auctionsare cold.  The bidding was really low at last
+JUDGE04[11:26:41] weeks auction.
+CONFEDR[11:27:01] What sorts of companies do you watch?
+JUDGE04[11:27:26] I only buy mutual funds.  Individual stocks need wathcing
+JUDGE04[11:27:33] I thinkI do better.
+CONFEDR[11:27:52] Thats because the fund managers have convinced you that
+CONFEDR[11:28:08] they know more than the individual investor.
+JUDGE04[11:28:42] @@03
+*** JUDGE03 ***
+START AT 1997/03/29  11:28:42
+CONFEDR[11:28:58] Hi whats the story for the day?
+JUDGE03[11:29:22] well,i'm havingtroublekeepingtrackof allthese pseudo humans.
+JUDGE03[11:29:35] The space bar is a tad lame -- i must remember topound it
+JUDGE03[11:29:39] at the center.
+CONFEDR[11:30:01] You're doing a good job of it. So what sorts of stocks do
+CONFEDR[11:30:05] you like?
+JUDGE03[11:30:15] I never discuss that stuff. Sorry.
+CONFEDR[11:30:28] Why? Is it a secret??
+JUDGE03[11:30:51] No,I just have no idea what to say about such matters. The
+JUDGE03[11:31:03] stockmarket islike the moon or the sun. It'sthere. I have
+JUDGE03[11:31:09] no idea how itworks, though.
+CONFEDR[11:31:25] Have you pruchased stock before?
+JUDGE03[11:31:43] Have you? And areyou tryingto sellme something?
+CONFEDR[11:32:02] No I don't have anything to sell but I did read something
+CONFEDR[11:32:17] interesting in the paper the other day. It talked about
+CONFEDR[11:32:39] aatheis new astartup beer company called Dalton.comm. They
+CONFEDR[11:33:00] are trying to raise money by selling directly to the public
+CONFEDR[11:33:31] and not bother with underwriters etc. We can but their
+shares
+CONFEDR[11:33:36] over the internet.
+JUDGE03[11:33:41] :

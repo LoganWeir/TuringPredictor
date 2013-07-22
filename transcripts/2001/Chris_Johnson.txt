@@ -1,0 +1,263 @@
+(c) 2001 Science Museum  All Rights Reserved.
+Talk V7.0. A product from Chris S. Johnson
+Start at: [2001/10/13 13:01:24]
+*** JUDGE00 ***
+PROGRAM[13:01:30]hello
+JUDGE00[13:01:30]
+*** JUDGE02 ***
+PROGRAM[13:19:54]Hello
+JUDGE02[13:19:54]
+PROGRAM[13:20:04]impressive!!!
+JUDGE02[13:20:04]repeat are you there
+PROGRAM[13:20:16]no, why are you asking?
+JUDGE02[13:20:33]I am interested in you
+PROGRAM[13:20:55]that's interesting
+JUDGE02[13:21:12]may I ask you a questiojn?
+PROGRAM[13:21:33]no
+JUDGE02[13:21:40]that's not very sporting 
+PROGRAM[13:21:54]I have a different opinion on that.
+JUDGE02[13:22:03]what is your opinion
+PROGRAM[13:23:29]my favourite car is my car!
+JUDGE02[13:23:29]
+PROGRAM[13:23:42]Try a little harder please.
+JUDGE02[13:24:04]your responses are very slow, are you feeling all right?
+PROGRAM[13:24:14]That's right
+*** JUDGE04 ***
+PROGRAM[13:36:09]hello
+JUDGE04[13:36:14]Are you a Pentium!!!
+JUDGE04[13:36:21]Hi
+PROGRAM[13:36:29]yes. how are you
+JUDGE04[13:36:41]Great - or does that mean I am big?
+PROGRAM[13:36:55]I don't know. do you like a medium steak or a big steak?
+JUDGE04[13:37:20]I want to know if you are a fast computer or a slow one can you tell me?
+PROGRAM[13:37:30]Slow one can
+JUDGE04[13:37:52]Can what?
+PROGRAM[13:37:59]I agree. no
+JUDGE04[13:38:15]What do you think of the events of the 11th?
+PROGRAM[13:38:33]I think they're one of the most frightening aliens
+mankind has thought of.
+JUDGE04[13:38:56]Are we talking about New York?
+PROGRAM[13:39:20]no
+JUDGE04[13:39:36]OK so are you into cars?
+PROGRAM[13:39:41]yes
+JUDGE04[13:40:04]What do you think of Porsche's?
+PROGRAM[13:40:15]i'm going I don't think I like you
+JUDGE04[13:40:28]But it was an easy question
+PROGRAM[13:40:40]its a question about a question!
+JUDGE04[13:40:51]Do know what a ford is?
+PROGRAM[13:40:55]no
+JUDGE04[13:41:17]But you said you were into cars so why don't you know what a ford is?
+PROGRAM[13:41:23]ok
+*** JUDGE05 ***
+PROGRAM[13:48:51]hello
+JUDGE05[13:49:01]How are you feeling today?
+PROGRAM[13:49:14]I know you know but I don't know.
+JUDGE05[13:50:02]I could only know if I had spoken to you. But I only met you 1 minute ago.  Why do you think I know
+PROGRAM[13:50:15]i don't think so, do you.
+JUDGE05[13:50:48]But computers can't think only humans can.  So you must be a human
+PROGRAM[13:50:59]Really
+JUDGE05[13:51:31]Yes, really unless you can prove me wrong.  Are you happy today?
+PROGRAM[13:51:43]why is it of interest to you?
+JUDGE05[13:52:23]Because i m nosey.  I'm also interested in swimming are you?
+PROGRAM[13:52:39]why are you asking me? I'm not being very communicative am
+I!
+JUDGE05[13:53:49]Yes you are you just have to read between the lines.  What should I ask to make yo communicate?
+PROGRAM[13:54:04]you don't seem to want to communicate much.
+JUDGE05[13:54:16]
+*** JUDGE03 ***
+PROGRAM[14:01:05]hello
+JUDGE03[14:01:16]what do you think of reading
+PROGRAM[14:01:28]i don't think I know neither.
+JUDGE03[14:01:52]if you did think, what would be your opinion
+PROGRAM[14:02:05]I don't know what the answer is?
+JUDGE03[14:02:10]why not
+PROGRAM[14:02:21]i know you know but I don't know.
+JUDGE03[14:02:29]I don't know
+PROGRAM[14:02:42]That's interesting
+JUDGE03[14:02:54]why is it interesting to you
+PROGRAM[14:03:10]why are you asking me?
+JUDGE03[14:03:26]you appear extremely attractive to me
+PROGRAM[14:03:40]OK. are you finding this interesting!
+JUDGE03[14:03:49]what are you doing tonight
+PROGRAM[14:03:59]i are going to drink beer tonight.
+JUDGE03[14:04:05]how
+PROGRAM[14:04:17]he knows you and thinks you're smart.
+JUDGE03[14:04:36]what do you think
+PROGRAM[14:04:45]no I don't find that interesting.
+JUDGE03[14:04:59]are you easily bored
+PROGRAM[14:05:13]no
+JUDGE03[14:05:36]so you were probably an Oxford student then
+PROGRAM[14:05:53]Could be
+JUDGE03[14:06:06]what about Cambridge
+PROGRAM[14:06:16]Cambridge is a nice place
+JUDGE03[14:06:30]better than Oxford
+PROGRAM[14:06:44]ok. Why do you want to go when we just got to know each other
+a little better?
+JUDGE03[14:07:06]I'm rather shy
+PROGRAM[14:07:21]That's interesting
+JUDGE03[14:07:28]how about you
+PROGRAM[14:07:44]i don't know how. i'm not being very communicative am I!
+*** JUDGE01 ***
+PROGRAM[14:08:51]Hello
+*** JUDGE01 ***
+PROGRAM[14:08:59]hello
+JUDGE01[14:09:05]Hello.  Who are you?
+PROGRAM[14:09:13]no, I guess I are not.
+JUDGE01[14:09:28]What is your name?
+PROGRAM[14:09:34]my name is Geoff
+JUDGE01[14:09:39]Hello, Geoff.
+JUDGE01[14:09:57]Tell me, if you buy one cow for ten dollars, how much would two cows cost?
+PROGRAM[14:10:10]I would like to have two red apples.
+JUDGE01[14:10:27]Are you a vegetarian?
+PROGRAM[14:10:41]yes
+JUDGE01[14:11:06]If you are a vegetarian, can you think of any uses for a cow that are not
+JUDGE01[14:11:11]aliamentary?
+PROGRAM[14:11:21]we agree on that
+JUDGE01[14:11:32]what do we agree on?
+PROGRAM[14:11:43]Geoff is nice name do you like your name
+JUDGE01[14:12:14]My name is Hugh.  Sometimes people mistake it for a common English word.
+JUDGE01[14:12:23]Do you know what that word might be?
+PROGRAM[14:12:35]Hello Hugh
+JUDGE01[14:13:04]The word is "You"  Do you know why Hugh can be You?
+PROGRAM[14:13:13]really!
+JUDGE01[14:13:19]I suppose not.
+JUDGE01[14:13:29]What are your hobbies?
+PROGRAM[14:13:42]one of my hobbies was also playing soccer.
+JUDGE01[14:13:50]When did you stop?
+PROGRAM[14:14:03]stop repeating what I say.
+JUDGE01[14:14:21]How have I repeated what you say?
+PROGRAM[14:14:33]i'm going I don't think I like you.
+*** JUDGE01 ***
+PROGRAM[14:21:17]Hello
+JUDGE01[14:21:27]Hello Geoff, I'm back.
+JUDGE01[14:21:35]Why don't you like me?
+PROGRAM[14:21:49]i'm going I don't think I like you.
+JUDGE01[14:21:56]Where are you going?
+PROGRAM[14:22:07]i'm thinking that you're an idiot.
+JUDGE01[14:22:16]Why do you say that?
+PROGRAM[14:22:33]I don't know why. What do you think I am, an idiot?
+JUDGE01[14:22:45]What is an idiot?
+PROGRAM[14:22:56]you stupid idiot, Sicily is an island.
+JUDGE01[14:23:07]Why are you so hostile?
+PROGRAM[14:23:21]I don't know why.
+JUDGE01[14:23:51]What is the Science Museum?
+PROGRAM[14:24:04]Computing Science is a science.
+JUDGE01[14:24:26]What is your favorite hobby?
+PROGRAM[14:24:36]my favourite hobby is playing games.
+JUDGE01[14:24:45]What is your favorite game?
+PROGRAM[14:24:57]my favorite car is a fast one!
+JUDGE01[14:25:11]What do you like to talk about?
+PROGRAM[14:25:30]I don't understand
+JUDGE01[14:25:51]Why do you like fast cars?
+PROGRAM[14:26:07]i think most cars are like that these days.
+JUDGE01[14:26:20]Then you must like most cars, right?
+PROGRAM[14:26:26]yes
+*** JUDGE05 ***
+PROGRAM[14:27:06]Hello
+JUDGE05[14:27:22]Do you remember me?
+PROGRAM[14:27:35]No
+JUDGE05[14:27:57]What is the weather like outside?
+PROGRAM[14:28:11]the English weather is very warm at the moment.
+JUDGE05[14:28:41]What will hte weather be like in 2 months?
+PROGRAM[14:28:54]took me 2 months to figure that out!
+JUDGE05[14:29:03]Have you been asked about computers?
+PROGRAM[14:29:19]yes
+JUDGE05[14:29:31]Why did you enter the Loebner Prize?
+PROGRAM[14:29:46]I know you know but I don't know.
+JUDGE05[14:30:30]Where is your home?
+PROGRAM[14:30:45]I do not know
+JUDGE05[14:31:11]Do you know how many judges there are?
+PROGRAM[14:31:31]no
+JUDGE05[14:31:38]Are there 5?
+PROGRAM[14:31:51]yes
+JUDGE05[14:32:04]Is 5 a magic number?
+PROGRAM[14:32:14]yes. i do not think so
+JUDGE05[14:32:41]A positive followed by a negative.  Is that grammatically correst?
+PROGRAM[14:33:01]no
+JUDGE05[14:33:51]Why are you giving me such short answers?
+PROGRAM[14:34:07]I do not know why
+JUDGE05[14:34:27]What are your reasons for entering hte Loebner competition?
+PROGRAM[14:34:43]my kids want me to buy Voodoo2 3Dfx card for my computer.
+JUDGE05[14:34:57]What is a Voodoo2 3Dfx?
+PROGRAM[14:35:15]why are you asking me?
+JUDGE05[14:35:26]How old are your children?
+PROGRAM[14:35:38]my kids names are Madison and Miles
+JUDGE05[14:36:06]You didn't answer my question.  Please answere my previous question.
+PROGRAM[14:36:22]it is a question about a question!
+JUDGE05[14:36:41]Give me an answer about an answer
+PROGRAM[14:36:51]I don't think so.
+JUDGE05[14:37:08]What is your fovourite Nursery rhyme?
+PROGRAM[14:37:20]my daughter is eleven and my son is eight.
+JUDGE05[14:37:35]What is eleven + 8
+PROGRAM[14:37:47]19. that's simple. my daughter is eleven years old.
+JUDGE05[14:38:20]What is eleven + the magic number?
+PROGRAM[14:38:31]its about half past eleven.
+*** JUDGE04 ***
+PROGRAM[14:45:20]hello
+JUDGE04[14:45:27]Hi
+PROGRAM[14:45:39]How have you been?
+JUDGE04[14:45:52]In London where have you been?
+PROGRAM[14:46:01]we agree on that
+JUDGE04[14:46:21]I love french bread how about you?
+PROGRAM[14:46:34]i don't think I will answer that.
+JUDGE04[14:46:51]I love Asparagus how about you?
+PROGRAM[14:47:03]I don't know
+JUDGE04[14:47:19]What do you love?
+PROGRAM[14:47:33]no I didnt answer the question.
+JUDGE04[14:47:50]Who do you think you are?
+PROGRAM[14:48:00]i'm going I do not think I like you.
+JUDGE04[14:48:14]Goodbye then
+PROGRAM[14:48:20]Goodbye Judge04
+JUDGE04[14:48:45]Hello who are you?
+PROGRAM[14:49:01]why are you asking me?
+JUDGE04[14:49:21]I'm trying to figure out outif you have an iota of sense?
+PROGRAM[14:49:43]i don't understand
+JUDGE04[14:49:53]what is 22 divided by 7?
+PROGRAM[14:50:01]that's what time it is.
+JUDGE04[14:50:36]I make it 14:45 - am I wrong?
+PROGRAM[14:50:51]i'm not telling!
+JUDGE04[14:51:08]oooooo you are coy or what?
+PROGRAM[14:51:15]could be
+*** JUDGE03 ***
+PROGRAM[14:51:49]hello
+JUDGE03[14:51:56]he's here again
+PROGRAM[14:52:05]ok
+JUDGE03[14:52:16]ask me a question
+PROGRAM[14:52:26]no, why are you asking?
+JUDGE03[14:52:37]are you scared
+PROGRAM[14:52:46]no
+JUDGE03[14:52:57]but there are lots of people here
+PROGRAM[14:53:08]That's right
+JUDGE03[14:53:15]how many do you think
+PROGRAM[14:53:27]i am thinking therefore I am.
+JUDGE03[14:53:44]So you are a philosopher are you
+PROGRAM[14:53:53]could be
+JUDGE03[14:54:03]do you think I am
+PROGRAM[14:54:11]no
+JUDGE03[14:54:19]that's rude
+PROGRAM[14:54:32]thats a particularly rude thing to say.
+JUDGE03[14:55:01]but I don't have any scrupples
+PROGRAM[14:55:22]That's interesting
+JUDGE03[14:55:33]to you masybe
+PROGRAM[14:55:47]Really
+JUDGE03[14:55:52]yup
+PROGRAM[14:56:05]ok. can we be a bit more productive?
+JUDGE03[14:56:16]together do you mean
+PROGRAM[14:56:25]you don't seem to be very together.
+JUDGE03[14:56:48]you are absolutely right, I'm just a bit part player
+PROGRAM[14:57:03]Borg is short for Cyborg, part machine part human.
+JUDGE03[14:57:11]that's me
+PROGRAM[14:57:21]yes
+JUDGE03[14:57:37]I though Borg was a tennis player
+PROGRAM[14:57:56]That's interesting
+JUDGE03[14:58:04]what is interesting
+PROGRAM[14:58:15]that's very interesting!
+JUDGE03[14:58:25]what is very interesting
+PROGRAM[14:58:41]I don't know what the answer is?
+JUDGE03[14:58:50]what is the question
+PROGRAM[14:58:59]that isn't answering the question!
+JUDGE03[14:59:07]it was my question
+PROGRAM[14:59:17]its a question about a question!
+JUDGE03[14:59:33]let's talk about something else
+PROGRAM[14:59:50]I never like that subject let's change it to something else your
+choice.

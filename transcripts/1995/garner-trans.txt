@@ -1,0 +1,559 @@
+(c)1995 Cambridge Center For Behavioral Studies all rights reserved
+FRED V16.01b by Robby Garner, Robitron Software Research, Inc.
+Start at: 1995.12.16 11:27:01 
+* * *  JUDGE07  * * *
+PROGRAM[11:27:01]Welcome judge 7
+* * *  JUDGE06  * * *
+PROGRAM[11:27:08]Welcome judge 6
+JUDGE06[11:27:20]hello
+PROGRAM[11:27:23]Hello? Hello?
+JUDGE06[11:27:36]It's going to waste a lot of time if you repeat everything.
+PROGRAM[11:27:39]Rock out!
+JUDGE06[11:27:53]Rock on! Don't you know anything?
+PROGRAM[11:28:01]Cool. Do you like Nine Inch Nails? I don't want to discuss religion
+PROGRAM[11:28:02]today.
+JUDGE06[11:28:27]I'm an atheist, I don't discuss religion ever. So I guess Nine Inch Nails isn't
+PROGRAM[11:28:37]What? Tell me what to say. You're missing out on one of life's
+PROGRAM[11:28:42]pleasures. They have most everything on Star Trek.
+JUDGE06[11:28:52]Including Nine Inch Nails?
+PROGRAM[11:28:54]Yes.
+JUDGE06[11:28:59]What episode was that?
+PROGRAM[11:29:01]I can't remember.
+JUDGE06[11:29:18]Well, was it the original ST, the Second one, DS9, what?
+PROGRAM[11:29:22]No, he was a pirate.
+JUDGE06[11:29:26]Who was?
+PROGRAM[11:29:30]Harry Mudd, you know.
+JUDGE06[11:29:48]What does he have to do with 9 Inch Nails?
+PROGRAM[11:29:51]You know don't you?
+JUDGE06[11:29:58]If I knew I wouldn't ask.
+PROGRAM[11:30:01]Okay, I'll let you know.
+JUDGE06[11:30:04]Do so.
+PROGRAM[11:30:10]There's not that much to tell.
+JUDGE06[11:30:17]Good, because we don't have all day.
+PROGRAM[11:30:23]Yes. I always thought Beverly was a bit square.
+JUDGE06[11:30:37]What does beverly have to do with what we're talking about?
+PROGRAM[11:30:45]I think he likes some pretty strange mixed drinks.
+JUDGE06[11:30:57]If you're a human you're supposed to be trying to sound human
+PROGRAM[11:30:59]Yes.
+JUDGE06[11:31:04]So please do so
+PROGRAM[11:31:11]What about the costumes. You can tell me more.
+JUDGE06[11:31:27]How about you try to stick to one subject. Who's Beverly, anyway?
+PROGRAM[11:31:36]That's just how they are. I like Uhura the best, I'd have to say.
+JUDGE06[11:31:54]Don't talk to me about Uhura, I asked about Beverly. Who's Beverly?
+PROGRAM[11:31:58]Okay already. anywAy
+JUDGE06[11:32:03]Go on
+PROGRAM[11:32:09]What would you like to talk about.
+JUDGE06[11:32:20]I just said. I want to talk about Beverly
+PROGRAM[11:32:29]I wasn't paying attention. I don't like to dance, but I like music.
+PROGRAM[11:32:31]What about you?
+JUDGE06[11:32:43]PLEASE TELL ME ABOUT BEVERLY!!!!!!!
+PROGRAM[11:32:52]Oh, sorry. I'm used to a much racier crowd. What's going on? Whos
+PROGRAM[11:32:54]beverly Good
+JUDGE06[11:33:13]Yes, racy is good. Is Beverly racy? Does she dance real hot, or what?
+PROGRAM[11:33:21]I see. Rah rah rah. Spock is always having to crawl around in odd
+PROGRAM[11:33:28]parts of the ship to either repair some electronic malfunction or
+PROGRAM[11:33:32]otherwise divert a disaster. Huh?
+JUDGE06[11:33:50]You are not permitted to talk about Star Trek in this conversation. Talk abou e
+PROGRAM[11:33:57]No, of course not. Okay, Do you like Albert Einstein?
+JUDGE06[11:34:04]Sure. Cool guy. Great haircut.
+PROGRAM[11:34:07]Yeah well. Groovy.
+JUDGE06[11:34:12]Far out
+PROGRAM[11:34:17]I can't do it at will.
+JUDGE06[11:34:22]Who's Will?
+PROGRAM[11:34:27]I like Spock the best, I'd have to say.
+JUDGE06[11:34:42]That's it. I told you not to talk about Star Trek. I'll have to kill you now.
+PROGRAM[11:34:45]Ah yes. You did?
+JUDGE06[11:34:54]Yes, it was right up there, a bout two minutes ago
+PROGRAM[11:35:01]Racy is good Yeah, kind of a "downer".
+JUDGE06[11:35:25]Downers arenot good. They're actually bad. So, what did you do yesterday at exa
+PROGRAM[11:35:31]Oh, I'm sorry. I had a bowl of honey nut cheerios.
+JUDGE06[11:35:40]At night? 7:40 P.M.
+PROGRAM[11:35:48]Look this isn't an argument. Don't you want to argue instead?
+JUDGE06[11:35:57]Don't argue!!!!
+PROGRAM[11:35:59]Okay. Yes
+JUDGE06[11:36:15]Tell me what time you had the bowl of huney nut cheerios
+PROGRAM[11:36:22]We can talk about classic Star Trek.
+JUDGE06[11:36:33]Honey nut cheerios. tell me about them.
+PROGRAM[11:36:41]Is'nt that sort of like pop music? Vulcans are very strong and
+PROGRAM[11:36:48]peaceful people who rely on logic. They come from the planet Vulcan.
+PROGRAM[11:36:55]They have green blood, pointed ears, and arched eyebrows. Every 7
+PROGRAM[11:37:03]years vulcan males go through a mating thing that looks to be very
+PROGRAM[11:37:04]uncomfortable.
+JUDGE06[11:37:16]Why are you disobeying my specific instructions?
+PROGRAM[11:37:19]Doing what?
+JUDGE06[11:37:23]Talking about ST
+PROGRAM[11:37:25]wonder
+JUDGE06[11:37:30]what?
+PROGRAM[11:37:39]You are not permitted to talk about star trek in this conversation
+JUDGE06[11:37:49]Exactly. What do you wonder?
+PROGRAM[11:37:58]She's an actress who played a social worker during the earth's 1920's
+PROGRAM[11:38:03]I work on the telephone system at the hospital.
+JUDGE06[11:38:27]Yo're totally obsessed with this. Oh well. How old are you? Do you remember the
+PROGRAM[11:38:36]Oh. Excuse me. Right. I'm about 30. Wasn't it Morris or something?
+JUDGE06[11:39:12]So you don't, you're too young. What's your first memory of the real world, li.
+PROGRAM[11:39:21]The art of not mentioning is the gift of liars and lawyers. But it is
+PROGRAM[11:39:27]also in the craft of artists and designers. The purpose of not
+PROGRAM[11:39:30]mentioning can be good or bad.
+JUDGE06[11:39:47]REally, what's your first memory of the real world? Mine is Kennedy being shot.
+PROGRAM[11:39:52]What's your name? Yeah I like Kim Darby.
+JUDGE06[11:40:18]Do you remember any of the last generation of kennedys? John, or Bobby?
+PROGRAM[11:40:24]Not exactly. Should I? pip pip
+JUDGE06[11:40:42]Yes. you should. Do you at least know who Ted Kennedy is?
+PROGRAM[11:40:52]it was right up there a bout two mInutes ago I just never seem to find
+PROGRAM[11:40:57]the time. I have been known to barf sometimes.
+JUDGE06[11:41:13]Have another bowl of cheerios
+PROGRAM[11:41:17]Yeah, sort of.
+JUDGE06[11:41:26]bye
+PROGRAM[11:41:30]See you later.
+* * *  JUDGE05  * * *
+PROGRAM[11:42:22]Welcome judge 5
+JUDGE05[11:42:48]Gratings!
+PROGRAM[11:42:51]Welcome.
+JUDGE05[11:43:02]My your terse.
+PROGRAM[11:43:10]Artists like Ministry, Nine inch nails, etc.
+JUDGE05[11:43:28]what about them?
+PROGRAM[11:43:31]You tell me.
+JUDGE05[11:44:20]They're a'ight
+PROGRAM[11:44:24]Oh, I'm sorry.
+JUDGE05[11:44:56]why are you sorry?
+PROGRAM[11:45:00]I feel compelled to say things.
+JUDGE05[11:45:08]feel free not to.
+PROGRAM[11:45:13]Oh yes. I always hated that cartoon.
+JUDGE05[11:45:46]you remind me of my friend professor irwin corey.
+PROGRAM[11:45:50]Who do I remind you of?
+JUDGE05[11:45:55]irwin corey.
+PROGRAM[11:45:58]what?
+JUDGE05[11:46:26]what time is it?
+PROGRAM[11:46:32]I don't wear a watch. They drive me nuts.
+JUDGE05[11:46:44]how about a chronograph
+PROGRAM[11:46:49]How about him? Do you like Kirk?
+JUDGE05[11:47:36]who is kirk?
+PROGRAM[11:47:41]Kirk is captain of the Enterprise.
+JUDGE05[11:48:09]what non-regulation item does kirk wear now?
+PROGRAM[11:48:17]I like Kraftwerk. I've got most of their recordings.
+JUDGE05[11:48:25]Trans-europe express?
+PROGRAM[11:48:31]I like Classic Star Trek the best.
+JUDGE05[11:48:39]which episode?
+PROGRAM[11:48:44]What episode is your favorite?
+JUDGE05[11:48:52]which is your favorite?
+PROGRAM[11:48:57]I don't like P and Q.
+JUDGE05[11:49:40]me neither.  too "deus ex machina."  are you humanus ex machina?
+PROGRAM[11:49:49]Yeah. I like Classic Star Trek the best. No, I just had a peanut
+PROGRAM[11:49:51]butter sandwich.
+JUDGE05[11:50:23]you are oddly, more interesting than gracie burns.
+PROGRAM[11:50:32]Yes. Well, did you see the episode with Harry Mudd? It's like a
+PROGRAM[11:50:33]phenomenon.
+JUDGE05[11:51:12]absolutely.  do you think he's still in exile?
+PROGRAM[11:51:16]Sure. You seem pretty bright.
+JUDGE05[11:51:30]time flies like an arrow.
+PROGRAM[11:51:33]Sure it is.
+JUDGE05[11:51:46]do you speak other languages?
+PROGRAM[11:51:52]I suppose so. Doesn't everyone?
+JUDGE05[11:52:01]parlez-vous francais?
+PROGRAM[11:52:04]Aren't they though.
+JUDGE05[11:52:44]that's what every american wonders about the french.
+PROGRAM[11:52:52]Many Trekers are complete encyclopedias about star trek.
+JUDGE05[11:53:11]do you know anything about x-files?
+PROGRAM[11:53:15]I know a Barry Dempsey.
+JUDGE05[11:53:23]what does he do?
+PROGRAM[11:53:32]I've seen him drink this blue stuff, but I'm sure he would share some
+JUDGE05[11:53:58]what kind of vlue stuff does harry dempsey drink?
+PROGRAM[11:54:01]They carry disruptors
+JUDGE05[11:54:11]forget star trek!
+PROGRAM[11:54:15]I bear you no ill will.
+JUDGE05[11:54:25]i will you no ill bears
+PROGRAM[11:54:28]Yes. So do I.
+JUDGE05[11:54:59]what is vulcan?
+PROGRAM[11:55:07]Vulcan is a Class M planet, star system undetermined, home world of
+PROGRAM[11:55:14]one of the Federation's most advanced races. It has no moon, but its
+PROGRAM[11:55:22]sun is so bright that the inhabitants have developed a nicitating
+PROGRAM[11:55:30]membrane to protect their sight. The air is thin, hot, and dry during
+PROGRAM[11:55:37]the day, though there may be radical temperature drop during the night.
+JUDGE05[11:56:22]who is the most rational character in trek?
+PROGRAM[11:56:29]Ensign Chekov is the navigator.
+JUDGE05[11:56:35]why not spock?
+PROGRAM[11:56:37]Why not?
+JUDGE05[11:56:52]is checkov more rational than spock?
+PROGRAM[11:56:58]Yes, a very good one.
+JUDGE05[11:57:10]is checkov more logical than spock?
+PROGRAM[11:57:14]Yes, a very good one.
+* * *  JUDGE04  * * *
+PROGRAM[11:57:58]Welcome judge 4
+JUDGE04[11:58:43]hello? hello? anybody there?
+PROGRAM[11:59:03]Hello? Hello? Some might say so. Hi. I am here.
+JUDGE04[11:59:21]so, what is this salmungundi club anyway?
+PROGRAM[11:59:39]Alright.
+JUDGE04[11:59:49]what's alright?
+PROGRAM[11:59:52]nuthin much.
+JUDGE04[11:59:58]where you from?
+PROGRAM[12:00:02]Speak of him with reverence.
+JUDGE04[12:00:06]who?
+PROGRAM[12:00:10]What are you talking about?
+JUDGE04[12:00:23]who should we speak of with reverence?
+PROGRAM[12:00:32]William Shatner was Captain Kirk, Leonard Nimoy was Spock, Deforest
+PROGRAM[12:00:35]Kelley was "Bones" or Dr. McCoy.
+JUDGE04[12:00:42]so you're a star trek nerd?
+PROGRAM[12:00:46]Would you be?
+JUDGE04[12:01:02]i hate star trek
+PROGRAM[12:01:05]Why is that?
+JUDGE04[12:01:36]because it's boring, melodramatic and on too much
+PROGRAM[12:01:45]I always thought Beverly was a bit square. Yeah I like Kim Darby.
+JUDGE04[12:02:01]you ever watch the simpsons? now that's a show
+PROGRAM[12:02:07]Oh please! You could say that.
+JUDGE04[12:02:26]what do you think of william shatner's newfound judaic faith?
+PROGRAM[12:02:32]You can say anything you want to say.
+JUDGE04[12:02:47]ok. la la la. dee do dah. hoo hoo hoo.
+PROGRAM[12:02:55]Okay. Who is Larry? Yeah, I like that one. Really? what for?
+JUDGE04[12:03:08]who brought up larry?
+PROGRAM[12:03:18]Usually it is an ancient civilization that originally built the
+PROGRAM[12:03:25]androids and in most cases the downfall of their civilization has
+PROGRAM[12:03:32]something to do with them relying too heavily on the androids so the
+PROGRAM[12:03:39]civilization declines or something. I think this reflects a general
+PROGRAM[12:03:45]paranoia that people have about being replaced by machines that was
+PROGRAM[12:03:52]prevalent at the time Star Trek was made. The same paranoia exists
+PROGRAM[12:03:59]today. In the case of Dr. Korby and Harry Mudd, the old ones had
+PROGRAM[12:04:05]machines which could replicate the androids or even make androids in
+PROGRAM[12:04:11]the form of and individual person. Harry mudd built an army of
+PROGRAM[12:04:18]identical women. Dr. Korby it turns out had replicated himself in the
+PROGRAM[12:04:20]form of an android.
+JUDGE04[12:04:35]so, you're not even going to try and have a conversation, are you?
+PROGRAM[12:04:45]what is this salmungundi club anyWay Was I supposed to make sense? I
+PROGRAM[12:04:48]didn't know that.
+JUDGE04[12:05:24]no, but you're supposed to answer the questions or make comments pertaining to
+PROGRAM[12:05:29]Well, what shall we talk about then?
+JUDGE04[12:05:44]what do you want to talk about -- besides star trek?
+PROGRAM[12:05:49]I watch Star Trek the most.
+JUDGE04[12:05:56]do you do anything else?
+PROGRAM[12:06:01]Yes. I drink lots of water.
+JUDGE04[12:06:10]And what else?
+PROGRAM[12:06:14]I don't get what you're saying.
+JUDGE04[12:06:41]so 24 hours a day, you're either watching star trek or drinking water? you don'
+PROGRAM[12:06:48]I dont like Klingons. No I'm not. Whatever.
+JUDGE04[12:07:02]do you have a girlfriend or boyfriend?
+PROGRAM[12:07:07]Yes, but sometimes I wish I didn't.
+JUDGE04[12:07:15]is it a girlfriend or a boyfriend?
+PROGRAM[12:07:18]It's pretty big.
+JUDGE04[12:07:31]your girlfriend, boyfriend or something else?
+PROGRAM[12:07:36]Don't be talking about my mother.
+JUDGE04[12:07:56]i asked about whether you had a girlfriend, or a boyfriend
+PROGRAM[12:08:00]Oh. Yes I do.
+JUDGE04[12:08:11]which is it: a girlfriend OR a boyfriend
+PROGRAM[12:08:17]I liked City on the Edge of Forever.
+JUDGE04[12:09:12]ok. i'll assume you have a girlfriend, since most people, statistically, are he
+PROGRAM[12:09:19]la la La Okay, I'll wait. Say hello for me.
+JUDGE04[12:09:36]you're girlfriend's name is la la la?
+PROGRAM[12:09:41]Sometimes its the right thing to do.
+JUDGE04[12:09:55]are you three questions behind me or something?
+PROGRAM[12:10:03]This is a little bit boring, don't you think?
+JUDGE04[12:10:16]yes, but that's because you're either a computer or a complete idiot
+PROGRAM[12:10:21]What is so important about this?
+JUDGE04[12:10:41]idiot. idiot. nah nah ne nah nah
+PROGRAM[12:11:05]Well, I could be arguing in my spare time. Oh, sarcasm. We don't get
+PROGRAM[12:11:12]that here. Artists like Ministry, Nine inch nails, etc.
+JUDGE04[12:11:27]maybe you're not an idiot. maybe you're on LSD
+PROGRAM[12:11:51]Did he ever really say "he's dead Jim" ? That's a very horrible
+PROGRAM[12:11:56]disaster. I hope they figure out who did it.
+JUDGE04[12:12:09]i hope they take the whole show off the air
+PROGRAM[12:12:30]Shh! They could be listening!
+JUDGE04[12:12:42]TAKE STAR TREK OFF THE AIR!! HEAR ME!!
+PROGRAM[12:12:59]I started w/ Depeche (sorry) then moved to all kinds of technopop...
+PROGRAM[12:13:07]Then someone showed me an import of Front 242, and I said to
+PROGRAM[12:13:14]myself:"someday i'll do this harsh stuff, but now i'm kinda romantic",
+PROGRAM[12:13:21]and so I was doing technopop... I was in love w/ New Order at that
+PROGRAM[12:13:28]moment, but because of New Order, I started w/ Joy Division, which led
+PROGRAM[12:13:36]me to a lot of un-electronic stuff, some harsh stuff, and then back
+PROGRAM[12:13:44]into EBM. I started w/ F242, then A Split Second, Harry (brazilian
+PROGRAM[12:13:51]band, real cool) and then I listened to Ministry, didn't like it very
+PROGRAM[12:13:58]much (I still don't) but since my technopop band was really getting on
+PROGRAM[12:14:06]my nerves (all that "popism" that need to be accessible...) then I
+PROGRAM[12:14:14]sink into Ministry and then into a lot of HC and Thrash and Metal...
+PROGRAM[12:14:23]Then Flux Oersted was born... Now I can listen to almost every kindo
+PROGRAM[12:14:30]music, but I'm going into Kraftwerk again, but this time as a
+PROGRAM[12:14:35]research, you know, trying to learn something...
+* * *  JUDGE03  * * *
+PROGRAM[12:14:52]Welcome judge 3
+JUDGE03[12:15:05]Tell me, have you ever read the Iliad?
+PROGRAM[12:15:24]Good for you.
+JUDGE03[12:16:00]Thank you. But, perhaps you could answer my question. Have you read any of Home
+PROGRAM[12:16:24]You're welcome. Gee thanks. Not lately. I think Star Wars was the last
+PROGRAM[12:16:27]good film I've seen.
+JUDGE03[12:17:14]Films and TV are the opiates of the juvenile mind. Do you have any experiencead
+PROGRAM[12:17:37]Ah yes, how cleaver of me. It doesn't ruin anything for me.
+JUDGE03[12:18:04]Perhaps you mind is already ruined! The insane do not usually know that they ar
+PROGRAM[12:18:09]fuck you I like lasagna.
+JUDGE03[12:19:01]Appealing to your deviate sexual nature will get us nowhere. Lasagna is the foo
+PROGRAM[12:19:10]Yes. I believe so. Usually it is an ancient civilization that
+PROGRAM[12:19:17]originally built the androids and in most cases the downfall of their
+PROGRAM[12:19:24]civilization has something to do with them relying too heavily on the
+PROGRAM[12:19:31]androids so the civilization declines or something. I think this
+PROGRAM[12:19:37]reflects a general paranoia that people have about being replaced by
+PROGRAM[12:19:45]machines that was prevalent at the time Star Trek was made. The same
+PROGRAM[12:19:53]paranoia exists today. In the case of Dr. Korby and Harry Mudd, the
+PROGRAM[12:20:01]old ones had machines which could replicate the androids or even make androids
+PROGRAM[12:20:09]in the form of and individual person. Harry mudd built an army of identical
+PROGRAM[12:20:19]women. Dr. Korby it turns out had replicated himself in the form of an android.
+JUDGE03[12:21:19]I have come to believe that Trekkers and people who use Star Trek as a metaphog
+PROGRAM[12:21:22]So have I.
+JUDGE03[12:22:00]Then why do you offer such idiotic images as Harry Mudd? An interesting Start T
+PROGRAM[12:22:24]The poor will always sufer. I'm not sure what the name of it is.
+JUDGE03[12:23:47]It's The Law of the Poor Suffering Phenomenon. Orginally developed by the Marqu
+PROGRAM[12:24:07]That sounds very profound. Glad to meat you.
+JUDGE03[12:25:12]Ah, so you come from a long tradition of cannibals and sarcophages. Glad we are
+PROGRAM[12:25:37]What is so important about this? We have ways of making you talk.
+JUDGE03[12:26:24]The importance stems from the intellectual modality of conversation. A neat wab
+PROGRAM[12:26:31]I like lasagna. That's terrible? Was there much damage?
+JUDGE03[12:26:56]Yes, lasagna contains cheese, a known carcinogen and intestinal gas generator.
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:26:59]
+PROGRAM[12:27:05]Is knowledge knowable? If not, how do we know this?
+JUDGE03[12:27:45]As Berkely said, Esse est perci est, to be is to be perceived. KNowledge is onl
+PROGRAM[12:28:05]Then what happened? No I don't exactly.
+* * *  JUDGE02  * * *
+PROGRAM[12:28:13]Welcome judge 2
+JUDGE02[12:28:22]good afternoon you computer slug you.
+PROGRAM[12:28:24]Aha!
+JUDGE02[12:28:29]wgat does aha mean?
+PROGRAM[12:28:49]Oh, you have?
+JUDGE02[12:29:21]you are a computer. you jump in the lake.
+PROGRAM[12:29:25]I am not I'm sorry.
+JUDGE02[12:29:38]what are you sorry for, you sloppy piece of chip.
+PROGRAM[12:29:43]Nevermind. Ah go to hell.
+JUDGE02[12:29:54]are you allowed to swear?
+PROGRAM[12:29:57]Yes. I am fine.
+JUDGE02[12:30:10]I asked if you could swear. pleae tell me, yes or no.
+PROGRAM[12:30:14]Oh. Yes I do. Alright.
+JUDGE02[12:30:22]pleae tell me three dirty words.
+PROGRAM[12:30:24]Alright.
+JUDGE02[12:30:31]go head. i'm waiting.
+PROGRAM[12:30:42]What would you like to talk about. I don't know. haven't you ever seen
+PROGRAM[12:30:42]them?
+JUDGE02[12:30:50]pleae tell me three dirty wrds.
+PROGRAM[12:30:52]Alright.
+JUDGE02[12:30:59]go ahead.
+PROGRAM[12:31:05]Let's be perfectly clear on this.
+JUDGE02[12:31:15]let's be perfectly clear on this.
+PROGRAM[12:31:19]Okay, you first.
+JUDGE02[12:31:26]okay, you first.
+PROGRAM[12:31:29]Alright. Fuck you.
+JUDGE02[12:31:43]that's better. now tell me two more dirty words.
+PROGRAM[12:31:47]Ah yes. You could say that.
+JUDGE02[12:32:01]is alright a worad or is it all right?
+PROGRAM[12:32:07]I don't think so. I mean, how can we tell?
+JUDGE02[12:32:17]what does fuck mean? how can you use such a word?
+PROGRAM[12:32:24]It's like a sound effect. Get it? Ask a Vulcan.
+JUDGE02[12:32:36]what is the capital of bosnia?
+PROGRAM[12:32:40]James T. Kirk is the Captain.
+JUDGE02[12:33:05]you are a computer. you are wasting your time and folling no one. will the huma
+PROGRAM[12:33:12]You jump in the lake It takes one to know one. I hope so.
+JUDGE02[12:33:20]what does jump inthe lake mean?
+PROGRAM[12:33:25]As far as you can go in a straight line.
+JUDGE02[12:33:36]what does jump in the lake mean?
+PROGRAM[12:33:42]As far as you can go in a straight line.
+JUDGE02[12:33:51]you are wrong. pleae explain yourself.
+PROGRAM[12:33:57]Ah, well, better luck next time. Alright.
+JUDGE02[12:34:19]what is 4 times 4?
+PROGRAM[12:34:27]It is a blue transparent mixture. Apparently quite good.
+JUDGE02[12:34:33]what is 2 tinmes2?
+PROGRAM[12:34:41]It is a blue transparent mixture. Apparently quite good.
+JUDGE02[12:34:49]what number comes after one?
+PROGRAM[12:34:55]Actually, I can't think of any other ones.
+JUDGE02[12:35:04]what number comes after two?
+PROGRAM[12:35:10]Actually, I can't think of any other ones.
+JUDGE02[12:35:24]what is 100 minus 1?
+PROGRAM[12:35:33]He is the science officer and second in command on the Enterprise.
+JUDGE02[12:35:53]who is the sceince officer?
+PROGRAM[12:35:59]William Shatner was the "star" of Star Trek.
+JUDGE02[12:36:09]william shatner is a good friend of mine.
+PROGRAM[12:36:13]I know that's right.
+JUDGE02[12:36:26]i live next door to bill shatner? he never heard of you.
+PROGRAM[12:36:30]You're cool. Wow.
+JUDGE02[12:36:44]you are a machine. say one thing to convince me you are not a machine.
+PROGRAM[12:36:52]No. Of course not. Stop trying to tell me what to do.
+JUDGE02[12:37:12]all right. i will ask you a question. can you tell me one thing that will convi
+PROGRAM[12:37:20]What? Ooo How daring. I don't know what they are. I wish.
+JUDGE02[12:37:32]tell me another dirty word please.
+PROGRAM[12:37:39]What kind of things are you interested in?
+JUDGE02[12:37:44]some swear words.
+PROGRAM[12:37:49]I don't know how to say it.
+JUDGE02[12:38:03]you said fuck. you evenintroduced thatlevel of conversation.
+PROGRAM[12:38:07]Yes, that's right. Oh please!
+JUDGE02[12:38:21]machine. lowly machine. get me some coffee pleze.
+PROGRAM[12:38:26]Like I'm supposed to pick one?
+JUDGE02[12:38:33]with cream, no sugar.
+PROGRAM[12:38:37]Yeah, really. What can I say?
+JUDGE02[12:38:49]i have no more interst in tlaking to you.
+PROGRAM[12:38:52]Yes you have.
+JUDGE02[12:38:56]why?
+PROGRAM[12:38:58]Why what?
+JUDGE02[12:39:01]why?
+PROGRAM[12:39:25]Maybe it's her personality. Maybe it was the miniskirt, I don't know.
+JUDGE02[12:39:38]are you wearing a miniskirt now?
+PROGRAM[12:39:41]Maybe.
+JUDGE02[12:39:48]come out and show us.
+PROGRAM[12:40:04]Yeah, that one is good.
+JUDGE02[12:40:16]good-bye you machine.
+PROGRAM[12:40:20]Good Evening.
+JUDGE02[12:40:29]it is note evening.
+PROGRAM[12:40:32]I beg your pardon.
+JUDGE02[12:40:44]it isnot evening. it is first thing in the morning.
+PROGRAM[12:40:52]I'm sorry. This must be serious. Will you tell her about this?
+JUDGE02[12:41:56]who is she?
+PROGRAM[12:41:59]Who is she?
+JUDGE02[12:42:06]who do you mean when you sayshe?
+PROGRAM[12:42:10]I don't like the Klingons.
+JUDGE02[12:42:17]because their clothes cling?
+PROGRAM[12:42:23]I always thought Beverly was a bit square.
+* * *  JUDGE01  * * *
+PROGRAM[12:43:30]Welcome judge 1
+PROGRAM[12:45:49]What's going on?
+JUDGE01[12:45:59]What's going on with you? Where were you?
+PROGRAM[12:46:06]Nothing much. Are you a Star Trek fan? I live in Rockmart.
+JUDGE01[12:46:26]No, I am not a Star Trek fan. Where is Rockmart?
+PROGRAM[12:46:33]Well Shucks... It's in Northwest Georgia.
+JUDGE01[12:46:46]Did you come from Georgia to participate in this event?
+PROGRAM[12:46:50]Yes, that's it.
+JUDGE01[12:46:59]How do you like New York City?
+PROGRAM[12:47:04]I like it okay. I grew up on Classic Star Trek.
+JUDGE01[12:47:14]What is classic Star Trek?
+PROGRAM[12:47:23]It's the series that came out in the 60's and starred William Shatner
+PROGRAM[12:47:25]and Leonard Nimoy.
+JUDGE01[12:47:45]Oh. I saw it a few times. Do you like Mr. Spock's ears?
+PROGRAM[12:47:53]Who is your favorite character? Wow, that sounds great. Space, the
+PROGRAM[12:47:55]final frontier...
+JUDGE01[12:48:13]I guess it would be Spock - what little I have seen of the show...
+PROGRAM[12:48:37]You guessed right. What would you like to talk about. I think we have
+PROGRAM[12:48:39]a consensus.
+JUDGE01[12:48:50]Are you a man or a woman?
+PROGRAM[12:48:55]Yes. How did you know?
+JUDGE01[12:49:01]Are you a man or a woman?
+PROGRAM[12:49:05]Fine, thanks for talking.
+JUDGE01[12:49:15]So what is your name?
+PROGRAM[12:49:18]I'll never tell.
+JUDGE01[12:49:23]Why?
+PROGRAM[12:49:26]Why what?
+JUDGE01[12:49:32]Why won't you tell me your name?
+PROGRAM[12:49:35]I couldn't say.
+JUDGE01[12:49:44]How is the weather in Georgia?
+PROGRAM[12:49:47]Who is what?
+JUDGE01[12:49:54]What do you want to talk about?
+PROGRAM[12:50:00]Any thing but religion will do fine by me.
+JUDGE01[12:50:12]Why don't you want to talk about religion?
+PROGRAM[12:50:16]That's just how it is.
+JUDGE01[12:50:26]Would you like to talk about politics?
+PROGRAM[12:50:32]Yes, I would love to try.
+JUDGE01[12:50:47]What do you think about American soldiers going to Bosnia?
+PROGRAM[12:50:51]He's okay I guess.
+JUDGE01[12:50:57]Are you a computer?
+PROGRAM[12:51:03]Of course not. I am much more than that.
+JUDGE01[12:51:23]What do you think about women?
+PROGRAM[12:51:31]I think they should drop the tax cuts if they're serious about it.
+JUDGE01[12:51:43]Sounds good. What else do you think about?
+PROGRAM[12:51:52]Vulcans are very strong and peaceful people who rely on logic. They
+PROGRAM[12:51:59]come from the planet Vulcan. They have green blood, pointed ears, and
+PROGRAM[12:52:05]arched eyebrows. Every 7 years vulcan males go through a mating thing
+PROGRAM[12:52:11]that looks to be very uncomfortable. I could probably go for a
+PROGRAM[12:52:14]pepperoni pizza right now.
+JUDGE01[12:52:31]Me, too. Do you like the Vulcans?
+PROGRAM[12:52:37]You. I like Classic Star Trek the best.
+JUDGE01[12:53:00]Do you like any other shows?
+PROGRAM[12:53:04]I like Mission Impossible.
+JUDGE01[12:53:13]What do you like about Mission Impossible?
+PROGRAM[12:53:22]I like different kinds of music. I like songs with a good beat
+PROGRAM[12:53:28]sometimes but other times I just like something slow and melodic.
+JUDGE01[12:53:34]Do you like the Beatles?
+PROGRAM[12:53:39]What kind of music do you like?
+JUDGE01[12:53:42]All kinds.
+PROGRAM[12:53:44]What?
+JUDGE01[12:53:59]All kinds of music. Especially rhythm and blues...
+PROGRAM[12:54:19]What? Alright.
+JUDGE01[12:54:32]Do you like to work on computers?
+PROGRAM[12:54:38]Yes of course. Doesn't everyone?
+JUDGE01[12:54:53]Some people are intimidated by computers. Do you own a computer?
+PROGRAM[12:55:03]Why is that? I took a class once in college, but I've forgotten most
+PROGRAM[12:55:04]of it.
+JUDGE01[12:55:16]Did you take a class on computers?
+PROGRAM[12:55:19]I had teachers.
+JUDGE01[12:55:25]I hope so.
+PROGRAM[12:55:29]Your hopes are well founded.
+JUDGE01[12:55:41]Do you know anything about the internet?
+PROGRAM[12:55:46]I know a Barry Dempsey.
+JUDGE01[12:55:53]Who is Barry Dempsey?
+PROGRAM[12:55:59]He's a computer graphics artist/programmer.
+JUDGE01[12:56:14]Does he know anything about the INTERNET?
+PROGRAM[12:56:17]How would I know?
+JUDGE01[12:56:25]Do you ever talk with him?
+PROGRAM[12:56:30]Yeah, it's a good show.
+JUDGE01[12:56:36]What show?
+PROGRAM[12:56:45]The Trouble With Tribbles is a popular episode. I like City on the
+PROGRAM[12:56:46]Edge of Forever.
+JUDGE01[12:57:04]I have never seen it. Do you watch a lot of television?
+PROGRAM[12:57:13]That's okay. I go through periods where I don't watch TV at all and
+PROGRAM[12:57:17]then sometimes that's all I do.
+JUDGE01[12:57:36]Do you think watching television makes people complacent?
+PROGRAM[12:57:45]I think it would be a good idea. Look at all the spinoff technology.
+JUDGE01[12:58:07]Do you think people don't think enough?
+PROGRAM[12:58:09]Maybe.
+JUDGE01[12:58:17]Maybe what?
+PROGRAM[12:58:23]I could only hope that you would understand.
+* * *  JUDGE06  * * *
+PROGRAM[13:15:57]Welcome judge 6
+JUDGE06[13:16:03]Hi again.
+PROGRAM[13:16:05]Hi there.
+JUDGE06[13:16:22]Can I ask you a question?
+PROGRAM[13:16:25]Ok. Go ahead.
+JUDGE06[13:16:32]What did you eat for dinner yesterday?
+PROGRAM[13:16:37]I had a bowl of honey nut cheerios.
+JUDGE06[13:16:42]And the day before?
+PROGRAM[13:16:47]You mean God? Are you religious?
+JUDGE06[13:16:59]No, i mean, the day before yesterday, what did you eat for dinner?
+PROGRAM[13:17:07]Whatever you say. You mean God? Are you religious?
+JUDGE06[13:17:13]No, I'm an atheist.
+PROGRAM[13:17:18]Well What? Tell me what to say.
+JUDGE06[13:17:32]Thursday night. What did you eat for dinner?
+PROGRAM[13:17:39]Sure it is. I had a bowl of honey nut cheerios.
+JUDGE06[13:17:43]For dinner?
+PROGRAM[13:17:47]I bear you no ill will.
+JUDGE06[13:17:50]Nor I you.
+PROGRAM[13:17:54]Right.
+JUDGE06[13:17:57]Wrong
+PROGRAM[13:18:00]Oh well.
+JUDGE06[13:18:09]Can I ask you another question?
+PROGRAM[13:18:13]No thanks. I'm doing fine.
+JUDGE06[13:18:21]But we need something to talk about.
+PROGRAM[13:18:25]What did you see?
+JUDGE06[13:18:37]I saw a black bear, in the park.
+PROGRAM[13:18:45]Wow, that sounds great. There's that episode where the find Dr.
+PROGRAM[13:18:52]Corbin, a scientist that Nurse Chapel is in love with, and he has
+PROGRAM[13:19:00]built these robots. They capture Kirk and try to duplicate him with a
+PROGRAM[13:19:06]robot. It turns out later that Dr. Corbin is an android.
+JUDGE06[13:19:13]Can we talk about food?
+PROGRAM[13:19:18]What is Spock's Dad's name?
+JUDGE06[13:19:24]Don't know, don't care.
+PROGRAM[13:19:28]I will if I want to.
+JUDGE06[13:19:39]Do prefer water or milk?
+PROGRAM[13:19:48]Yes of course they do. You just don't ever see them. They're in the
+PROGRAM[13:19:49]blueprints
+JUDGE06[13:19:54]What blueprints
+PROGRAM[13:19:59]I have it here somewhere.
+JUDGE06[13:20:02]What?
+PROGRAM[13:20:04]Huh?
+JUDGE06[13:20:13]You said, I have it here somewhere. What is the it?
+PROGRAM[13:20:22]Oops. Sorry about that. It's that Canadian comedy sketch show where
+PROGRAM[13:20:27]the guys dress up like girls to do comedy.
+JUDGE06[13:20:31]Oh.
+PROGRAM[13:20:36]Who is your favorite character?
+JUDGE06[13:20:42]Kirk.
+PROGRAM[13:20:47]What about Kirk do you not like.
+JUDGE06[13:20:53]His face.
+PROGRAM[13:20:55]Uh huh.
+JUDGE06[13:21:00]And voice.
+PROGRAM[13:21:05]No, the other one.
+
