@@ -11,7 +11,8 @@ product = open(outfile, 'a')
 writer = csv.writer(product)
 
 utterance = ""
- 
+start = "<start> " 
+
 for line in text:
   items = line.split()
   if len(items) == 5: 
@@ -37,20 +38,20 @@ for line in text:
       elif this_addition == "parenright":
         utterance += ")"
       elif this_addition == "BackSpace":
-        utterance += " BackSpace "
+        utterance = utterance[:-1]
       elif this_addition == "backslash":
         utterance += "\\"
       elif this_addition == "minus":
         utterance += "-" 
       elif this_addition == "Return":
-        writer.writerow ([author , utterance])
+        writer.writerow ([author , start+utterance])
         utterance = ""
       # elif this_addition == "Return":
       #   utterance += "\n" + author + " |"   
       else:
         utterance += this_addition
 if utterance != "":
-  writer.writerow ([author , utterance])
+  writer.writerow ([author , start+utterance])
 
 # if utterance != "":
 #   product.write ("\n" + author + "," + utterance)

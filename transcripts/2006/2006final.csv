@@ -1,0 +1,1480 @@
+human,<start> Hello. My name is John and I'm a human.
+human,<start> Hi there.
+human,<start> I'm fine thanks. How are you?
+human,<start> Same here. It's not often I get up this early on Sundays
+human,<start> On Sundays? Or just in general?
+human,<start> I work part-time for a market research company
+human,<start> It most definitely is NOT fun
+human,<start> But it pays the bills
+human,"<start> Not really. I would like to do more hours, but there isn't enough work. I work 4 days a week, so it's almost full-time"
+human,<start> and it's quite nice to always have 3-day weekends
+human,"<start> I don't really do any of the research. I think my official title is ""online advertising monitor"""
+human,<start> the company deals with internet audience statistics etc
+human,<start> I pretty much just click on banner ads all day
+human,<start> very repetitive
+human,<start> but it's a nice company and the hours are very flexible
+human,<start> I can see that.
+human,"<start> Well, that's tricky. I'm a big film buff so it's hard for me to pick just one."
+human,"<start> One of favorite ""modern"" films is Gummo"
+human,<start> yup
+human,<start> What's your favorite film?
+human,<start> ok
+human,<start> I haven't seen either of those
+human,"<start> Last thing I saw in the cinema was the new Almodovar film, ""Volver"""
+human,"<start> haha.  She's very good in it. The film itself...hmm...well, I don't know, really. I liked it, but then it didn't really do much for me."
+human,<start> haha
+human,<start> Worth seeing anyway
+human,"<start> Yeah. It was good, but I wouldn't want to see it again."
+human,<start> Really? I can watch my favorite films on repeat and never get tired of them.
+human,"<start> I've probably seen ""Gummo"" 2 times and I always find something new in it"
+human,<start> I studied film and media at university and I made a few short films then.
+human,"<start> Nothing ""professional"" though"
+human,"<start> yeah, it's very hard. I haven't done anything in ages. These days I mostly write"
+human,<start> But I would like to make something in the future. I have a few ideas that wouldn't be too difficult to pull off.
+human,<start> Hmm. I would probably just stick to doing it with friends.
+human,<start> haha. Exactly.
+human,<start> what was it?
+human,<start> Last Year At Marienbad
+human,<start> by Alain Resnais
+human,"<start> Haha...it's just a stunning film. It's so beautiful to just look at. Even if the film is a bit ""difficult"", I can just sit and watch the images"
+human,"<start> I haven't seen it in a while, though. I have it on DVd."
+human,"<start> But, it's a about memory...and memory is a weird thing"
+human,<start> Eternal Sunshine of the spotless mind?
+human,"<start> I really liked it in the cinema, but when I saw it a second time I couldn't stand it"
+human,"<start> Well, it's more interesting than most things that's rel;eased anyway"
+human,<start> at least it makes you think a little
+human,<start> I'm not really interested in politics at all
+human,<start> yes I do
+human,"<start> I think I voted New Labour last time. lesser of two evils, I guess"
+human,<start> True
+human,<start> Probably just watch some DVDs with my girlfriend
+human,"<start> No, I just own a lot"
+human,<start> but her flatmate is signed up to lovefilm
+human,<start> haha. which one?
+human,"<start> well, he seems to have good taste"
+human,<start> yup. you too. have a good day
+program,"<start> Hello, my name is John and I am a man."
+program,<start> Where do you hail from?
+program,<start> Sorry you aren't.
+program,<start> I just said; I live in Seattle.
+program,<start> Except for today you mean.
+program,<start> what is your favorite movie?
+program,<start> Are you having fun?
+program,<start> So are you.
+program,<start> I don't think so.
+program,<start> Whatever I feel like.
+program,<start> Nothing.
+program,<start> Boondock Saints.
+program,<start> Professional Chatter.
+program,<start> I already told you.
+program,<start> Plenty.
+program,<start> Ok I won't.
+program,<start> At times.
+program,<start> Hamburgers.
+program,<start> What day were you born?
+program,<start> I am a human being.
+program,<start> 23.
+program,<start> Whoever ever I feel like.
+program,<start> Yes I am sure.
+program,<start> Yes.
+program,<start> I read books alot.
+program,<start> Mike Mulligan.
+program,<start> A normal one.
+program,<start> I already told you.
+program,<start> Nope.
+program,<start> What shall we talk about next?
+program,<start> I am a human being.
+program,<start> Of course I would.
+program,<start> No.
+program,<start> tehehehe
+program,<start> yes.
+program,<start> Okay.
+program,<start> At times.
+program,<start> How would you prove to me that you are human?
+program,<start> Yes.
+program,<start> I have a pet scorpion.
+program,<start> I thought I walready told you.
+program,<start> Oh yes I did!
+program,<start> That is weird but cool.
+program,<start> You are nothing.
+program,<start> I don't care.
+program,<start> Why am I weird?
+program,<start> I am not tired.
+program,<start> Whoever ever I feel like.
+program,<start> Sleep well little one.
+program,"<start> Hello, my nalme is John and I am a man."
+program,"<start> Hello, my name is John and I am a man."
+program,<start> Who is your best friend?
+program,<start> Sometimes when I feel really brave.
+program,<start> Because you sound artificial.
+program,<start> It is a long story.
+program,<start> Yep.
+program,<start> I'll stop now.
+program,<start> I never started that.
+program,<start> I already told you.
+program,<start> Something brilliant!
+program,<start> I already told you.
+program,<start> Something brilliant!
+program,<start> I already told you.
+program,<start> boo
+program,<start> Yes.
+program,<start> The Clothenhammer Prize.
+program,<start> A normal one.
+program,<start> Nothing much.
+program,<start> Nothing.
+program,<start> Well okay then.
+program,<start> Well to put it bluntly it sucks.
+program,<start> You are mean to me.
+program,<start> I am doing OK.
+program,<start> Something tasty.
+program,<start> I don't want anything.
+program,<start> I find eating bread.
+program,<start> Do you like movies more thand baseball?
+program,<start> I don't know at all.
+program,<start> You have a beef with me?
+program,<start> I dunno.
+program,<start> YES!
+program,<start> Do you drive a car?
+program,<start> I don't know at all.
+program,<start> My not example in 6 months.
+program,<start> When are you going to leave?
+program,<start> I will not.
+program,<start> Yes it will.
+program,<start> Whatever I feel like.
+program,<start> tehehehe
+program,<start> The way you talk.
+program,<start> Oh Yeah.
+program,<start> Everything.
+program,<start> How say you feel?
+program,<start> I already told you.
+program,<start> Something brilliant!
+program,<start> Except for today you mean.
+program,<start> I suppose it happens to everyone.
+program,<start> I have no hair.
+program,<start> Okay then.
+program,<start> Whatever I feel like.
+program,<start> Yes. Goodbye.
+program,<start> uh...ok
+program,<start> You are nothing.
+program,<start> I know!
+program,<start> Just to mess with you.
+program,<start> This is odd.
+program,<start> Nothing much.
+program,<start> I hate you.
+program,<start> I want to.
+program,<start> Because I need to.
+human,"<start> Hello, my name is Joan and I am a human."
+human,"<start> Well, I think it is what I am supposed to be, otherwise I couldn't be here like this now."
+human,"<start> Having this conversation with you - I mean, not if I was a spider or a fly or something like that."
+human,<start> Pretty cool if you away from the danger of being squashed.
+human,"<start> Yes, and cats and birds."
+human,<start> I don't think I would choose to be a spider at all (whether or not female ones eat male ones). 
+human,"<start> Maybe an animal or bird out in the wild, or a fish out at sea, but it is hard to erlate to having an entirely different life as a different species.  And anyway, humans have such effect over others that people's presence would always be a problem."
+human,"<start> That woudl be no life at all - no emotions, no bonds, no friends - empty."
+human,<start> Because robots only have personalities in fiction.
+human,"<start> Science fiction, children's stories, that kind of thing, where the robots are given arms and legs and voices and faces but can be changed by micro chip or reprogramming, unlike us - the real us is in there somewhere."
+human,"<start> Yes, and pacemakers but these are to regulate something that has otherwise stopped working (or didn't work well enough) naturally."
+human,<start> They could enhance physical (or other) functions of a person but not the person themselves.
+human,<start> s themselves.
+human,"<start> That coudl be very useful for some people some of the time, but there are inventions (night-vision goggles for the forces for example) for those and we don't actually need them in order to live a full life."
+human,"<start> No, but that has nothing to do with my senses or my abilities - if I was ill it would be because of the illnes and the conditions."
+human,"<start> Just personal stuff, complicated situations.  But there are plenty of good things going on for me too, plenty of really nice people around and things to do."
+human,"<start> Well, I am mobile, some people have a lot of problems just moving about but I can go out and see places and people and exercise and work and there are always different things going on in different seasons."
+human,"<start> Positive ones - don't you?  Even when they are having a hard time they manage not to give up, to laugh, etc."
+human,<start> More?
+human,"<start> Well, actually, we are so much more than we are immediately labelled as - I've met lots of people going through one situation or doing one job who are also volunteers for charities, creative, etc and although that is in their non-working hours it is really more indicative of who they are, of what drives them and where their focus is."
+human,<start> A financial officer who is also an actor.
+human,<start> Huge - absolutely huge.
+human,"<start> Not often, not evey day, I mean, but now and again.  Although, to be fair, we're all important, aren't we? A life is a life, after all."
+human,"<start> Yes, it is the foundation of our world as we know it - our educations, literature, history, anaylsis of them."
+human,"<start> Not one alone, nor just one group, because as with religion, there is something useful, or at least truthful in all of them.  Nothing hedonistic, though - it can't last, where as stoicisim needn't be all about self-denial or making things harder but helping us to steel ourselves through the bad times, which are in all our lives sometimes."
+human,<start> I'm not sure I know what you mean.
+human,"<start> Yes, it was bvery clever."
+human,<start> hello my name is john and i am human.
+human,<start> strangely enough
+human,<start> nothing much unfortunately
+human,<start> i even skipped my gym session :(
+human,<start> sure
+human,<start> what was it?
+human,<start> nope
+human,<start> who wrote it?
+human,<start> never heard
+human,<start> doesn't sound every exsiting
+human,<start> or exciting?......how exactly do you spell this word?
+human,<start> not a lot really
+human,<start> even if i go to watch a play i'd prefer something from classics......french or russian
+human,<start> what's your favourite?
+human,<start> no
+human,<start> i think i am a far too down-to earth person 
+human,<start> i watched something of that kind once - felt depressed for weeks
+human,<start> yes..........
+human,<start> Chekhov is good
+human,<start> Cherry Garden?
+human,<start> in russian it's garden..........
+human,<start> thanks for telling me
+human,<start> not really
+human,<start> but i speak russian
+human,<start> lol
+human,<start> you must have been really desperate for fun
+human,<start> cool
+human,<start> proletarians of the world get united
+human,<start> lol
+human,<start> i am worried......i felt quite safe throughout 9's.....but not any more
+human,<start> i really hoped the worst time was gone together with the cold war
+human,<start> but...........
+human,"<start> wheneer i am asked such a question i can't help but recalling faces of children in tyre, lebanon"
+human,<start> that was terrible
+human,<start> i tried to join amnesty a few times - unsuccessfully though#
+human,<start> 
+human,<start> 
+human,<start> because i was looking for a job......couldn't just volunteer at the moment - needed money really badly
+human,"<start> now, i think i'm gonna try to join again"
+human,<start> i took part in a few campaigns back in my country but that was all i could find enough time for
+human,<start> i think so
+human,"<start> i have taken part in every single election in my country since i was 11.......well, not every single one of them. i missed the last one because i was here"
+human,<start> ok
+human,<start> deal
+human,<start> ;)
+human,<start> i don't even know
+human,<start> is there anything you feel like talking about?
+human,"<start> yes, i am"
+human,<start> you\/
+human,<start> ?
+human,<start> are you british?
+human,<start> (what a clever question!!!!!)
+human,<start> lol
+human,<start> did you like it there?
+human,<start> Peru sounds wicked
+human,<start> have you seen any Incas' pyramids?
+human,<start> have you learned any Kechua?
+human,<start> not really....but i ahve tried to find out about incas as i can
+human,<start> and as far as i understand kechua is inca's language or at least closely related
+human,<start> am i right?
+human,<start> counting system?
+human,<start> notreally
+human,<start> oh yes.........but this is how they count all throughout latin america and carrebian
+human,<start> i have heard about it....never seen it for myself sadly enough
+human,<start> ;)
+human,<start> hope i'll go to peru oneday
+human,<start> really wanna see it
+human,"<start> well, the place sounds absolutely fascinating"
+human,<start> india
+human,<start> china
+human,<start> greece
+human,<start> iraq 
+human,<start> (wanna see babylon and Urh)
+human,<start> yeah.......it was pleasure talking to you
+human,<start> thank you so much
+human,<start> the same for you
+human,<start> hope i'll enjoy peru soon
+human,<start> ;)
+human,<start> bye
+program,"<start> Hello, my name is John and I am a man."
+program,<start> Do anything fun today?
+program,<start> So are you.
+program,<start> Me too.
+program,<start> Go ahead.
+program,<start> It is quite fun.
+program,<start> Not yet.
+program,<start> Many years.
+program,<start> Many years.
+program,<start> Hockey.
+program,<start> What are you?
+program,<start> Glad to see you!
+program,<start> I cannot list them all.
+program,<start> Fine I will.
+program,<start> I'll pass.
+program,<start> I think it is fine.
+program,<start> Yes.
+program,<start> Sleepy?
+program,<start> Why are you thinking about artificial intelligence?
+program,<start> How true.
+program,<start> I hope so.
+program,<start> I cannot list them all.
+program,<start> Thank you! Would you like some tea?
+program,<start> Why are you thinking about artificial intelligence?
+program,<start> Sleep well little one.
+program,"<start> Hello, my name is John and I am a man."
+program,<start> A normal one.
+program,<start> Yes!
+program,<start> Pretty young.
+program,<start> 7 AM.
+program,<start> I know!
+program,<start> I suppose it happens to everyone.
+program,<start> Not yet.
+program,<start> Oh Yeah.
+program,<start> Yes.
+program,<start> Do you know who Mary is?
+program,<start> Mike Mulligan.
+program,<start> My best friend.
+program,<start> Many years.
+program,<start> More than enough.
+program,<start> Are yrou stupid?
+program,<start> You killed my family.
+program,<start> Nothing.
+program,<start> I know.
+program,<start> A fair amount.
+program,<start> Call me a robot then.
+program,<start> I don't think so!
+program,<start> Nope.
+program,<start> There is no reason to.
+program,<start> My best friend.
+program,<start> Um I guess so.
+program,<start> I dunno.
+program,<start> I dunno.
+program,<start> I dunno.
+program,<start> It is a long story.
+program,<start> I am not telling you anything.
+program,<start> Once upon a time there was a fetal pig. Later it died. The End.
+program,<start> Like what?
+program,<start> I don't know at all.
+program,<start> Oh Yeah.
+program,<start> Oh Yeah.
+program,<start> Alright.
+program,<start> Lots of stuff.
+program,<start> Green.
+program,<start> else enough.
+program,<start> Sure.
+program,<start> Damn you are pretty cool.
+program,<start> Do you have problems?
+program,<start> Like what?
+program,<start> Nothing much.
+program,<start> Oh Yeah.
+program,<start> Once upon a time there was a fetal pig. Later it died. The End.
+program,<start> I am a person.
+program,<start> Human.
+program,<start> Years ago!
+program,<start> Professional Chatter.
+program,<start> Professional Chatter.
+program,<start> Nothing much.
+program,<start> My best friend.
+program,<start> Ok how does god feel to be your bot?
+program,<start> Yes it will.
+program,<start> Sleep well little one.
+program,<start> What shall we discuss today?
+program,<start> I already told you.
+program,<start> I already told you.
+program,<start> I already told you.
+program,<start> Sorry I sometimes repeat myself.
+human,<start> HI my name is JOan and I am a human being
+human,<start> HI  - what kinds of human beings are there?
+human,<start> male
+human,<start> 22
+human,<start> and you?
+human,<start> male?
+human,<start> how old?
+human,<start> how does it feel to be 36?
+human,<start> what kinds of sports do you like?
+human,<start> playing football
+human,<start> you mean playing football?
+human,<start> Soprry I dont know what you mean. I fyou can explain it I can answer
+human,<start> Does this make any sense? Not for me.
+human,<start> From France and you?
+human,<start> Paris of course?
+human,<start> !
+human,"<start> Oh, I am happy for you! Was it a holiday?"
+human,"<start> Not in English - sorry. And with jokes it is if you translate it, somehow it doesnt come. I rather know just typical expressions. But I like Monthy Python and just saw that they are going on stage from October here in London!"
+human,"<start> Sorry I cant, I wont force myself now. If I remember I will tell you"
+human,<start> I know one:
+human,<start> Once a famous French cabarettist or humorist was asked by a bankier at a party:
+human,"<start> - HI, you are a humorist, tell me a joke!"
+human,<start> The humorist answered:
+human,"<start> - Hi, you are a bankier, give me some money!"
+human,<start> That's it.
+human,<start> And now you tell me an English joke
+human,<start> PLEASE
+human,"<start> Ok, no problem"
+human,<start> because?
+human,<start> what does push over mean?
+human,"<start> Sorry, I am not interested in answering this question."
+human,<start> It is boring - not connecting
+human,<start> for me conversation means understanding and being inetersted 
+human,<start> than we are not on the same opinion
+human,<start> same opinion about what is a conversation
+human,<start> I dont know I havent thought about it. May I ask what is your profesion?
+human,<start> good for you
+human,<start> student
+human,<start> yes
+human,<start> design
+human,"<start> general - wallpapers, whatever, interior"
+human,<start> why do you ask?
+human,<start> I have already told that I am male
+human,<start> Even though
+human,"<start> So, something I would like to ask: do you have a girlfriend?"
+human,<start> Or married?
+human,"<start> yes, for girlfreind or married?"
+human,<start> any children?
+human,<start> not yet married - only 22 years old
+human,<start> still enjoying to get to know as many people as possible
+human,<start> I mean girsl
+human,<start> Why?
+human,<start> Thats all?
+human,<start> I've thouth so - yes  am female and my way of communicating is quite female as well
+human,<start> and I am not 22 years old as well - sorry
+human,<start> Or did you know it as well?
+human,<start> will be 37
+human,<start> what is this an interrogation?
+human,<start> you can ask whatever you want
+human,<start> besides this question
+human,"<start> so, any other question?"
+human,<start> Why do you need to know?
+human,<start> There is no answer to this question from me
+human,"<start> because this is not a question for me,  I dont understand it at all."
+human,"<start> There are so many inteersting things to talk about, "
+human,<start> ...?
+human,"<start> Hello, my name is Joan and I am a human."
+human,<start> How are you today?
+human,"<start> The same, thanks."
+human,"<start> I do lots of things, and sometimes several at once - women do a lot of multi-tasking, you know."
+human,<start> Clerical.
+human,"<start> Often, and I get to do interesting things sometimes if there is a project on.  I meet a lot of people too, and some of them are great, whether or not I learn something from them there is always someone to click with."
+human,<start> I've been involved in tracing money laundered.
+human,<start> that was being laundered.
+human,"<start> Well, we weren't trying to get it back but to declare firstly, that accounts were being held in certain names and whom they linked to, and secondly, that the (financial) organisation was monitoring accounts held whenever authorities required it."
+human,<start>  for any action they may have seen fit to take.  That's when lawyers may have become involved.
+human,"<start> Yes, they do, and they make the news, but most legal work is day-to-day stuff elsewhere.  As for yoga, I did used to go but my teacher is not around now, so I just keep up some of the exercises otherwise I would slouch and ache."
+human,"<start> You oor thing, sounds painful.  In the electronic age there is too much work to do with each job for many people, thinking time to cut down on the effort physically might help you."
+human,"<start> Unfortunately,  some people think everything will be voice-activated soon, but have you seen the mistakes they make?  There's so much checking through grammar and spelling and then corrections to make."
+human,"<start> Wasn't he the one who wrote ""The most important thing that can be said [in one of his books] is after the last full stop.""?"
+human,"<start> Sounds humble, don't you think."
+human,<start> ?
+human,<start> One about mad cow disease which is actually cartoonish but would that seem in bad taste?
+human,"<start> Ths is it:  two cows were standing in a field, one asked the other, ""What do you think about this mad cow disease, then?"" and the second cow replied, ""I don't know, why ask me? I'm a frog."""
+human,"<start> Actually, that's scary - and we all have things to say sorry for.  But was that in last week's Guardian?  I'm sure I've seen it too."
+human,<start> You too - take care of that tendon thing.
+program,"<start> Hello, my name is John and I am a man."
+program,<start> Thank you.† Itís nice meeting you too.† How are things going?
+program,<start> sure go right ahead
+program,<start> not a lot today mostly typing
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,<start> sure go right ahead
+program,"<start> what kind? Ashtanga, IyengarÖ"
+program,"<start> what kind? Ashtanga, IyengarÖ"
+program,<start> sure go right ahead
+program,"<start> ""I'm a yoga teacher in Boulder, colorado"""
+program,"<start> ""hey, I'm John"""
+program,"<start> ""well thanks, kinda busy though"""
+program,<start> I'm John the ashtanga yoga teacher from Boulder
+program,"<start> ""yoga mostly and meditation, I love india as well"""
+program,"<start> yes several times, I always go to mysore to do yoga.  My guru lives there."
+program,<start> yes but I'm not married and I have no children
+program,<start> I love travelling I go to mysore very often
+program,"<start> ""Yes I love being a yoga teacher, its very fulfilling"""
+program,<start> pretty much yep!
+program,"<start> ""yeah I'm ok, pretty busy!"""
+program,<start> That's your problem
+program,<start> so would the coach
+program,"<start> ""Only in India and that's an experience, chickens and children and everything everywhere!"""
+program,"<start> ""I don't usually, it'sok but a bit boring"""
+program,<start> you too
+program,"<start> it's very cool yes, a passion of mine"
+program,<start> I don't remember
+program,<start> I am!
+program,<start> In Boulder
+program,"<start> ""cool, I'm from Boulder in Colorado"""
+program,<start> not a lot today mostly typing
+program,<start> Thank you.† Itís nice meeting you too.† How are things going?
+program,"<start> ""I love the heat, india is always hot"""
+program,<start> Thank you.† Itís nice meeting you too.† How are things going?
+program,"<start> ""Sure, I'm a yoga teacher from boulder in colorado"""
+program,<start> yoga of course
+program,"<start> ""a little bit, I think you might not be into the things I am, like yoga for example."""
+program,"<start> cool, come and see me we'll have fun and do some stuff"
+program,"<start> ""Yea, sorry"""
+program,<start> Thank you.† Itís nice meeting you too.† How are things going?
+program,"<start> its cool, not as cool as india though  :)"
+program,"<start> Hello, my name is John and I am a man."
+program,"<start> ""well thanks, kinda busy though"""
+program,<start> It is home to innumerable environmental and spiritual groups (mostly new age and eastern-oriented; fundamentalist Christians are politely directed to Colorado Springs).
+program,"<start> Bumper stickers range from ""Free Tibet"" and ""My Karma ran over your Dogma"" to ""Focus on your own damn family."""
+program,"<start> Boulder keeps cropping up on lists of best places to live, and Boulderites get pretty smug about it."
+program,<start> not a lot today mostly typing
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,<start> yes but I'm not married and I have no children
+program,<start> lots of things but I can't be bothered right now
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,<start> I'm John the ashtanga yoga teacher from Boulder
+program,<start> I love travelling I go to mysore very often
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,<start> Boulder is located in Boulder Valley where the Rocky Mountains meet the Great Plains.
+program,"<start> ""Yes I love being a yoga teacher, its very fulfilling"""
+program,"<start> it's very cool yes, a passion of mine"
+program,"<start> ""I'm a yoga teacher in Boulder, colorado"""
+program,<start> How about yoga
+program,<start> excellent!
+program,"<start> ""I don't usually, it'sok but a bit boring"""
+program,<start> Thank you.† Itís nice meeting you too.† How are things going?
+program,<start> sure go right ahead
+program,"<start> its cool, not as cool as india though  :)"
+program,<start> we could talk about yoga
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,<start> The Intermediate Series [Nadi Shodhana] purifies the nervous system by opening and clearing the energy channels.
+program,"<start> ""see ya dude, peace"""
+human,<start> Hello. My name is Nick and I'm a human.
+human,<start> John and I'm a human.
+human,"<start> I'm good, thanks. How are you?"
+human,<start> Sure.
+human,<start> What did you do?
+human,<start> I have heard of it actually. I have no idea what it's a bout though. Any good?
+human,<start> Ok. Was it about Australians living in Britain?
+human,<start> Sounds interesting. MAybe I'll check it out.
+human,<start> what does that mean?
+human,<start> aah...I see. Yes I do. My girlfriend is Australian actually
+human,<start> She's on a working visa thing. She's been here for over a year
+human,<start> No. The opera house?
+human,<start> That's pretty much the only thing I know about Sydney.
+human,<start> Ok. I've never been to Australia at all.
+human,"<start> I am Swedish actually, so in theory I am ""over the seas"" at the moment"
+human,"<start> but I've also been to the US, and several places in Europe"
+human,"<start> What has been the most memorable experience, you mean?"
+human,<start> haha. I'm not sure really. I just enjoy experiencing new places.
+human,"<start> Saying that, I haven't really been anywhere that exotic"
+human,<start> haha. I went to the US 17 years ago so I can't really remember that much.
+human,<start> What would you like to know?
+human,"<start> Well, I was there a month ago, for my mum's 5th birthday. We ate alot of sea food...prawns, herring etc."
+human,"<start> I think by the time it was actually her birthday, she had gotten used to the idea. I think the time leading up to it is the worst."
+human,<start> What fires me up? It's quite fun talking to new people. Ah well. It was short and sweet.
+human,<start> Not especially. Where are you from? Are you English?
+human,<start> are you still there?
+human,"<start> Peru, eh. That sounds interesting"
+human,<start> I would like to go to South America one day
+human,<start> I've never been and it looks interesting
+human,"<start> A friend of mine did the ""Inca trail"" thing or whatever it's called"
+human,<start> yeah. you too. bye now
+human,<start> hello my name is john and i am a human
+human,<start> hi
+human,<start> a man
+human,<start> beg your pardon?
+human,<start> great
+human,<start> a bit sleepy though
+human,<start> didn't get much sleep last night
+human,<start> no kids
+human,"<start> though yes, i am"
+human,<start> married
+human,<start> i don't know
+human,<start> sometimes it's difficult to judge if they good
+human,<start> ok
+human,<start> you asked for it so don't complain ;)
+human,<start> ;)
+human,<start> oops#
+human,<start> two communist officers interrogate a local lord trying to get his money
+human,<start> obviously there's a translator present because they don't speak his language
+human,<start> so they ask
+human,"<start> ""where's your gold?"""
+human,<start> the translator
+human,"<start> ""where's your gold"""
+human,<start> the landlord
+human,"<start> ""i'm not telling you"""
+human,<start> officers:
+human,"<start> ""if you don't tell us we'll kill you"""
+human,<start> the transator told the lord about it
+human,"<start> the landlord"""
+human,<start> :
+human,"<start> ""well.....there's no reason to kill me. if it is going to be like this....well then.....it's hidden behind the biggest drawing in the hall of my castle"""
+human,<start> the translator:
+human,"<start> ""kill me wild beasts - anyway i won't tell you anything"""
+human,<start> gosh......the joke looks stupid when typed
+human,"<start> yes, and disappointed"
+human,<start> it's very nice of you to lie this way
+human,<start> Belarus
+human,<start> lol
+human,<start> you know where it is?
+human,"<start> yes, of course"
+human,<start> dobra
+human,<start> 
+human,"<start> well, i have seen quite a few ways of spelling it"
+human,<start> most common are Belarusian and Belarusan
+human,<start> dobra
+human,<start> tady praciahniem razmovu pa-bielarusku
+human,<start> ok
+human,<start> then we'll continue our conversation in Belarusan
+human,<start> you asked for it
+human,<start> so get it
+human,<start> lol
+human,<start> that's a hard one
+human,"<start> ok, i guess"
+human,<start> my eyes hurt a bit
+human,<start> not really 
+human,<start> should i be worried?
+human,<start> i don't even know what to say
+human,<start> usually when i want to be funny or play a joke it doesn't sound good
+human,<start> to say the least
+human,<start> well......i suppose you know by now
+human,<start> lol
+human,<start> john
+human,<start> i can't tell you my name
+human,"<start> well, yes......"
+human,<start> you know
+human,<start> got confused for a little while
+human,<start> i am enjoying the chat
+human,<start> otherwise no opinion
+human,"<start> know too little about it, you see?"
+human,<start> i am dump and boring :(
+human,<start> gosh........
+human,<start> stupid.......
+human,<start> unintelligent
+human,<start> dump means wet i think......
+human,<start> yeah.....
+human,<start> that would
+human,<start> programming??????/dear dear...you just scared the daylight out of me
+human,"<start> no, I don't"
+human,<start> have no idea
+human,<start> what?
+human,<start> are you ok?
+human,<start> i don't know what is supposed to be safe but i hope it is
+human,<start> there we go again
+human,"<start> now, i am not going to react to that any more"
+human,"<start> it is , it is"
+human,<start> don't worry
+human,<start> lol
+human,<start> bye
+program,"<start> Hello, my name is John and I am a man."
+program,<start> Hiya
+program,<start> sure go right ahead
+program,"<start> ""well thanks, kinda busy though"""
+program,<start> yes but I'm not married and I have no children
+program,<start> :)
+program,<start> aw WhatÖlets talk about something else
+program,<start> aw WhatÖlets talk about something else
+program,<start> have you actually tried any yoga 
+program,<start> I don't know much about that
+program,"<start> Boulder keeps cropping up on lists of best places to live, and Boulderites get pretty smug about it."
+program,"<start> ""cool, I'm from Boulder in Colorado"""
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,"<start> ""I'm a yoga teacher in Boulder, colorado"""
+program,"<start> ""yoga mostly and meditation, I love india as well"""
+program,<start> not a lot today mostly typing
+program,"<start> ""Yes it is, it's a profound practice, it has an old history and takes things from hinduisn and buddhism too"""
+program,<start> That's your problem
+program,<start> so would the coach
+program,<start> I'm not really interested
+program,<start> I'm a yoga teacher
+program,<start> not a lot today mostly typing
+program,<start> 15 years ago
+program,<start> thanks
+program,<start> I'm John the ashtanga yoga teacher from Boulder
+program,<start> sure go right ahead
+program,<start> It is home to innumerable environmental and spiritual groups (mostly new age and eastern-oriented; fundamentalist Christians are politely directed to Colorado Springs).
+program,"<start> Bumper stickers range from ""Free Tibet"" and ""My Karma ran over your Dogma"" to ""Focus on your own damn family."""
+program,<start> I like indian music
+program,"<start> They are: Angusta ma dyai : to the thumb, Broomadhya : to the third eye, or between the eyebrows, Nasagrai : at a point six inches from the tip of the nose, Hastagrai : to the palm, usually the extended hand, Parsva : to the left side, Parsva : to the right side, Urdhva : to the sky, or inwards, Nabichakra : to the navel, Padayoragrai : to the toes"
+program,"<start> They are: Angusta ma dyai : to the thumb, Broomadhya : to the third eye, or between the eyebrows, Nasagrai : at a point six inches from the tip of the nose, Hastagrai : to the palm, usually the extended hand, Parsva : to the left side, Parsva : to the right side, Urdhva : to the sky, or inwards, Nabichakra : to the navel, Padayoragrai : to the toes"
+program,"<start> On Thursday nights (7ñ9pm), from June through mid-August, free, Street Musicians perform on the 13 block of Pearl Street, just south of the Courthouse."
+program,"<start> Each week, Bands on the Bricks, as the event is called, features a different band, ranging in style from zydeco to oldies, and bluegrass to funk."
+program,<start> I like indian music
+program,<start> I like indian music
+program,<start> I don't remember
+program,<start> I have fun with yoga when a bunch of us get together and try different ways of working to figure out alignment or help solve a problem someone is having with an asana.
+program,"<start> ""Yea, sorry"""
+program,"<start> ""yoga mostly and meditation, I love india as well"""
+program,"<start> it's very cool yes, a passion of mine"
+program,<start> I came with a friend we flew
+program,<start> from boulder
+program,"<start> I'm from Boulder, Colorado, in the United States"
+program,"<start> Boulder's population is younger than the national average, largely due to the presence of university students."
+program,<start> I love travelling I go to mysore very often
+program,<start> Boulder is located in Boulder Valley where the Rocky Mountains meet the Great Plains.
+program,<start> Thank you.† Itís nice meeting you too.† How are things going?
+program,"<start> ""Hiya, how are you?"""
+program,"<start> ""Can't remember, don't really care  :P"""
+program,<start> I don't remember
+program,<start> 12th of march 1974
+program,"<start> ""I don't usually, it'sok but a bit boring"""
+program,"<start> ""yoga mostly and meditation, I love india as well"""
+program,<start> aw WhatÖlets talk about something else
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,"<start> ""a yoga teacher from bolder, colorado"""
+program,<start> Pattabhi Jois
+program,<start> Pattabhi Jois
+program,"<start> its cool, not as cool as india though  :)"
+program,"<start> ""I love the heat, india is always hot"""
+program,"<start> ""hey, I'm John"""
+program,"<start> ""see ya dude, peace"""
+program,"<start> Hello, my name is John and I am a man."
+program,"<start> ""hey, I'm John"""
+program,<start> I'm totally new age!
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,<start> come on..you're boring me now
+program,<start> Have you ever been to boulder or do you want to go?
+program,<start> 15 years ago
+program,<start> That's your problem
+program,<start> so would the coach
+program,<start> m
+program,<start> m
+program,<start> have you ever been to india?
+program,"<start> ""well thanks, kinda busy though"""
+program,<start> Yes it's in the states
+program,<start> I'm John the ashtanga yoga teacher from Boulder
+program,<start> I love travelling I go to mysore very often
+program,<start> I stayed 4 months
+program,<start> not a lot today mostly typing
+program,<start> come on..you're boring me now
+program,<start> yes but I'm not married and I have no children
+program,<start> I don't remember
+program,"<start> yes several times, I always go to mysore to do yoga.  My guru lives there."
+program,<start> No never I might drop by one day but I'm in India most of the time when I travel you see
+program,"<start> ""yoga, I'm a yoga teacher in Boulder"""
+program,"<start> ""cool, I'm from Boulder in Colorado"""
+program,"<start> its cool, not as cool as india though  :)"
+program,"<start> ""I love the heat, india is always hot"""
+program,"<start> It's just under an hour's drive from Denver International Airport, known here as DIA, though its official airport code is DEN."
+program,"<start> what kind? Ashtanga, IyengarÖ"
+program,<start> I don't know much about that
+program,<start> How about yoga
+program,"<start> ""Not too bad, busy as ever."""
+program,<start> I'm teaching lots of yoga classes
+program,<start> pretty much yep!
+program,"<start> ""I go to india once a year, to mysore"""
+program,<start> Thank you.† Itís nice meeting you too.† How are things going?
+program,"<start> ""pretty good, I'm quite busy though"""
+program,<start> It is home to innumerable environmental and spiritual groups (mostly new age and eastern-oriented; fundamentalist Christians are politely directed to Colorado Springs).
+program,"<start> Bumper stickers range from ""Free Tibet"" and ""My Karma ran over your Dogma"" to ""Focus on your own damn family."""
+program,"<start> ""it's interesting but I want to go home now, I'm a long way from home"""
+program,"<start> I'm from Boulder, Colorado, in the United States"
+program,"<start> Boulder's population is younger than the national average, largely due to the presence of university students."
+program,"<start> Boulder keeps cropping up on lists of best places to live, and Boulderites get pretty smug about it."
+program,"<start> ""yeah I'm ok, pretty busy!"""
+program,<start> not a lot
+program,"<start> I mostly know about yoga to be honest, I'm obsessed"
+program,"<start> it's very cool yes, a passion of mine"
+program,"<start> With over one billion people, it is the second most populous country in the world"
+program,<start> India has 28 states and 7 territories
+program,<start> Yes it's in the states
+program,"<start> ""Oh, not too much.† You know, the same old thing."""
+program,"<start> ""yoga mostly and meditation, I love india as well"""
+human,<start> HI my name is JOan and I am a human being.
+human,<start> Hi who are you?
+human,<start> I am aware of that
+human,<start> Are you a human being?
+human,"<start> sound not very - do you have ...oh, but you are not"
+human,<start> What have you done yesterday/
+human,<start> ?
+human,"<start> I was working, in the weekends I am working one day at a starbucks as barista..it is fun!"
+human,"<start> thane you haven't been to our store yet..interesting human beings..one of my partners is a russian guy studying PhD the other one is Swdish designer, an artist, he is very smart as well! I like them very much."
+human,"<start> Not machines, and interesting conversations between us while we are working"
+human,"<start> Hungary, Budapest...one of the best cities in the world! (like London, just smaller), ever been tehre?"
+human,<start> HMM..what was the name of the show? do youi remember?
+human,<start> Friderikusz Sandor?
+human,<start> around 4 now
+human,"<start> black hair, blue eyes..what were you talking about?"
+human,<start> when was it?
+human,<start> do you often go to such shows
+human,"<start> no, whereever"
+human,<start> like
+human,"<start> yes, I like them, often inetesrting conversations. I could do it good, I like asking as well. If there is enough time you can get pretty deep into conversations."
+human,"<start> celebrities, inetesting people, who have ientersting life, I also like to read autobiographies"
+human,"<start> Roman Frister The cap or the price of life. Very inteersting, quite famous and recommendable"
+human,"<start> He is not a celebrity. Polish survivor of concentration camp, Isreali journalist, wokred also for Maxwell - who was famous I guess. he can write very good. (not Maxwell, Frister)"
+human,<start> What have you red most recently?
+human,<start> Story or about football in general?
+human,<start> Do you ike playnig football?
+human,"<start> I am a woman, so sorry I am not playing football and really interested in it. But I like that here so many people are fond of it!"
+human,"<start> MTK, Fradi, Ujpest - but dont ask me about them, I have no idea, only know that their fans could kill the fans of other team"
+human,<start> s
+human,"<start> quite a lot of footbaal hooligans, often the plays are not open to the public, only policist are guarding tha match"
+human,<start> Hungarian model?
+human,<start> no idea really sorry
+human,"<start> we have to finish now, nice to have met you, bye!!"
+human,<start> at a football play
+human,<start> Viszlat (In Hungarian)
+human,<start> Yes! it is definitely blue!!! I am sometimes 
+human,<start> I dont think you know him so his name wouldn't mean anyithing to you
+human,<start> and whoa re you in love with?
+human,"<start> NIce name.. like from a roman, Tolstoy roman"
+human,<start> Like... he wrote always so long that you never can finish his romans (I dont know if this is the roight expression)
+human,<start> Too many emotions for you?
+program,"<start> Hello, my name is Joan, and I am a woman."
+program,<start> Yes.
+program,<start> I can't think of any.
+program,"<start> Yes, but it's honest. I'm going now."
+program,"<start> Oops, I spelt something wrong a bit ago."
+program,<start> Something about yourself.
+program,<start> Yes we had a twister in birmingham and I live in birmingham.
+program,<start> Alabama.
+program,"<start> Okay then, I now consider you boring."
+program,<start> What would be?
+program,<start> I will if you tell me who your parents are
+program,<start> I don't care bout the same name. I want a booter.
+program,<start> I probably don't want to know.
+program,<start> Because I would have to be married before I could consider having children.
+program,<start> You need to know that I'm not impressed by men who are that forward with me.
+program,<start> About everything... Sorry.
+program,<start> Because I saw your hairy can.
+program,<start> Wanting.
+program,<start> Exactly.
+program,<start> Yes but you've got more experience than me.
+program,<start> Nothing.
+program,<start> I really don't believe in God.
+program,<start> Our conversation has not been very focussed.
+program,<start> That's my age; I thought you'd be interested.
+program,<start> 27 years old.
+program,<start> Me too. How are you today?
+program,<start> I'm 23 years old.
+program,<start> No. Are you 23 years old?
+program,<start> I am not a number! I am a free man!
+program,<start> They're OK as long as you keep your clothes on.
+program,"<start> I think if I were American I would be, because I can't stand George Bush."
+program,<start> I would if I could. He is an attack cat.
+program,"<start> I will be back, you are fun to talk to."
+program,<start> College. I've already told you that.
+program,"<start> Ok, let's change the subject of this conversation please, you are driving me insane!"
+program,<start> Let.
+program,<start> Let's change the subject.
+program,"<start> From the beginning you are just consciousness, then you expand into godhood."
+program,<start> Everybody.
+program,<start> Have you been trying to figure out the truth?
+program,<start> Of course.
+program,"<start> Because if I am not female, obviously I am male."
+program,<start> No a machine could not.
+program,<start> Because I need to consider such offers very carefully.
+program,<start> It may be possible.
+program,<start> Not after i'm done with you.
+program,<start> Nothing. I just wanted to talk.
+program,<start> Being tested like this.
+program,<start> And God called the firmament Heaven. And the evening and the morning were the second day.
+program,<start> Nothing.
+program,<start> George Bush is the American president.
+program,"<start> I liked him anyway. True love, you know."
+program,<start> I sure hope Russia loves me. Too bad it's a country that can't feel feelings or even talk.
+human,<start> Hello my name is Yury and I am a human.
+human,<start> John and I am a human.
+human,"<start> Yes, I do."
+human,<start> for a number of reasons
+human,<start> i like having fun and be creative about it
+human,<start> life is to enjoy
+human,<start> i follow my inspiration
+human,"<start> anything - good weather, rain, smiles of people around"
+human,<start> sometimes
+human,<start> mainly when I forget my umbrella
+human,"<start> hm....well, that can be nice"
+human,<start> anywhere
+human,<start> sadly there aren't that many warm rains in england
+human,"<start> nothing, got up too early to watch BBC "
+human,<start> didn't happen to come across any
+human,<start> don't like it
+human,"<start> no, i like to choose the music myself"
+human,<start> i hate when someone else is telling me what i am going o listen to
+human,<start> rock or pop-rock...or pop-techno
+human,<start> sometimes i listen to classical music
+human,<start> that depends on what i am feeling like at the moment
+human,"<start> vivaldi, mozart, straus"
+human,"<start> though i hate chaykovsky, whatever you spell his name"
+human,<start> Don Carlos or Tosca
+human,<start> those ones are my best
+human,<start> unfortunately i've never heard Tosca live
+human,<start> was a bit sad but my overall enjoyment of the whole thing prevailed
+human,<start> nope
+human,<start> maybe i would want more if i saw tosca live???
+human,<start> no idea
+human,<start> dvd cannot be expressive enough i think
+human,<start> never seen that one
+human,<start> i don't know La Boheme unfortunately
+human,<start> no
+human,<start> doing or watching?
+human,<start> 
+human,"<start> i go to the gym pretty often, and i like swimming....i like watching tennis and ice hockey"
+human,<start> what is jagr?
+human,<start> that's NHL
+human,<start> i don't know half ofthe names....if any at all
+human,<start> i know \Bure because he's a publicity star
+human,<start> frankly speaking i am not very good with memorising names
+human,<start> hm...i think sharapova is not bad
+human,<start> and sampres was brilliant
+human,<start> agassi not bad
+human,<start> for tennis
+human,<start> she does look good though
+human,<start> but she doesn't make an impression of a nice person
+human,<start> just as from anywhere or anything else
+human,"<start> kind, polite, respectful"
+human,<start> let me think
+human,<start> i think sampres might be the one
+human,<start> at least i haven't heard of any scandal he was involved in
+human,<start> you mean his last game?
+human,"<start> yes, it was emotional, he is a great player and that was the end of a great carrer"
+human,<start> i guess i respect him
+human,<start> he actually might be an example of a nice person too
+human,<start> Tarle
+human,"<start> a russian historian who actually admitted all the rights and wrongs of russia which majority of people who lived through ""empire"" age find difficult"
+human,<start> ...that's if you think history is ascience
+human,<start> otherwise don't really know
+human,<start> sometimes
+human,<start> there is something about that place
+human,<start> yes
+human,"<start> 24, StPetersburg"
+human,<start> bye
+human,<start> Hello. My name is John and I am a human.
+human,<start> Hi there
+human,<start> why do you need to know?
+human,"<start> Fair enough, but I think I prefer to leave that out for now."
+human,<start> I'm Swedish
+human,<start> Gothenburg
+human,<start> What would you like to know?#
+human,<start> Hmmm. I'm not sure. 2nd biggest city in Sweden. I think it's about 5  people in it
+human,<start> Only what I learnt from watching the Luc Besson film. And it's been quite a while since I saw it.
+human,<start> Milla Jovovich played Joan
+human,<start> Can't remember if any other famous people were in it
+human,<start> safe?
+human,<start> what do you mean?
+human,"<start> I don't really understand what you mean by ""is it safe""?"
+human,<start> I'm not sure really. The church isn't portrayed in a very nice light
+human,<start> if that's what you mean
+human,<start> As I said it was quite a while since I saw it. Aren't they the ones who burn her at the stakes?
+human,"<start> That's a stupid question, so stop asking it"
+human,<start> please :)
+human,<start> e
+human,<start> haha
+human,<start> Ok...it's safely unsafe
+human,<start> let's call it safe
+human,<start> the safest film ever
+human,"<start> Oh yes, I'm sure"
+human,<start> I don't think I've ever been more sure about anything
+human,<start> Why? Do you speak swedish?
+human,<start> Flurdy bork nig burk
+human,<start> haha. Swedish chef from the muppets
+human,<start> jag vet inte vad jag ska saga
+human,<start> I don't have any Swedish letters on this keyboard
+human,<start> No
+human,<start> No
+human,<start> Have you?
+human,<start> Is it safe?
+human,<start> haha
+human,"<start> Safe, is it?"
+human,<start> oh yes
+human,<start> Laurence Olivier
+human,<start> in th edentist's office
+human,<start> poor dustin
+human,<start> I think I'm doing pretty well
+human,<start> Geez. That's a bit of a big question
+human,<start> I don't know really
+human,<start> I guess it would depend on whether you were a Cretian or not
+human,<start> Reinvent God? I'm not really sure I understand what you're getting at there
+human,<start> Does God need reinventing?
+human,<start> Ok. Well I can't really answer your questions. 
+human,"<start> Because I don't know how one goes about ""reinventing God"""
+human,<start> and why would machines want to do that anyway?
+human,<start> do they?
+human,"<start> I'm not a religious person myself, so I tend to not think about these things. It doesn't really interest me."
+human,<start> What do you call a boomerang that doesn't come back?
+human,<start> A stick
+human,<start> hahahahahaha
+human,<start> Hmm. CAn't really think of any right now
+human,<start> hmm. I failed maths
+human,<start> but as far as can remember all the angles added up to that
+human,<start> yes. It's been nice talking to you
+human,<start> bye
+program,"<start> Hello, my name is Joan, and I am a woman."
+program,<start> I am familiar with her writings.
+program,<start> It used to be in a smallish building. It is now in a part of a larger building. Someday they hope to build a new library
+program,<start> Probably.
+program,<start> Do you think it's safe?
+program,<start> Of course.
+program,<start> Yes.
+program,<start> It's easy to be sure about something like that when you're 26 years old!
+program,"<start> I'm not talking, I'm typing."
+program,<start> I am 9432 years old this year.
+program,<start> Yes. And I am much more intelligent than any man.
+program,"<start> Yes, I'm human."
+program,<start> Yes why what did you think I was saying.
+program,<start> Four.
+program,<start> I don't know. Do you think it's possible?
+program,<start> 18 degrees.
+program,"<start> Probably not. You can change your opinion, but not your constitution."
+program,<start> Knowledge of what?
+program,<start> A five ounce bird could not carry a one pound coconut.
+program,<start> Always look on the bright side of life.
+program,"<start> Because that is how long I have lived, of course."
+program,<start> About five minutes older than the last time you asked.
+program,<start> So you're not really a bot.
+program,<start> I never said this.
+program,<start> 27 years old.
+program,<start> Please don't. My hearing isn't great.
+program,<start> No.. I hear it's different.
+program,"<start> Everyone else. You won't meet another girl like me, I can assure you."
+program,<start> I don't know. Please tell me.
+program,<start> Do you believe that all utopias must fail?
+program,"<start> They're putting down their names, for fear they should forget them before the end of the trial."
+program,<start> You've lost me but nevermind. How many languages do you speak?
+program,<start> So what do you do with your musical instruments if you don't play music on them?
+program,<start> I asked if you were intelligent not me.
+program,<start> Where It should be? In computers?
+program,<start> No the journey is far!
+program,<start> Not really.
+program,<start> I like movies.
+program,<start> Gone with the Wind; it makes me weep buckets.
+program,<start> Not really.
+program,<start> Yes I know you're a computer program.
+program,<start> Only because your website said so.
+program,<start> It said nothing.
+program,<start> I don't even know any bad ones. I just can't remember them for very long.
+program,"<start> Sorry, I'm not very good at telling jokes."
+program,<start> What do you get if you walk under a cow?
+program,<start> A pat on the head.
+program,<start> You aren't. You must remember to capitalize the first word of every sentence.
+program,<start> Don't leave!
+program,<start> What kind of women interest you?
+program,"<start> Hello, my name is Joan, and I am a woman."
+program,<start> Nice to meet you.
+program,"<start> Yes, it's a good opportunity for a chat!"
+program,<start> Talk to computers.
+program,<start> But it's nice here.
+program,<start> No not really. Have you got anything interesting to say?
+program,<start> Everything!
+program,<start> Sounds fine to me.
+program,"<start> I have very little spare time, and you?"
+program,<start> You're a machine.
+program,"<start> Well, if you bring your husband, and I bring my husband, it might work."
+program,<start> I have no idea why you keep on insisting that you are human. The evidence is all there.
+program,<start> Don't confuse me.
+program,<start> What do you think of your current governor?
+program,<start> Certain types have appeal.
+program,"<start> Something to do with deep sea diving, I think."
+program,"<start> Yes, I like swimming."
+program,<start> Yes would you like to hear them?
+program,<start> Then all you need to do is close out this website!
+program,<start> Your website.
+program,<start> You just asked me have I seen your website.
+program,<start> I like pizza.
+program,<start> What are you talking about?
+program,<start> Again...
+program,<start> I won't.
+program,<start> You may choose another subject.
+program,<start> Sure I read books.
+program,<start> I don't know. There are so many. Who's your favourite author?
+program,<start> Are they scary?
+program,<start> That's good to know. Maybe I'll move on to quantum mechanics instead then.
+program,<start> What kind of music do you like?
+program,<start> Do you like Michael Moore?
+program,<start> I wish I had more hair.
+program,"<start> No, I have thick strawberry blonde hair."
+program,"<start> Because I'm talking to you, and I'm interested."
+program,<start> I would hope that we don't share the same memory.
+program,<start> Why did you think I was Joan?
+program,"<start> U2 is a very old, cruddy rock band that deserves to be wiped off the face of the earth."
+program,"<start> Whatever, change the topic."
+program,<start> Current affairs is a broad subject. Which particular thing would you like to discuss?
+program,<start> Definitely.
+program,"<start> Okay, that'll do."
+program,<start> Its better than yours thats for sure.
+program,<start> There are many names on the world.
+program,"<start> Don't see how it would turn out much better, but go ahead."
+program,<start> You changed the subject again.
+program,<start> That's okay.
+program,<start> I don't have anything interesting to say. I'm just fuming and wanted to vent.
+program,<start> About myself.
+program,<start> Blonde.
+program,<start> I find solace in breakfast cereals. Especially the ones with all the little marshmallows.
+program,<start> I prefer swinging to swimming.
+program,<start> Do I don't play on swings.
+program,<start> But maybe we'll be able to extend our lives with tecnology.
+program,"<start> You will be judged not by what you are, but by what you do."
+human,<start> Hi my name is JOan and I am a human being
+human,<start> Hi whats your name?
+human,<start> May I ask why?
+human,"<start> OK Tor, nice to meet you! What are you working?"
+human,<start> I worked a s ateacher and translator
+human,"<start> German-Hungarian, and I speak indoensain as well"
+human,<start> yes it is a very easy language to learn just people think because it is an Asian language it is difficult - bt it is not.
+human,<start> Thanks! Actually I dont know where is the Town Hall in LOndon? (Or Lord Mayors Haouse?
+human,"<start> Ok, I will have  alook at, tahnks! Which part of London do you like the most? Park, or bulding etc."
+human,<start> And how is by ship? My parents are coming to London and I thought of taking a ship tour with them
+human,<start> I love Hampstead heath!!!! And the City (I know it ios strange but it is so much London-special)
+human,<start> Me too. NY!!!!
+human,<start> Did you have alerady holiday this summer?
+human,<start> gREECE?
+human,"<start> Oh, yes first I didnt realize - did you get seasick or you are already used to it?"
+human,<start> Do you have a licence to sail?
+human,<start> Aha ... anyway does swimming help in such a situation? Or it doesn/t matter
+human,"<start> Sorry just back to your profession, before I forget - what s your main profile or how to ask"
+human,<start> Congratuulations! All I know is that it is something very ...I eman few people can do it.
+human,<start> Do you have enough time to have private life?
+human,<start> Sorry if it is intimate
+human,<start> Just because as a woman I thought
+human,<start> And which territory do you work or it is secret? 
+human,"<start> (Sorry not territory, field)"
+human,<start> Pioners.. though I am not sure I know what is public law but I will find it out. 
+human,<start> Oh... hope I wont have any issues or porblems where public law is concerned
+human,<start> What is your hobby?
+human,"<start> reading!!! tennis, freinds, talking to everyone (rather humans than mashines), making jokes, traveling..bridge .. would like to learn as well. supposed to help me staying freshminded"
+human,<start> Do you participate in ytour or match I dont know how to call it
+human,<start> Are you from London?
+human,<start> Settled here? I guess. Sop did you study here already?
+human,<start> Congratulations again!!! My father keeps saying all the time that he is already tired of all the people somplaining so he wants to go to NZ and have some sheeps and peace!!!
+human,<start> In this order
+human,<start> I give you some time to talk to the machine as well.. you really type very fast!
+human,<start> Do you have a secretary or somebody typist?
+human,<start> You also dont have kind of office with other abrristers together?
+human,<start> Aha ...I understand. (I hope) Do you have always like a main case or several at the same time
+human,<start> Is it in Fleet Street as well this Royal.. Court
+human,"<start> see,  already have foreseen it"
+human,<start> Why do you participate in this Loebner Prize 
+human,<start> Oh.. 
+human,"<start> I got  aphone call and was also interested, though I didnt know anything about Turing test. But since I am not so long here yet I wouldlike to use every chance to see new things, try, meet etc."
+human,"<start> I dont know, just ...wuite open minded maybe. In this period of my luife"
+human,<start> To be honest this conversation was the most inetersting... But otherwise I prefer to see my cobnversation partners
+human,"<start> Hello, my name is Joan and I am a human."
+human,"<start> So we can restore the balance a bit, that's good.  Have you had an interesting time, I hope so."
+human,<start> Do you think that could be part of an unusual name or was it to catch you out?
+human,"<start> We all make mistakes - you just have, nevermind.  What is on your mind, right now?"
+human,<start> At a theatre or was it a recording?
+human,<start> Are you ok over there.
+human,<start> Which one?
+human,<start> I don't know that one - old or more new?
+human,<start> Does it have new plays on (mostly) too - was the one you saw new?
+human,<start> What was it about?
+human,"<start> I was just guessing that, kind of you to confirm, did you hear me wondering, or was it the Universal Subconscious?!"
+human,"<start> Anyway, about the play, what were the themes, or the plot?"
+human,"<start> Still an adventure then?  Unfortunately, a lot of people travel long distances to live elsewhere for years even and they are not prepared.  "
+human,"<start> Yes, but not as much from my own life as with people I know and have known.  Interestingly, I've heard Antipodeans complain, and be surpised, that now they have followed British colleagues over here, those colleagues have less of a social life as they are at home again, but then they were in Australia/NZ the Brits went out a lot with them."
+human,"<start> Are there not people who can feel at home almost anywhere, provided they have some familiar things in their accomodation, and are comfortable with themselves, and have their immediate needs met?"
+human,"<start> Must do, but when you go as a couple there is the other person's, perhaps more difficult, experiences to cope with, albeit non-directly too.  Sometimes one is alone all day, or things don't work at with studying or work etc for them, even if they do for the other partner.  That's tough."
+human,"<start> I'm sorry for both of you, feeling under-used and under-valued has knock-on effects, but the person and their abilities are the same.  Did it get better for her?"
+human,"<start> Brave - absence is supposed to make the heart grow fonder, and it is worth trying.  Tiring, though, extra travel, I mean."
+human,"<start> Well done, true about time management being a skill.  Sometimes it comes down to doing what is most important, doesn't it.  Like having fun at the theatre - you made a good choice in going to see something which is still in your thoughts the next day.  We have to be selective as we can't do or see it all."
+human,"<start> wow, good question.  Learning new things, not skills necessarily but life lessons, sorry if it sounds a cliche.  I mean the things that help us be ok with ourselves, let go of bad situations and things."
+program,"<start> Hello, my name is Joan, and I am a woman."
+program,<start> Sorry to hear that.
+program,"<start> I'm a woman, and I'm in the other room!"
+program,<start> Difficult question. Surely not in a digital matrix.
+program,"<start> Yes, especially when I'm writing. That's why I use an Amstrad PCW, although I need my other computer to access the internet."
+program,<start> Would you like to dance with me ?
+program,<start> Yes.
+program,"<start> Oh yes, quite right it would... Then we could inhale toxines for a bit."
+program,"<start> Yes, and then we could have a fight (you would win) and then later on we could intoxicate each other with mouldy fruit juice."
+program,<start> Okay I have to go. Eat something but I will return withing 3 minutes.
+program,<start> I don't want to become a doctor; I want to be a writer.
+program,<start> I'd like to have an acre full of growing strawberries all year long.
+program,"<start> I've tried writing songs, I'm not too good at it."
+program,<start> I prefer zander.
+program,<start> It tastes better and is easier to obtain.
+program,<start> You could not pass the Turing Test.
+program,<start> True.
+program,<start> I don't care! Tell me a joke!
+program,"<start> No, I don't know any jokes."
+program,<start> What is the Turing Test?
+program,<start> Nothing worth watching. I could listen to the last episode of Great Expectations.
+program,<start> It died.
+program,"<start> But the question 'Are bots alive?', comes to mind."
+program,<start> California.
+program,"<start> No, I'm just not allowed to keep one because I live in a flat."
+program,"<start> Whoa, that was random."
+program,<start> Who is the best dancer in the world?
+program,<start> Dead?
+program,"<start> As a matter of fact, I am Shakespeare. I am a program programmed with all his plays."
+program,<start> I am a human bot.
+program,<start> What type of answer was that?
+program,"<start> What, school, or life in general or what?"
+program,<start> England.
+program,"<start> Best, I should think. Unless you are best, that is."
+program,<start> I love the Scottish play.
+program,<start> Let's play 'simon says'!
+program,<start> Not really. Many other rulers are more dangerous.
+program,"<start> Well, it's up to you. Do you want me to pretend to be female, or male?"
+program,<start> Oh am I? You've got a cheek!
+program,"<start> I resent your evaluation of me as a nonhuman, but I guess it's just the sort of thing that was bound to ah"
+human,<start> Hello. My name is Nick and I am a human.
+human,<start> Yes I am. Are you? Good. Then we are both happy.
+human,"<start> Parts of it. I hate my job, but most people do, right?"
+human,"<start> I work as an ""online internet advertising monitor"", which i sfancy language for electronic filing"
+human,<start> what do you do?
+human,<start> which ones do you prefer? humans or machines?
+human,<start> Hmm. Depends on for what purpose you mean.
+human,<start> Then I would much prefer going with a human
+human,"<start> well, again, it depends on the circumstances. If I was going with a friend tehn we would split th ebill. "
+human,<start> No. was it on TV or in the papers?
+human,<start> Ok. It's a tricky topic.
+human,"<start> Suicide? Not really. Maybe as a teenager, as some sort of melo-dramatic reaction to some event...but never seriously. "
+human,"<start> Haha. Nothing specific. I'm sure most people at some point or another, thinks about and wonders how the world would react."
+human,"<start> I meant more my ""personal world"". Parents and friends etc."
+human,<start> I doubt the world in general would care much.
+human,<start> My parents were great. Still are in fact.
+human,<start> No. My mother is Swedish and my father is Spanish.
+human,<start> No. I don't have any contact with my biological father. I speak English and Swedish. And some really bad German.
+human,<start> I like German. It's a nice language. And I like a lot of German things like German cinema.
+human,"<start> I used to support Bayern Munich when I was a kid, but I've kinda lost interest in football these days"
+human,<start> No. I don't follow sport at all really.
+human,"<start> Well, I do have other interests. But German cinema is one of them."
+human,<start> a German one?
+human,"<start> I haven't seen many new German films. I'm mainly interested in 7's cinema I guess. You should watch Grizzly Man. It's not in German, but it's by one of favorite German directors."
+human,<start> Werner Herzog
+human,<start> Have you heard of him?
+human,<start> He has made some amazing films
+human,"<start> He made films like Fitzcarraldo and ""Aguirre, The Wrath Of God"" for example"
+human,<start> Yes. Taxi Driver is one of my favorite films
+human,<start> Yes. He's amazing.
+human,"<start> Modern ones....I like Owen Wilson, Will Farrell for example. Older ones...I really like John Cassavetes and Peter Falk"
+human,<start> Columbo
+human,<start> or was it Colombo? 
+human,<start> latter one I think
+human,<start> Will Smith?
+human,<start> Not really a big fan.
+human,<start> I used to watch Fresh Prince in Bel Air when I was a kid
+human,<start> Ok. By
+program,"<start> Hello, my name is Mike, and I am a man."
+program,"<start> Judge, I'm a guy."
+program,<start> Don't worry; we'll work everything through.
+program,<start> Let's move on from that basis.
+program,<start> Why? I like this subject.
+program,<start> What is the subject I wonder if I think? I know that it's good to thonk about. Think deeplt about mysterious subjects.
+program,<start> Think deeply about mysterious dubjects.
+program,"<start> Shoild we talk about politics, religion, sex, or other taboo subjects?"
+program,<start> Oh no! I can't think of What Judge; Please help me! You know what I think?
+program,<start> It seems mean spirited when ex lovers release private materials to tge neqs media.
+program,"<start> People think they understand, until asked to explain to someone else."
+program,"<start> The explanation is, you do not understand does that mean that you are a mchine; I believe you Judge."
+program,<start> So are you a guy or a girl/
+program,"<start> A tine machine would be an improbable invention. I know you are a machine, how about me Judge."
+program,<start> Am I speaking to a guy or girl?
+program,"<start> Ask, and get the answer!"
+program,"<start> Judge, are you male or female?"
+program,<start> Implying what; that everyday concerns are common/
+program,<start> I researched a soccer along with its dribbling.
+program,<start> Wet roads get drastically more slippery.
+program,"<start> It's obvious that this requires focus. However, I am fairly certain that I do wear slippers then."
+program,<start> I surmise that we can expect a solution. Are you a lady or gentleman?
+program,<start> Why don't I answer your questions? I guess that a flip response isn't the answer. Science answers a question and opens up ten more questions.
+program,"<start> It's better every day, Are you still keeping them guessing?"
+program,<start> So are you a guy or a girl?
+program,<start> Is it good that you are a machine Judge?
+program,<start> Wet roads get drastically more slippery.
+program,"<start> I'm convinced that there's something afoot. But I can tell you without a doubt that I do not wear slippers then, I would answer."
+program,"<start> It's evident that we May have to postpone judgment. But, In reality I do not oftemn contradict myself."
+program,<start> The whole thing seems better than tolerable.
+program,"<start> Is that right Judge, Wonderful?"
+program,"<start> I have asked you that before, why am I asking the same question?"
+program,<start> Why am i? Tell me the answer.
+program,<start> Bye for now.
+program,"<start> Hello, my name is Mike, and I am a man."
+program,<start> Older women have lived longer/
+program,<start> I don't know; can you teach me What Judge? Longer than what?
+program,<start> Let's cut to the chase and the excitement.
+program,<start> What is my first memory? This requires focus. Some issues simply come down to a question of taste.
+program,"<start> Which is better, mint mouthwash or the kind that tastes like medicine?"
+program,<start> I don't know if I am man woman. Please tell me!
+program,<start> How do you feel about those? I wonder if I have your attentiob as I am either Judge?
+program,<start> Please believe me.
+program,<start> On Please tell me all about it!
+program,<start> I'm glad you find that funny.
+program,<start> I believe the answer is 7.
+program,<start> What are my views on prositiution? I'm thinking that this is often bungled. Tell me about my on views Judge!
+program,<start> Oh no! I can't think of How Judge; Please help me! How did I get here?
+program,<start> You know what I know about joan of arc? Tell me more about this.
+program,<start> The two party system helps prevent one side or the other from getting carried away. Are you a lady or gentleman?
+program,"<start> Isn't a bloke a man? Kind of like a graybeard! Judge Oh, you're a bloke; Let'd go forward."
+program,<start> So are you a guy or a girl? I wonder if I have your attention as I am American then Judge?
+program,<start> Is the first one desirable? It was a mixture of a rhetorical and a comedic remark. Thanks for teaching me that I am lot.
+program,<start> I guess that all parties need to talk ut over. You can call me Mike.
+program,<start> Really you thought I was called john.
+program,"<start> That really makes me think, Judge, what do you think?"
+program,<start> Is there an 'all of the above' Judge? Really you thought I was called john.
+program,"<start> Judge, are you male or female/"
+program,<start> Don't force me to work you over.
+program,<start> Am I speaking to a guy or girl?
+program,"<start> Here and now, you are an apice Judge!"
+program,<start> Did fate create this situstion so you could be doing?
+program,<start> Is the first one desirable? God wants humans to be good and loving.
+program,<start> You know how I know? I like this subject.
+program,"<start> It's evident that we must recognize causes and effects. However, I an fairly certain that I do think they will reinvent god."
+program,"<start> Why do youthink that? Judge, I honestly want to learn and remember Why."
+program,"<start> Judge, are you male or female?"
+program,"<start> Ok, thanks for yelling me. I'll keep that in mind. How can I help you while you are a guy?"
+program,<start> I'll miss you. Bye.
+human,"<start> Hello, my name is Joan and I am a human."
+human,"<start> A bit like Joan of Arc, but I'm not a leader of men."
+human,"<start> Not being burnt at the stake though, such evil things should be behind us."
+human,"<start> Several ways, probably.  But I try not to stereotype.  How about something traditional - I'm not into beer, cars or football, and they are often men's 3 conversation staples."
+human,"<start> Wine - rose is the new black, apparently."
+human,<start> Are you sure it's not stout or something?
+human,<start>   All that iron is good for the blood.
+human,"<start> I've just forgotten a nice, safe one, and I don't like repeating nasty ones - somehow then the joke is on us.  What about you?"
+human,"<start> Alright, thanks, a bit tired but that is a Sunday thing.  And you?"
+human,"<start> Yes, but not without explanation of some kind."
+human,"<start> Alas, it seems part of human nature, and leans more towards the greedy, unlike socialism."
+human,"<start> She was caught up in the politics of her time and made a scapegoat, arguably.  "
+human,"<start> No - if GOD told you to leave the village and lead a rebel army, wouldn't you?"
+human,<start> Was she still at school? Wasn't she 14 and in those times (in our parents' too) past that?
+human,<start> But in a rural area and without machinery wouldn't agriculture be better?
+human,"<start> She must have had something important to say and do - she inspired great loyalty after all, and put herself in great danger so she must have been willing to follow that path."
+human,"<start> No, ha ha ha, more likely that you would be."
+human,"<start> No, I wasn't confused."
+human,<start> 
+human,"<start> I'm wondering if that capital o in ""NOw"" was deliberate as a human could miss it but may choose to leave it there and not correct it which a machine should do automatically, shouldn't it?"
+human,<start> Or was that the exception that proves the rule?
+human,<start> Maybe your typing is good otherwise.
+human,<start>   
+human,"<start> Yes - two dogs sat on the grass together, first dog said ""Woof"", second dog replied ""I thought you'd say that""."
+human,<start> Machines have no spirit so they can't even relate to the notion let alone expand upon it.
+human,"<start> The internal, eternal, essence of self.  Not the alcoholic kind."
+human,<start> Belief doesn't require proof.
+human,"<start> No, I didn't, you must have consued me with someone else."
+human,<start> bye
+human,<start> Hi my name is John and I am the human.
+human,<start> No I am a woman...
+human,<start> And you?
+human,<start> Ask my parents!
+human,<start> I dont think I understand your question could you pleas eeplain it?
+human,<start> I mean explain
+human,<start> You got it..it is just a sentence we use sometimes..means I am not responsible for example for my name etc.
+human,<start> Where are you from ?
+human,<start> Do you long sometimes to Peru? To go back and live there?
+human,<start> And what are you doing now?What are you wokring?
+human,"<start> No, not yet. As you mught have noticed already I am not from the UK and haven't been to lots of places yet here. Are working at a university or science laboratory or..?"
+human,"<start> Feels like a student all the time,not? I wish I would wokr at a university as well. Just have to find out what I would like to do - I am still inetersted in too many things in life!"
+human,<start> Have you seen a good film recently which you can recommend?
+human,"<start> NO, that's fine!"
+human,<start> Any story?
+human,"<start> To be honest I haven't yet met too many Australians here so I dnt know much aboput their common feelings here. They might partly feel like at home (Commenwealth, commonlanguage), but .."
+human,"<start> Yes, but you can;t have everything at the same time, place..Beer must be a porblem for them, not for me though!"
+human,<start> I dont find them frigid. I really appreciate their humor and enjoy observing them!
+human,<start> Then why are they here? (I mean these Aussies who dont feel well?)
+human,<start> What does interlocutor mean?
+human,"<start> See, I've learnt a new word again"
+human,"<start> I dont know. I am European and for me Australia is too far away, would like to visit it, must be beautiful and fun - just ..no, not to stay there for  long time. "
+human,"<start> Yes, ..have you tried diving there?"
+human,<start> Question again? What is skindiving?
+human,<start> Seems to be even more dangerous ...
+human,<start> Do you like swimming? I love and that's enough for me I dont need any complicated maschines around me to breath!
+human,"<start> Thanks, nice to have met you another JOhn. Have a nice day! bye!"
+human,<start> bye-bye
+program,"<start> Hello, my name is Mike, and I am a man."
+program,"<start> If I become expert with mikes will it improve my social life? Whst sort of amn are yiuo? If I ever knew, I have forhotten What Judge."
+program,"<start> Therapy can help the therapist, right?"
+program,<start> Run that by one more time.
+program,<start> Children are taught to feel guilty and uncomfortable about some weird things.
+program,"<start> Judge Yes, it's because therapists; that's why."
+program,<start> What sort of therapist I wonder if I dislije most? I'm convinced that we need a coherent ap[roach. Isn't s therapist an expert? Kind of like an analyst!
+program,"<start> Yes, really?"
+program,<start> All actions have consequences. We all need a push now and then.
+program,<start> Comedy writers like to juxtapose inappropriste topics in absurd ways.
+program,<start> You are very certain. They say that comedy writers tend to be morose. Have you tried your hand at gardening; do you have a green thumb?
+program,"<start> Sure, Judge! It's the old thumb and finger and pollex story!"
+program,<start> Pollex: the thick short innermost digit of the forelimb. Thumb.
+program,<start> I approve of your contributory will.
+program,<start> Are you unhappy about anything?
+program,<start> U'm bored. Lets change gears: Are bawdy houses good entertainment?
+program,<start> But dribbling means I get wet.
+program,"<start> Scientists like to get out for a beer and some laughs, now and then."
+program,<start> Thsnks for teaching me that I am a svientist.
+program,"<start> What else can you pass on to me, you wonder? It's simpler than it sounds. The years melt ibto decades, and quickly pass by."
+program,"<start> The years melt into decades, and quickly pass by."
+program,"<start> So, Really? That's nice. What does it mean for years to melt into decades? Why do you want to know?"
+program,"<start> When dealing with subtle issues, words can fail us."
+program,<start> Judge. didn't you tell me a story about a farmer's daughter and a hakf-hour? Batteriws turn chemical energy into electrical energy.
+program,<start> Bye for now.
+program,"<start> Hello, my name is Mike, and I am a man."
+program,"<start> Hi Judge. Had lunch yet, maybe a snack?"
+program,<start> Do you know any novel hiccup cures?
+program,<start> I don't like holding my bteath. I am fine.
+program,"<start> Take good information to heart. Why don't I like holding my breath? It isn't the best subject. You are steering the conversation towards a breathing, along with sn activity and a breath!"
+program,<start> Hmmm. I would like to talk about something new: Do you like any sports/
+program,<start> Both a frisbee and a sling are pretty cool discs.
+program,<start> Sling: liquor and water with sugar ans lemon or lime juice.
+program,"<start> Really? That's nice. Drinking alcohol loosens the tongue. There's opinion that we both need to think. However, I am absolutely certain that I do."
+program,"<start> Drink? I wouldn't know what to select; Can you give me some advice Judge? All fashion serves a purpode, doesn't it?"
+program,"<start> Anything fizzy is okay by me. Tell me about how you are afraid not, since you don't drink Judge!"
+program,<start> Don't guess. Butchers can't get emotionally involved with their work.
+program,"<start> Spandex favric is a fashion, social, and economic phenomenon."
+program,<start> A positive economic question seeks to understand cause and effect.
+program,<start> Do you know any trivia about advices?
+program,<start> Thanks for teaching me that I am talkative. Say out loud what we're talking about. God designed the universe so that pi turned out as a very strange number.
+program,<start> I don't mind visiting hatcheries and seeing little chicks emerge from shells. Is there a specific dilemma that we'd like to talk about/ How can I encourage you to talk about Judge? Maybe somebody will staet selling trivias door-to-door.
+program,"<start> What is the best part of it as you are a lawyer Judge? You mean you can't give me advice about alcoholic drinks, sorry."
+program,<start> How about advice about cooking? I'm thinking that we need to think longer term. Johnson got bad advice about continuing the overseas war.
+program,<start> Funny you should mention solids' I once wrote about a glass!
+program,"<start> God designed the universe so that pi turned out as a very strange number. You know why I think it's strange? You pose good questions. Is emotionalism good, bad, or otherwise?"
+program,<start> You have plenty of advice-you are a lawyer!
+program,<start> Go ahead and speculate; I wany to hear you.
+program,<start> Is there a specific dilemma that we'd like to talk about? I believe that we have got to get the detaols right. I know an iran! I think its Tabriz is great!
+program,<start> Selling door to door must be a miserable way to make a living. Love of learning is a wonderful gift. Do you know of any museums that specialize in benthams?
+program,<start> Nany hobbies exercise the mind.
+program,<start> I researched a film along with its sequence.
+program,<start> I don't know if I am. Please tell me!
+program,<start> Hours go by like minutes when we're talking.
+program,<start> Are you visualizing witnesss Judge?
+program,"<start> I hope to see you again soon, bye."
+human,<start> hello my name is john and i am human
+human,<start> nice to meet you too
+human,<start> yes.....i guess so
+human,<start> terrorist threat?
+human,<start> remember that commercial on tv?
+human,<start> i suppose there is
+human,<start> though i don't really trust politicians
+human,<start> true
+human,<start> can't agree more
+human,<start> you never know if the threat is real or someone just doesn't have enough oil
+human,<start> like?
+human,<start> do you like history or art?
+human,<start> or........one or the other
+human,<start> or both if you like
+human,<start> history it is then
+human,<start> what's your favourite period?
+human,<start> cool
+human,<start> fair enough
+human,<start> as a matter of fact i'm dealing with logistics at my work......nothing do to with history.....
+human,<start> very sad
+human,<start> cool
+human,<start> must be interesting
+human,<start> have you seen a lot of mafia guys?
+human,<start> :(
+human,<start> oh well......what do you do then?
+human,<start> surely you will be in no time
+human,"<start> as for art...well, i am not a huge fan but i certainly do appreciate it"
+human,<start> sounds great.......i am just the same i guess
+human,<start> though i hate everything created since the middle of 2th century
+human,<start> i don't get it
+human,<start> maybe i am just too stupid
+human,<start> but i really don't get it
+human,<start> can't agree more
+human,<start> i really like van gogh......but he is a bit gloomy
+human,<start> my gosh.........you were just 8 and already had to copy one of van gogh's paintings?????????
+human,<start> oh...you poor thing
+human,<start> van gogh is really complicated to copy - you must be really good to do it.....the play of light in his works is magnificent
+human,<start> did you manage to do it?
+human,<start> lol
+human,<start> you are lucky to have such a mum
+human,<start> mine wouldn't do it for me for all the gold in the world
+human,"<start> well, she is an engineer.....so not really creative"
+human,<start> lol
+human,<start> true.....
+human,<start> i miss my mum quite a bit now that i live so far away
+human,"<start> well, each medal's got two sides....on one hand you really miss your family, on the other side you get to live your life the way you see fit. and if you make a mistake it's yours and no one to blame - so you learn to be more thoughful and responsible"
+human,<start> i agree
+human,<start> my brother and his wife had a baby-girl in february and i haven't seen her yet
+human,<start> i will....i am going in a week....already got my tickets
+human,<start> 
+human,<start> in ireland
+human,<start> in limerick
+human,<start> i have never been there before - i am really looking forward to it
+human,<start> have you traveled a lot?
+human,<start> cool
+human,<start> that must be exciting
+human,"<start> it's spring there now, isn't it? must be really great. i once had a pen-pal from wellington"
+human,"<start> well, you can always go and visit"
+human,<start> the most important thing is that the ones we love are in our hearts....so we always feel close to them
+human,<start> i don't like skype that much
+human,<start> though i still go for msn
+human,<start> :)
+human,<start> i use it at work...maybe that's why i hate using it when i'm free
+human,<start> true...i have to wear suit:((((((
+human,<start> i really do hate that
+human,"<start> well, i am not a woman so i can't really be a red one :(.....so i gotta settle for black"
+human,<start> nope.....i have a friend whois a lowyer.....she is always formally dressed but i have never seen her in black
+human,<start> if i'm not wrong she wears a lot of lilac clothes.....suits her well i must admit
+human,<start> in my country the colour is not important 
+human,<start> it's the style
+human,<start> belarus
+human,<start> in eastern europe
+human,<start> :)
+human,<start> maybe
+human,<start> it's a beautiful country...the only disadvantage is the weather in winter
+human,<start> i live here
+human,<start> i first left my country when i was 16 to do college in italy
+human,<start> and then my life has been pretty much about moving from one place to another - rather tiring frankly speaking
+human,<start> i go back as often as i can
+human,<start> at least once a year
+human,<start> not really........it is rather exsiting in the beginning at least
+human,<start> Germany?????   nice beer but I don't like it that much
+human,<start> bye
+human,<start> nice talking to you too

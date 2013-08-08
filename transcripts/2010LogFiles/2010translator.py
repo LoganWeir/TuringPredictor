@@ -12,6 +12,7 @@ product = open(outfile, 'a')
 writer = csv.writer(product)
 
 utterance = ""
+start = "<start> "
 
 for line in text:
   items = line.split()
@@ -30,9 +31,9 @@ for line in text:
       elif this_addition == "Return":
         utterance += " "
       elif this_addition == "BackSpace":
-        utterance += " BackSpace " 
+        utterance = utterance[:-1] 
       elif this_addition == "CR":
-        writer.writerow ([author , utterance])
+        writer.writerow ([author , start+utterance])
         utterance = ""
       #HEEEEEEEEEEEEEY SEXY LAAAADYYYY
       # elif this_addition == "CR":
@@ -40,7 +41,7 @@ for line in text:
       else:
         utterance += this_addition
 if utterance != "":
-  writer.writerow ([author , utterance])
+  writer.writerow ([author , start+utterance])
 
 #OPA VOPAL STYLE:
 # if utterance != "":
