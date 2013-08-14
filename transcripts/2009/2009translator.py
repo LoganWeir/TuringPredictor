@@ -13,6 +13,7 @@ writer = csv.writer(product)
 
 utterance = ""
 start = "<start> "
+end = " <end>"
 
 for line in text:
   items = line.split()
@@ -22,18 +23,11 @@ for line in text:
       this_addition = items[5]
       if this_addition == "space":
         utterance += " "
-      # elif this_addition == "question":
-      #   utterance += "?"
-      # elif this_addition == "comma":
-      #   utterance += ","
-      # elif this_addition == "period":
-      #   utterance += "."
-      # elif this_addition == "Return":
-      #   utterance += " "
       elif this_addition == "BackSpace":
-        utterance = utterance[:-1] 
+        utterance = utterance[:-1]
       elif this_addition == "CR":
-        writer.writerow ([author , start+utterance])
+        length = len(utterance.split())
+        writer.writerow ([author , start+utterance+end , length])
         utterance = ""
       #HEEEEEEEEEEEEEY SEXY LAAAADYYYY
       # elif this_addition == "CR":
@@ -41,7 +35,8 @@ for line in text:
       else:
         utterance += this_addition
 if utterance != "":
-  writer.writerow ([author , start+utterance])
+  length = len(utterance.split())
+  writer.writerow ([author , start+utterance+end, length])
 
 #OPA VOPAL STYLE:
 # if utterance != "":

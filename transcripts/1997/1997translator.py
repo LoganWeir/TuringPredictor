@@ -8,15 +8,23 @@ script, infile, outfile, author = argv
 text = open(infile)
 product = open(outfile, 'a')
 
-# comment out if OP OP OP OP, OPA VOPAL STYLE
 writer = csv.writer(product)
 
 utterance = ""
 start = "<start> "
+end = " <end>"
 
 for line in text:
-	if line[0:3] == "CON":
+	line = line.strip()
+	if line[0:3] == "PRO":
 		utterance = line[17:]
-		writer.writerow ([author, start+utterance])
+		length = len(utterance.split())
+		writer.writerow ([author , start+utterance+end , length])
+
+# for line in text:
+# 	line = line.strip()
+# 	if line[0:3] == "PRO":
+# 		utterance = line[17:]
+# 		writer.writerow ([author, start + utterance])
 
 product.close()

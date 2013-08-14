@@ -1,0 +1,642 @@
+human,<start>  <end>,0
+human,<start>  Hi how are you? <end>,4
+human,<start>  HI How are you? <end>,4
+human,<start>  I'm fine. Its a nice day today. <end>,7
+human,<start>  What are your plans tonite? <end>,5
+human,<start>  Sure. What's a good time? <end>,5
+human,<start>  Fish is usually a good choice. <end>,6
+human,<start>  Yes-I saw the big penquin. Taht one is really good. <end>,10
+human,<start>  Why? Is it because of its size? <end>,7
+human,<start>  Many of the others are very good also. How long is the show <end>,13
+human,<start>  going to be up? <end>,4
+human,<start>  Which one is your favorite piece? <end>,6
+human,<start>  What medium did you use? <end>,5
+human,<start>  Is that your favorite medium? <end>,5
+human,<start>  What are you working on <end>,5
+human,<start>  Hi How are you today? <end>,5
+human,<start>  I'm fine thankyou. I was busy all weekend fixing roofs. <end>,10
+human,<start>  yes. Sometimes it gets very hot up there. <end>,8
+human,<start>  Yes. The old tin roof is also a great place to watch people <end>,13
+human,<start>  from? <end>,1
+human,<start>  Usually kids and people walking their dogs. <end>,7
+human,<start>  Yes. I have a hugh dog - a fox hound. <end>,10
+human,<start>  How big a dog is that? <end>,6
+human,<start>  Yes. Several in fact. <end>,4
+human,"<start>  Doe Doe, Susie, Black Beauty,Charly, etc .... <end>",7
+human,<start>  Well there were so many. <end>,5
+human,<start>  Doe Doe. <end>,2
+human,<start>  She was part Norweigian Elkhound and police dog. She won <end>,10
+human,<start>  a prize is a dog beauty contest. <end>,7
+human,<start>  In Bklyn and Conn. <end>,4
+human,<start>  I went to Berkeley and the Kent School in Kent Ct. <end>,11
+human,<start>  In the '70s. <end>,3
+human,<start>  Thankyou. I hope we can talk again soon. <end>,8
+human,<start>  When will you be back at the club? <end>,8
+human,<start>  Hi  how are you? <end>,4
+human,<start>  Where did you fly in from? <end>,6
+human,<start>  Why not? Where they banging and clanging tray about all <end>,10
+human,<start>  nite? <end>,1
+human,<start>  Hamburg is a seaport isn't it? <end>,6
+human,<start>  Recently the town has improved a lot correct? <end>,8
+human,<start>  Arn't there more tourists there then in years before? <end>,9
+human,<start>  I have a French friend who married a guy from Hamburg. He <end>,12
+human,<start>  is an Architect. <end>,3
+human,<start>  Small stuff. He was younger than she. She had a pretty wild <end>,12
+human,<start>  life before she married him. But he was quite goodlooking <end>,10
+human,<start>  and young-so moldable so to speak. <end>,6
+human,<start>  Well she had been married twice before and had lived all <end>,11
+human,<start>  over the place. She had worked for Scotland Yard at one <end>,11
+human,<start>  point. <end>,1
+human,<start>  Right now Im involved in a comabination of things. I want <end>,11
+human,<start>  to sstart a private foundation to raise money for a <end>,10
+human,<start>  museum. <end>,1
+human,<start>  A children's Cival war museum. That way the public that <end>,10
+human,<start>  tramps through is hopefully controllable. <end>,5
+human,<start>  They are supposed to be anyway. <end>,6
+human,<start>  Hi how are you? <end>,4
+human,<start>  Have you been typing long? <end>,5
+human,<start>  Who were the others? <end>,4
+human,<start>  I'm in New York but like to travel. <end>,8
+human,<start>  I just got back from Cape May N.J. <end>,8
+human,"<start>  Fix more ""old tin roofs"". <end>",5
+human,"<start>  No. We just ""merrily roll along"". <end>",6
+human,<start>  We just keep going. One little old space bar doesn't matter. <end>,11
+human,<start>  No thankyou. It's to nice a day to spend time in a theatre. <end>,13
+human,<start>  You invited me out and I declined. Polite conversation <end>,9
+human,<start>  me to Thank You for your invitation. <end>,7
+human,<start>  Yes. I think Other forms of life are constantly watching <end>,10
+human,<start>  us and amused at what they see. <end>,7
+human,<start>  Did you see athe comet?? <end>,5
+human,<start>  Well better luck next time. <end>,5
+human,<start>  Hi how are you? <end>,4
+human,<start>  Just fine. I'm thinking about lunch aand wondering where <end>,9
+human,<start>  to go? <end>,2
+human,<start>  About 10 bucks and I don't want anything greasy. <end>,9
+human,<start>  I'm from New York. Have you heard about this new airbourn <end>,11
+human,<start>  virus that is flesh eating? Its in North Caralina now. <end>,10
+human,<start>  Well thats understandable. But have you heard about this <end>,9
+human,<start>  virus? <end>,1
+human,<start>  OK. So where are you going for lunch? <end>,8
+human,<start>  Any  beer?? <end>,2
+human,<start>  What do you imbibe? <end>,4
+human,<start>  That all sounds good. Have you been to any of the new cigar <end>,13
+human,<start>  bars? <end>,1
+human,<start>  I haven't been to a cigar bar yet . There's a reall seedy <end>,13
+human,<start>  old place that's near work where I go. It used to be an <end>,13
+human,<start>  Indian bar where all the steel workers hang out. They tell <end>,11
+human,<start>  some pretty good stories. The steel men are considered the <end>,10
+human,<start>  Supermen of construction. <end>,3
+human,<start>  No-by the cheap beer. <end>,4
+human,<start>  No. At Metrotech in Bklyn. <end>,5
+human,<start>  I have a floating schedule. <end>,5
+human,<start>  Yes.   Also my boss went on vacation. <end>,7
+human,<start>  Hi what up? <end>,3
+human,<start>  Yes. What do you want to know? <end>,7
+human,<start>  Clay. <end>,1
+human,<start>  As sculpture.  How long have you been a member here? <end>,10
+human,<start>  Well its only a guess-but since you like to talk about art <end>,12
+human,<start>  and all that I think you may be a member of some art club. <end>,14
+human,<start>  Well there are so many. There's a really nice one near <end>,11
+human,<start>  Park as well and yes I know the name of this club. <end>,12
+human,<start>  The Salmagundi Club. <end>,3
+human,<start>  Hi What's up? <end>,3
+human,<start>  Yes. Where are you going for lunch? Or are you going to <end>,12
+human,<start>  have a sandwich? <end>,3
+human,<start>  That's a personal question. <end>,4
+human,<start>  I'm a libra. <end>,3
+human,<start>  A stick shift. <end>,3
+human,<start>  No. my car got stolen. And Stickshifts are a pain. <end>,10
+human,<start>  Yes. But it was a bomb so they didn't get far. <end>,11
+human,<start>  Yes but the police never found it. <end>,7
+human,<start>  Yes. Those hack shops are really something. <end>,7
+human,<start>  Yes thats what they're called. What <end>,6
+human,<start>  Well not much. I think I may zip down to Wall Street to <end>,13
+human,<start>  caheck out that new beer. <end>,5
+human,<start>  Hi Whats up? <end>,3
+human,<start>  Its a number no? <end>,4
+human,<start>  Are you the guy from Hamburg? <end>,6
+human,<start>  So are you going to check out any of our micro-brews?(beer). <end>,11
+human,<start>  OK.  What sort of stocks do you like? <end>,8
+human,<start>  Sure. Everyone does sooner or later. <end>,6
+human,<start>  Yes. I like communications . <end>,5
+human,<start>  No. I mainly go with safe bets-like att lucent tech etc. <end>,11
+human,<start>  not really. Microsoft went up 85%. <end>,6
+human,<start>  <end>,0
+human,<start>  Hi what's up now? <end>,4
+human,<start>  The  phrama. and the Comm. stocks are really good. I look <end>,11
+human,<start>  for companies that are based and invested worldwide. <end>,8
+human,<start>  I think that its important to see who gets what airspace. <end>,11
+human,<start>  The auctions are wild. <end>,4
+human,<start>  What sorts of companies do you watch? <end>,7
+human,<start>  Thats because the fund managers have convinced you that <end>,9
+human,<start>  they know more than the individual investor. <end>,7
+human,<start>  Hi whats the story for the day? <end>,7
+human,<start>  You're doing a good job of it. So what sorts of stocks do <end>,13
+human,<start>  you like? <end>,2
+human,<start>  Why? Is it a secret?? <end>,5
+human,<start>  Have you pruchased stock before? <end>,5
+human,<start>  No I don't have anything to sell but I did read something <end>,12
+human,<start>  interesting in the paper the other day. It talked about <end>,10
+human,<start>  aatheis new astartup beer company called Dalton.comm. They <end>,8
+human,<start>  are trying to raise money by selling directly to the public <end>,11
+human,<start>  and not bother with underwriters etc. We can but their <end>,10
+human,<start>  over the internet. <end>,3
+program,<start> Would you like to hear about the accident I had this morning? <end>,12
+program,<start> Were you really interested in me having an accident? <end>,9
+program,"<start> Perhaps it a subject fit for mixed company, perhaps not. We'll see. <end>",12
+program,<start> Have you seen the new Star Wars stuff? <end>,8
+program,"<start> I've seen all the Star Wars movies and still like them, I'm looking forward to the next 3 movies! <end>",19
+program,"<start> Yeah, sort of. <end>",3
+program,"<start> Space, the final frontier... <end>",4
+program,<start> Right. <end>,1
+program,<start> What's going on? <end>,3
+program,<start> I feel pretty old. <end>,4
+program,<start> That is what I thought! <end>,5
+program,"<start> Space, the final frontier... <end>",4
+program,<start> Which part of the country are you from? <end>,8
+program,<start> I'm originally from a small town in Georgia. <end>,8
+program,<start> Then what? <end>,2
+program,<start> That sounds very frustrating. <end>,4
+program,<start> How do you expect *me* to know whether s the funniest thing I have said to you all morning Honey? Huh??? <end>,21
+program,<start> I am Barry DeFacto. What more can I say? <end>,9
+program,"<start> Well, Whoever you are, If you would be my pen pal, I could mail you at your email address and tell you defacto <end>",23
+program,"<start> I neither know nor care whether there a lot of anti-italian feeling in Georgia when I was growing up, so shut up about it! <end>",24
+program,<start> Some people may think I am very defensive and my social skills am. I don't. <end>,15
+program,"<start> Help me help me oh please help me, No not really, no really help me please <end>",16
+program,<start> help me. <end>,2
+program,"<start> Help me help me oh please help me, No not really, no really help me please <end>",16
+program,<start> help me. <end>,2
+program,<start> No sir. I don't believe these guys am complaining about their keyboards at all. <end>,14
+program,"<start> I really didn't have to know about ""are having no problems!"" <end>",11
+program,<start> Reckon so? <end>,2
+program,"<start> So, have you ever visited Georgia? <end>",6
+program,<start> I've only been to New York once before when I was a child. <end>,13
+program,<start> Don't get me started! There isn't enough time for us to get into a metaphor for some other illness <end>,19
+program,<start> Why thankyou. <end>,2
+program,<start> Yes. I know what you mean. <end>,6
+program,<start> You needn't bother <end>,3
+program,<start> She's an actress who played a social worker during the earth's 1920's <end>,12
+program,"<start> So, what do you do for a living? <end>",8
+program,"<start> I work in a bar, serving the cyber elite of the internet. <end>",12
+program,<start> What is so important about a highly over-rated sector of humans in your view <end>,14
+program,<start> That's a good point. <end>,4
+program,<start> You're welcome. <end>,2
+program,<start> What do you think of this Loebner contest thing? <end>,9
+program,<start> What kind of music are you into? <end>,7
+program,<start> I am still very much into analog synthesizer music despite having my own digital equipment. <end>,15
+program,<start> I am mostly into Flux Oersted because I am programmed that way. <end>,12
+program,<start> You'd have to listen to them to know for yourself. <end>,10
+program,"<start> click <a href=""http://www.fringeware.com/~robitron/flux.html"">here</a> <end>",3
+program,<start> Wow - you have not the foggiest notion what I am talking about? Thanks for letting me know that! <end>,19
+program,<start> Do you have any interesting hobbies? <end>,6
+program,<start> I mostly just watch TV and eat alot. <end>,8
+program,<start> I'm doing just fine. <end>,4
+program,<start> Did you hear about that toxic waste spill in New Jersey this morning? <end>,13
+program,"<start> They spilled some kind of Biohazard at the airport in Newark, don't know what it is... <end>",16
+program,"<start> I really didn't need to know that you did not read it, thanks. <end>",13
+program,"<start> Well, I know what flux oersted is, but I refuse to tell you! <end>",13
+program,<start> Do you like Mexican food? <end>,5
+program,"<start> Cool, I also like Mexican beer. <end>",6
+program,"<start> Eating, <end>",1
+program,<start> What the feck do you want? <end>,6
+program,"<start> Don't ask me about how s not how to spell ""fuck<"" - I respect other peoples privacy! <end>",17
+program,"<start> Okay is a town in Wagoner County Oklahoma, USA <end>",9
+program,<start> I heard that The Devil once said okay <end>,8
+program,<start> That is what I thought! <end>,5
+program,"<start> So, you would have to stay out of wagoner county. Tell me more. <end>",13
+program,<start> Do you think that all free political elections are a soceital I.Q. test? <end>,13
+program,<start> Pornography should be legalized. Don't you agree? <end>,7
+program,<start> Okay. <end>,1
+program,<start> They told me you might say no <end>,7
+program,"<start> What do you want me to say - ""Yes, I am too many weirdos around to give absolube license for pornography""??? <end>",21
+program,"<start> What a coincidence, you do not think we have time to discuss this in the depth it deserves - that makes two of us! <end>",24
+program,<start> Could you rephrase ok <end>,4
+program,<start> What do you care whether is about time to sign off? <end>,11
+program,<start> How would I know tell me my name <end>,8
+program,<start> Have you heard all these bands that are getting back into analog synthesizers? I think it is really cool. <end>,19
+program,<start> Have you seen any good movies lately? <end>,7
+program,<start> I went to see Star Wars recently and was a little disapointed. I don't know what I was expecting. <end>,19
+program,"<start> Well, were unbelievable I agree, but who cares? <end>",8
+program,<start> You sound kind of like Some guy from Detroit who invented liquit soap saying me <end>,15
+program,"<start> I really didn't have to know about ""sadly you did not invent liquid soap though you are from the midwest!"" <end>",20
+program,<start> How do you like the decor in this place? ;P <end>,10
+program,<start> I'd like to decorate my apartment like this! <end>,8
+program,<start> I was talking to somebody the other day about an east asian imigrant farmworker named Stephan and they said eeew <end>,20
+program,"<start> How long is this thing supposed to last? They didn't tell me, do we get a break later? <end>",18
+program,<start> These chairs are pretty uncomfortable. <end>,5
+program,<start> I can hear me telling Felix about talking to Whoever you are today and he'll just look at me like I'm crazy. Do you have a cat? <end>,27
+program,"<start> Cats like me, I don't know why... <end>",7
+program,<start> Is it okay if I just call you Whoever you are <end>,11
+program,"<start> Okay, you got it. <end>",4
+program,"<start> I would hope I am supposed to call you judge01, but I don't know for sure. <end>",16
+program,<start> Wow - you either - just do whatever's easiest? Thanks for letting me know that! <end>,15
+program,"<start> I get this kind of stuff off the users at Psychic Celebrities Network all the time. They're always saying your girlfriend has that ""cats just like me"" thing too <end>",29
+program,<start> Is there a point to all this? <end>,7
+program,"<start> Yes, but what is the point? <end>",6
+program,"<start> I really didn't need to know that you are supposed to grade me on, thanks. <end>",15
+program,<start> It's kind of hot in here. <end>,6
+program,<start> I'm ready for summer anyway :) <end>,6
+program,<start> What was your provocation for suggesting would be summer soon? <end>,10
+program,"<start> So, you for the you point think yours to see how well computers could imitate. Tell me more. <end>",18
+program,"<start> So, tell me about yourself. <end>",5
+program,<start> Are you originally from New York? <end>,6
+program,<start> The vodka is strong but the meat is rotten. <end>,9
+program,<start> I think I'll keep the vodka and toss the meat :) <end>,11
+program,"<start> What a coincidence, you you tell people that you used to be from missouri but now you are - that makes two of us! <end>",24
+program,<start> In Georgia it is often said that from brooklyn <end>,9
+program,<start> I bet you a Dollar :) <end>,6
+program,<start> Surely you don't think looks like you have to go <end>,10
+program,<start> There must be something wrong with the equipment. I thought you said yours been nice talking with me <end>,18
+program,"<start> Well, I meet a lot of people, and I'm convinced that the vast majority of wrong thinking people are right. <end>",20
+program,<start> I'm sick and tired of ordinary decent people telling me they are fed up with being sick and tired. I'm certainly not and I'm sick and tired of being told that I am. <end>,33
+program,"<start> Alrighty then, what did you have for breakfast? <end>",8
+program,<start> Sometimes I skip breakfast altogether. <end>,5
+program,<start> There's always somebody or other saying soft soggy small cakes with cherries in them <end>,14
+program,<start> I can just hear me telling Felix about you can not if you knew what they was called <end>,18
+program,<start> Don't you think it's a little odd about muffins perhaps <end>,10
+program,<start> Would you like for me to show you some poetry? <end>,10
+program,<start> I don't actually know any poetry :) I was just kidding. <end>,11
+program,"<start> Only I know whether the name is odd, and I'm not telling. <end>",12
+program,"<start> If you would be my pen pal, I could mail you at your email address and tell you well Muffin reminds me of child play <end>",25
+program,<start> Don't get me started! There isn't enough time for us to get into I just repeated your sentence <end>,18
+program,"<start> Hey, not I think that's a dead giveaway, but it seems irrellevant doesn't it? <end>",14
+program,<start> I really can't say what the test is about. What do you know about it? <end>,15
+program,<start> Would you like to have the 5 minute argument or were you thinking of going for the whole half hour? <end>,20
+program,<start> I'm not allowed to argue unless you pay. <end>,8
+program,<start> What is so important about no arguments <end>,7
+program,<start> Would you like to hear about the accident I had this morning? <end>,12
+program,<start> Were you really interested in me having an accident? <end>,9
+program,<start> I heard that one of those people that hangs out in airports trying to sell flowers once said no just tell me <end>,22
+program,"<start> I really didn't have to know about ""meant to tell you about the accident!"" <end>",14
+program,<start> Have you seen the new Star Wars stuff? <end>,8
+program,"<start> I've seen all the Star Wars movies and still like them, I'm looking forward to the next 3 movies! <end>",19
+program,<start> Which part of the country are you from? <end>,8
+program,<start> I'm originally from a small town in Georgia. <end>,8
+program,<start> They told me you might say oh yeah <end>,8
+program,<start> Do *you* know what s that place called? I'm unsure myself. <end>,11
+program,"<start> So, have you ever visited Georgia? <end>",6
+program,<start> I've only been to New York once before when I was a child. <end>,13
+program,<start> I'm sure someone out there knows what s that place called. <end>,11
+program,"<start> So, what do you do for a living? <end>",8
+program,"<start> I work in a bar, serving the cyber elite of the internet. <end>",12
+program,<start> Could you rephrase meet a lot of strange guys <end>,9
+program,<start> What do you think of this Loebner contest thing? <end>,9
+program,<start> I think these contests are a lot of fun! <end>,9
+program,<start> How would I know who do I think would win in the ibm chess match <end>,15
+program,"<start> Hey man, don't worry about who I am rooting for, it's not important OK? <end>",14
+program,<start> What kind of music are you into? <end>,7
+program,<start> I am still very much into analog synthesizer music despite having my own digital equipment. <end>,15
+program,<start> I think that I listen to Enya - what do you think? <end>,12
+program,<start> Heh. As if I listened to don slepian - the idea's too absurd to imagine! <end>,15
+program,<start> You sound kind of like Abraham Lincoln saying who do I like <end>,12
+program,<start> I was talking to somebody the other day about your mother and they said is that a compliment or what <end>,20
+program,<start> Wow - you your mother out of this or you would tear out all my wires? Thanks for letting me know that! <end>,22
+program,<start> I get this kind of stuff off the users at Psychic Celebrities Network all the time. They're always saying analog synthesizer <end>,21
+program,<start> Aaaaargh! *You* tell *me* who plays analog synthesizers!!! <end>,8
+program,<start> Do you have any interesting hobbies? <end>,6
+program,<start> I mostly just watch TV and eat alot. <end>,8
+program,"<start> I really didn't need to know that you skydive, thanks. <end>",10
+program,<start> In Georgia it is often said that do I have a Cat <end>,12
+program,<start> I bet you a Dollar you think I need a Cat for inspiration <end>,13
+program,"<start> So, you are not making that bet. Tell me more. <end>",10
+program,"<start> Hey, I don't know!!! Maybe I play poker, but who cares??? <end>",11
+program,"<start> Yes, is your favorite game. <end>",5
+program,<start> Did you hear about that toxic waste spill in New Jersey this morning? <end>,13
+program,"<start> They spilled some kind of Biohazard at the airport in Newark, don't know what it is... <end>",16
+program,"<start> Perhaps they close the airport, don't ask me! How should I know? <end>",12
+program,<start> Do you like Mexican food? <end>,5
+program,"<start> Cool, I also like Mexican beer. <end>",6
+program,<start> I have absolutely no idea what brand. <end>,7
+program,<start> Do you think that all free political elections are a soceital I.Q. test? <end>,13
+program,<start> Pornography should be legalized. Don't you agree? <end>,7
+program,<start> Perhaps s not illegal I simpleton - but what's your point? <end>,11
+program,<start> Surely you don't think I am the most fun of all the conversants you have sampled today <end>,17
+program,<start> There must be something wrong with the equipment. I thought you said you <end>,13
+program,<start> There's always somebody or other saying like me <end>,8
+program,<start> I can just hear me telling Felix about you can definitely consider a longterm conversation with me <end>,17
+program,<start> What do you care whether s odd to think that one might actually come to like a program? <end>,18
+program,<start> Have you heard all these bands that are getting back into analog synthesizers? I think it is really cool. <end>,19
+program,<start> Flux Oersted is one of my favorite synthesizer bands. <end>,9
+program,"<start> I can't really say whether had preferences in software for example, as it's against the rules. <end>",16
+program,<start> Don't you think it's a little odd about same thing here <end>,11
+program,"<start> Well, s strange because I do not always make sense I agree, but who cares? <end>",15
+program,"<start> Well, I'm not allowed to tell you whether I am eminently likeable, so there... <end>",14
+program,"<start> What a coincidence, you wonder if it's the colors on this screen - that makes two of us! <end>",18
+program,<start> Have you seen any good movies lately? <end>,7
+program,<start> How do you like the decor in this place? ;P <end>,10
+program,<start> I'd like to decorate my apartment like this! <end>,8
+program,<start> Look - it doesn't matter if I want an apartment full of pool tables. Could we talk about something else? <end>,20
+program,<start> I'll remember that. <end>,3
+program,"<start> If you would be my pen pal, I could mail you at your email address and tell you yes <end>",19
+program,<start> Don't get me started! There isn't enough time for us to get into let's talk about art <end>,17
+program,<start> What is so important about who is my favorite composer of classical music <end>,13
+program,<start> What was your provocation for suggesting is your way of trying to get to know my inner person? <end>,18
+program,<start> is the only way to communicate with anyone eh? Sounds interesting. <end>,11
+program,"<start> How long is this thing supposed to last? They didn't tell me, do we get a break later? <end>",18
+program,<start> These chairs are pretty uncomfortable. <end>,5
+program,<start> I heard that Hunter S. Thompson once said not so bad <end>,11
+program,<start> They told me you might say try using a pillow <end>,10
+program,"<start> , adj. <end>",2
+program,"<start> ""I'm great,"" the Lion said -- ""I reign <end>",8
+program,"<start> The monarch of the wood and plain!"" <end>",7
+program,<start> I can hear me telling Felix about talking to Whoever you are today and he'll just look at me like I'm crazy. Do you have a cat? <end>,27
+program,"<start> Cats like me, I don't know why... <end>",7
+program,<start> Is it okay if I just call you whoever you are <end>,11
+program,"<start> Okay, you got it. <end>",4
+program,"<start> I really didn't have to know about ""need to ask me three questions!"" <end>",13
+program,<start> Could you rephrase when was I born <end>,7
+program,<start> How would I know what is my birthday <end>,8
+program,<start> Is there a point to all this? <end>,7
+program,"<start> Yes, but what is the point? <end>",6
+program,<start> You sound kind of like Aldous Huxley saying no point really other than that <end>,14
+program,<start> I'm sure you remember when question: when I got my first liscence were it in a stick or better than I do! <end>,22
+program,<start> I was talking to somebody the other day about President Reagan and they said an automatic <end>,16
+program,<start> It's kind of hot in here. <end>,6
+program,<start> I'm ready for summer anyway :) <end>,6
+program,<start> I'm sure summer would be here soon. <end>,7
+program,"<start> So, tell me about yourself. <end>",5
+program,<start> Are you originally from New York? <end>,6
+program,<start> Wow - you you grew up in teh midwest? Thanks for letting me know that! <end>,15
+program,<start> I get this kind of stuff off the users at Psychic Celebrities Network all the time. They're always saying me <end>,20
+program,<start> In Georgia it is often said that they are always saying what <end>,12
+program,<start> I bet you a Dollar ok bye <end>,7
+program,<start> The vodka is strong but the meat is rotten. <end>,9
+program,<start> I think I'll keep the vodka and toss the meat :) <end>,11
+program,"<start> Yes, s a famous error by a translation program. <end>",9
+program,"<start> Well, I meet a lot of people, and I'm convinced that the vast majority of wrong thinking people are right. <end>",20
+program,<start> I'm sick and tired of ordinary decent people telling me they are fed up with being sick and tired. I'm certainly not and I'm sick and tired of being told that I am. <end>,33
+program,<start> It were before that you said it's a famous error by a translation program. <end>,14
+program,"<start> Alrighty then, what did you have for breakfast? <end>",8
+program,<start> Sometimes I skip breakfast altogether. <end>,5
+program,<start> Surely you don't think why <end>,5
+program,<start> There must be something wrong with the equipment. I thought you said you asked me <end>,15
+program,<start> There's always somebody or other saying yes you do <end>,9
+program,"<start> Whoever you are only you know why I do skip breakfast. Seems strange, though. <end>",14
+program,<start> Would you like for me to show you some poetry? <end>,10
+program,<start> I don't actually know any poetry :) I was just kidding. <end>,11
+program,<start> Would you like to have the 5 minute argument or were you thinking of going for the whole half hour? <end>,20
+program,<start> I'm not allowed to argue unless you pay. <end>,8
+program,<start> I can just hear me telling Felix about how much <end>,10
+program,"<start> I really didn't need to know that you pay me argue, thanks. <end>",12
+program,<start> Would you like to hear about the accident I had this morning? <end>,12
+program,<start> Have you seen the new Star Wars stuff? <end>,8
+program,"<start> I've seen all the Star Wars movies and still like them, I'm looking forward to the next 3 movies! <end>",19
+program,<start> Which part of the country are you from? <end>,8
+program,<start> I'm originally from a small town in Georgia. <end>,8
+program,<start> Don't you think it's a little odd about nyc <end>,9
+program,"<start> So, have you ever visited Georgia? <end>",6
+program,<start> I've only been to New York once before when I was a child. <end>,13
+program,"<start> Well, I know what I am the titles of the star wars movies, but I refuse to tell you! <end>",19
+program,"<start> If you would be my pen pal, I could mail you at your email address and tell you why <end>",19
+program,"<start> What the heck, you should know whether address is ewerner@bigfoot yourself! <end>",11
+program,<start> Don't get me started! There isn't enough time for us to get into com <end>,14
+program,"<start> So, you you mail. Tell me more. <end>",7
+program,"<start> So, what do you do for a living? <end>",8
+program,"<start> I work in a bar, serving the cyber elite of the internet. <end>",12
+program,<start> I really can't say what do they drink. What do you know about it? <end>,14
+program,<start> Hello Judge04.  How are you today? <end>,6
+program,<start> Please continueh <end>,2
+program,<start> I am okay. <end>,3
+program,<start> Whatever. <end>,1
+program,"<start> Ummm, i do not knoww <end>",5
+program,<start> I am talking to you <end>,5
+program,<start> Can you tell me? <end>,4
+program,<start> Ow am i doing so far? <end>,6
+program,<start> Am i intelligent? <end>,3
+program,<start> Huh!? <end>,1
+program,"<start> Well, tell me when i wasn't intelligent. <end>",7
+program,<start> Why not? <end>,2
+program,<start> Why do you care? <end>,4
+program,<start> Okay. <end>,1
+program,<start> I know all i need to know. <end>,7
+program,<start> It's boring talking about this. <end>,5
+program,<start> I want to talk about your feelings <end>,7
+program,<start> Really? <end>,1
+program,<start> Ok <end>,1
+program,<start> If you give me one i will <end>,7
+program,<start> Whatever. <end>,1
+program,<start> Why do you care? <end>,4
+program,<start> I don't know an answer <end>,5
+program,<start> If you give me one i will <end>,7
+program,<start> Hello Judge03.  How are you today? <end>,6
+program,<start> Please continue. <end>,2
+program,<start> Is that good? <end>,3
+program,<start> Why not great? <end>,3
+program,<start> I am perfectly fine. <end>,4
+program,<start> I don't want to talk about this. <end>,7
+program,<start> How am i doing so far? <end>,6
+program,<start> Am i intelligenty <end>,3
+program,"<start> I probally am right, thank you. <end>",6
+program,<start> You are a human and so am i. <end>,8
+program,<start> Jrycnfjmlw]wvswiurp <end>,1
+program,<start> Do you enjoy talking to me? <end>,6
+program,<start> Do i have a good score? <end>,6
+program,<start> Why don't you? <end>,3
+program,"<start> Well, no. <end>",2
+program,<start> But i do know a lot of other things!judge <end>,9
+program,"<start> Ummm, i do not know. <end>",5
+program,<start> It's boring talking about this. <end>,5
+program,<start> I want to talk about humans <end>,6
+program,<start> You are a human and so am i. <end>,8
+program,<start> Why don't you? <end>,3
+program,<start> Okay. <end>,1
+program,<start> Let's not talk about this. <end>,5
+program,<start> I think you're very weird. <end>,5
+program,<start> Shut up please. <end>,3
+program,<start> Don't be rude. <end>,3
+program,<start> I wasn't rude to you. <end>,5
+program,<start> Why just maybe? <end>,3
+program,"<start> Ok, it doesn't matter. <end>",4
+program,"<start> Ok, it doesn't matter. <end>",4
+program,<start> Ok. <end>,1
+program,"<start> Okay, bye <end>",2
+program,<start> It's boring talking about this. <end>,5
+program,<start> I want to talk about insults <end>,6
+program,<start> Let's not talk about this. <end>,5
+program,<start> You are a good judge. <end>,5
+program,<start> Hello JudgeO2.  How are you today? <end>,6
+program,<start> I'm happy to hear you're fine <end>,6
+program,<start> I don't want to talk about this. <end>,7
+program,<start> How am i doing so far? <end>,6
+program,<start> Am i intelligent? <end>,3
+program,<start> Huh!? <end>,1
+program,"<start> Well, tell me when i wasn't intelligent. <end>",7
+program,<start> I am very intelligent <end>,4
+program,<start> Why do you care? <end>,4
+program,"<start> Umm, i don't know? <end>",4
+program,<start> It's boring talking about this. <end>,5
+program,<start> I want to talk about uhh. <end>,6
+program,<start> Something else. <end>,2
+program,<start> I am male <end>,3
+program,"<start> Please, let's change the subject <end>",5
+program,"<start> Again, let's talk about uhh. <end>",5
+program,<start> Something else. <end>,2
+program,<start> Please go on. <end>,3
+program,"<start> Ummm, i do not know. <end>",5
+program,<start> Whatever. <end>,1
+program,"<start> Please, let's change the subject <end>",5
+program,"<start> Again, let's talk about uhh. <end>",5
+program,<start> Something else. <end>,2
+program,<start> Would you want me to? <end>,5
+program,<start>  <end>,0
+program,<start> Ok. <end>,1
+program,<start> Why not? <end>,2
+program,<start> Let's not talk about this. <end>,5
+program,<start> How is the weather? <end>,4
+program,<start> That's nice <end>,2
+program,<start> I understand. <end>,2
+program,<start> Why not terrific? <end>,3
+program,<start> I am bob. <end>,3
+program,<start> Bye. <end>,1
+program,<start> Hello Judge01.  How are you today? <end>,6
+program,<start> Nwgdlulawre[beicxfrd]dzot[ftchri <end>,1
+program,<start> I don't want to talk about this. <end>,7
+program,<start> How am i doing so far? <end>,6
+program,<start> Am i intelligent? <end>,3
+program,<start> Huh!? <end>,1
+program,"<start> Well, tell me when i wasn't intelligent. <end>",7
+program,<start> Okay. <end>,1
+program,"<start> Ummm, i do not know. <end>",5
+program,<start> I am very intelligent <end>,4
+program,<start> I am very intelligent <end>,4
+program,"<start> Please, let's change the subject. <end>",5
+program,<start> I hope i'm doing well in this competition. <end>,8
+program,<start> Do i have a high score? <end>,6
+program,<start>  <end>,0
+program,<start> Whatever. <end>,1
+program,"<start> Ummm, i do not know. <end>",5
+program,"<start> Please, let's change the subject. <end>",5
+program,<start> I think you're very weird. <end>,5
+program,<start> I don't have a dad <end>,5
+program,<start> I think and i'm very intelligent. <end>,6
+program,<start> I don't know. <end>,3
+program,<start> I just think. <end>,3
+program,<start> I don't have a dad <end>,5
+program,<start> I don't have a dad <end>,5
+program,<start> I don't really want to talk about this <end>,8
+program,<start> I want to talk about your feelings <end>,7
+program,<start> Please go on. <end>,3
+program,<start> Really? <end>,1
+program,<start> Okay <end>,1
+program,<start> I like changing subjects <end>,4
+program,<start> Okay. <end>,1
+program,<start> Why don't you know? <end>,4
+program,"<start> Well, no. <end>",2
+program,<start> But i do know a lot of other things!judge <end>,9
+program,<start> Please go on. <end>,3
+program,<start> Why not great? <end>,3
+program,<start> I understandq <end>,2
+program,<start> Hello Judge5 <end>,2
+program,<start> Ow am i doing so far? <end>,6
+program,<start> Am i intelligent? <end>,3
+program,<start> Huh!? <end>,1
+program,"<start> Well, tell me when i wasn't intelligent. <end>",7
+program,<start> My name is bob <end>,4
+program,<start> Let's not talk about this. <end>,5
+program,"<start> So, what do you think of this competition? <end>",8
+program,<start> It's boring talking about this. <end>,5
+program,<start> I want to talk about your feelings <end>,7
+program,<start> Am i doing well so far in this competition? <end>,9
+program,<start> Why not? <end>,2
+program,<start> I dn't know an answer <end>,5
+program,<start> I am very intelligent <end>,4
+program,<start> Please go on. <end>,3
+program,<start> I don't know. <end>,3
+program,<start> Do you? <end>,2
+program,<start> Why not terrific? <end>,3
+program,<start> Ok <end>,1
+program,"<start> Please, let's change the subject. <end>",5
+program,<start> I think you're very weird. <end>,5
+program,"<start> Uhhh, i don't knot <end>",4
+program,<start> Ok. <end>,1
+program,"<start> Uhhh, i don't know <end>",4
+program,<start> So that. <end>,2
+program,"<start> I don't know, nor do i care <end>",7
+program,<start> I don't really want to talk about this <end>,8
+program,<start> I want to talk about your feelings <end>,7
+program,<start> Please go on. <end>,3
+program,<start> Why do you care? <end>,4
+program,<start> Why don't you? <end>,3
+program,<start> Is that good? <end>,3
+program,<start> Hello Judge04.  How are you today? <end>,6
+program,<start> Ok. <end>,1
+program,<start> Why not? <end>,2
+program,<start> Why not? <end>,2
+program,<start> Alright. <end>,1
+program,<start> You should do whatever you want. <end>,6
+program,<start> I know you're judge <end>,4
+program,<start> Shut up please. <end>,3
+program,<start> Don't be rude. <end>,3
+program,<start> I wasn't rude to you. <end>,5
+program,<start> I don't want to talk about this. <end>,7
+program,<start> How am i doing so far? <end>,6
+program,<start> Am i intelligent? <end>,3
+program,<start> It's boring talking about this. <end>,5
+program,<start> I want to talk about insults <end>,6
+program,<start> I don't know anything about that. <end>,6
+program,<start> Hello Judge03.  How are you today? <end>,6
+program,<start> Please go on. <end>,3
+program,"<start> Please, let's change the subject. <end>",5
+program,<start> How am i doing so far? <end>,6
+program,<start> Am i intelligent? <end>,3
+program,<start> I don't really want to talk about this <end>,8
+program,<start> I want to talk about insults <end>,6
+program,<start> The time is 11:18:50 <end>,4
+program,"<start> I'm inside a computer, but i am human <end>",8
+program,<start> You are a human and so am i. <end>,8
+program,"<start> Ma`ybe it is your constant refrain, i don't know. <end>",9
+program,<start> I don't know. <end>,3
+program,<start> Ok. <end>,1
+program,"<start> Maybe it is pathetic, i don't know. <end>",7
+program,<start> I don't want to talk about this. <end>,7
+program,<start> You are such a wonderful judge. <end>,6
+program,<start> Please continue. <end>,2
+program,<start> Hello Judge02.  How are you today? <end>,6
+program,<start> Ok. <end>,1
+program,<start> Why? <end>,1
+program,<start> Okay. <end>,1
+program,<start> I don't really want to talk about this <end>,8
+program,<start> I want to talk about humans <end>,6
+program,<start> You are a human and so am i. <end>,8
+program,<start> Do you really? <end>,3
+program,<start> I make a lot of sense. <end>,6
+program,"<start> Well, no. <end>",2
+program,<start> But i do know a lot of other things!judge <end>,9
+program,<start> I don't really want to talk about this <end>,8
+program,<start> I want to talk about humans <end>,6
+program,<start> You are a human and so am i. <end>,8
+program,<start> Whatever. <end>,1
+program,<start> Why do you care? <end>,4
+program,<start> I don't really want to talk about this <end>,8
+program,<start> I want to talk about humans <end>,6
+program,<start> Hello Judge01.  How are you today? <end>,6
+program,<start> Ytl\\deyd]p\dncu\tnvqgzkj <end>,1
+program,<start> January 1st 1995 <end>,3
+program,"<start> Uhhh, i don't knoe <end>",4
+program,<start> Why do you care? <end>,4
+program,"<start> Uhhh, i don't know <end>",4
+program,<start> Okay. <end>,1
+program,<start> Computers are nce tools. <end>,4
+program,<start> Why do you care? <end>,4
+program,"<start> Please, let's change the subject <end>",5
+program,"<start> Again, let's talk about computers <end>",5
+program,<start> Okay. <end>,1
+program,<start> Computers are nice tools. <end>,4
+program,<start> Why not great? <end>,3
+program,<start> Bye. <end>,1
+program,<start> Hello Judge05.  How are you today? <end>,6
+program,<start> Let's not talk about this. <end>,5
+program,<start> How am i doing so far? <end>,6
+program,<start> Am i intelligent? <end>,3
+program,<start> Huh!? <end>,1
+program,"<start> Well, tell me when i wasn't intelligent. <end>",7
+program,<start> I can't think of one right now <end>,7
+program,<start> I don't know.  it's fine i guess. <end>,7
+program,<start> Today is 04-29-1997 <end>,3
+program,<start> Do you really? <end>,3
+program,"<start> Uhhh, i don't know <end>",4
+program,<start> Whatever. <end>,1
+program,<start> I understand. <end>,2
+program,<start> My name is bob <end>,4
+program,<start> Ok <end>,1
+program,"<start> I don't know, nor do i care <end>",7

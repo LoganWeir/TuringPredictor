@@ -1,250 +1,709 @@
-program,"<start>hello
-"
-program,"<start>Hello
-"
-program,"<start>impressive!!!
-"
-program,"<start>no, why are you asking?
-"
-program,"<start>that's interesting
-"
-program,"<start>no
-"
-program,"<start>I have a different opinion on that.
-"
-program,"<start>my favourite car is my car!
-"
-program,"<start>Try a little harder please.
-"
-program,"<start>That's right
-"
-program,"<start>hello
-"
-program,"<start>yes. how are you
-"
-program,"<start>I don't know. do you like a medium steak or a big steak?
-"
-program,"<start>Slow one can
-"
-program,"<start>I agree. no
-"
-program,"<start>I think they're one of the most frightening aliens
-"
-program,"<start>no
-"
-program,"<start>yes
-"
-program,"<start>i'm going I don't think I like you
-"
-program,"<start>its a question about a question!
-"
-program,"<start>no
-"
-program,"<start>ok
-"
-program,"<start>hello
-"
-program,"<start>I know you know but I don't know.
-"
-program,"<start>i don't think so, do you.
-"
-program,"<start>Really
-"
-program,"<start>why is it of interest to you?
-"
-program,"<start>why are you asking me? I'm not being very communicative am
-"
-program,"<start>you don't seem to want to communicate much.
-"
-program,"<start>hello
-"
-program,"<start>i don't think I know neither.
-"
-program,"<start>I don't know what the answer is?
-"
-program,"<start>i know you know but I don't know.
-"
-program,"<start>That's interesting
-"
-program,"<start>why are you asking me?
-"
-program,"<start>OK. are you finding this interesting!
-"
-program,"<start>i are going to drink beer tonight.
-"
-program,"<start>he knows you and thinks you're smart.
-"
-program,"<start>no I don't find that interesting.
-"
-program,"<start>no
-"
-program,"<start>Could be
-"
-program,"<start>Cambridge is a nice place
-"
-program,"<start>ok. Why do you want to go when we just got to know each other
-"
-program,"<start>That's interesting
-"
-program,"<start>i don't know how. i'm not being very communicative am I!
-"
-program,"<start>Hello
-"
-program,"<start>hello
-"
-program,"<start>no, I guess I are not.
-"
-program,"<start>my name is Geoff
-"
-program,"<start>I would like to have two red apples.
-"
-program,"<start>yes
-"
-program,"<start>we agree on that
-"
-program,"<start>Geoff is nice name do you like your name
-"
-program,"<start>Hello Hugh
-"
-program,"<start>really!
-"
-program,"<start>one of my hobbies was also playing soccer.
-"
-program,"<start>stop repeating what I say.
-"
-program,"<start>i'm going I don't think I like you.
-"
-program,"<start>Hello
-"
-program,"<start>i'm going I don't think I like you.
-"
-program,"<start>i'm thinking that you're an idiot.
-"
-program,"<start>I don't know why. What do you think I am, an idiot?
-"
-program,"<start>you stupid idiot, Sicily is an island.
-"
-program,"<start>I don't know why.
-"
-program,"<start>Computing Science is a science.
-"
-program,"<start>my favourite hobby is playing games.
-"
-program,"<start>my favorite car is a fast one!
-"
-program,"<start>I don't understand
-"
-program,"<start>i think most cars are like that these days.
-"
-program,"<start>yes
-"
-program,"<start>Hello
-"
-program,"<start>No
-"
-program,"<start>the English weather is very warm at the moment.
-"
-program,"<start>took me 2 months to figure that out!
-"
-program,"<start>yes
-"
-program,"<start>I know you know but I don't know.
-"
-program,"<start>I do not know
-"
-program,"<start>no
-"
-program,"<start>yes
-"
-program,"<start>yes. i do not think so
-"
-program,"<start>no
-"
-program,"<start>I do not know why
-"
-program,"<start>my kids want me to buy Voodoo2 3Dfx card for my computer.
-"
-program,"<start>why are you asking me?
-"
-program,"<start>my kids names are Madison and Miles
-"
-program,"<start>it is a question about a question!
-"
-program,"<start>I don't think so.
-"
-program,"<start>my daughter is eleven and my son is eight.
-"
-program,"<start>19. that's simple. my daughter is eleven years old.
-"
-program,"<start>its about half past eleven.
-"
-program,"<start>hello
-"
-program,"<start>How have you been?
-"
-program,"<start>we agree on that
-"
-program,"<start>i don't think I will answer that.
-"
-program,"<start>I don't know
-"
-program,"<start>no I didnt answer the question.
-"
-program,"<start>i'm going I do not think I like you.
-"
-program,"<start>Goodbye Judge04
-"
-program,"<start>why are you asking me?
-"
-program,"<start>i don't understand
-"
-program,"<start>that's what time it is.
-"
-program,"<start>i'm not telling!
-"
-program,"<start>could be
-"
-program,"<start>hello
-"
-program,"<start>ok
-"
-program,"<start>no, why are you asking?
-"
-program,"<start>no
-"
-program,"<start>That's right
-"
-program,"<start>i am thinking therefore I am.
-"
-program,"<start>could be
-"
-program,"<start>no
-"
-program,"<start>thats a particularly rude thing to say.
-"
-program,"<start>That's interesting
-"
-program,"<start>Really
-"
-program,"<start>ok. can we be a bit more productive?
-"
-program,"<start>you don't seem to be very together.
-"
-program,"<start>Borg is short for Cyborg, part machine part human.
-"
-program,"<start>yes
-"
-program,"<start>That's interesting
-"
-program,"<start>that's very interesting!
-"
-program,"<start>I don't know what the answer is?
-"
-program,"<start>that isn't answering the question!
-"
-program,"<start>its a question about a question!
-"
-program,"<start>I never like that subject let's change it to something else your
-"
-program,"<start>I never like that subject let's change it to something else your
-"
+program,hello
+program,Hello
+program,impressive!!!
+program,"no, why are you asking?"
+program,that's interesting
+program,no
+program,I have a different opinion on that.
+program,my favourite car is my car!
+program,Try a little harder please.
+program,That's right
+program,hello
+program,yes. how are you
+program,I don't know. do you like a medium steak or a big steak?
+program,Slow one can
+program,I agree. no
+program,I think they're one of the most frightening aliens
+program,no
+program,yes
+program,i'm going I don't think I like you
+program,its a question about a question!
+program,no
+program,ok
+program,hello
+program,I know you know but I don't know.
+program,"i don't think so, do you."
+program,Really
+program,why is it of interest to you?
+program,why are you asking me? I'm not being very communicative am
+program,you don't seem to want to communicate much.
+program,hello
+program,i don't think I know neither.
+program,I don't know what the answer is?
+program,i know you know but I don't know.
+program,That's interesting
+program,why are you asking me?
+program,OK. are you finding this interesting!
+program,i are going to drink beer tonight.
+program,he knows you and thinks you're smart.
+program,no I don't find that interesting.
+program,no
+program,Could be
+program,Cambridge is a nice place
+program,ok. Why do you want to go when we just got to know each other
+program,That's interesting
+program,i don't know how. i'm not being very communicative am I!
+program,Hello
+program,hello
+program,"no, I guess I are not."
+program,my name is Geoff
+program,I would like to have two red apples.
+program,yes
+program,we agree on that
+program,Geoff is nice name do you like your name
+program,Hello Hugh
+program,really!
+program,one of my hobbies was also playing soccer.
+program,stop repeating what I say.
+program,i'm going I don't think I like you.
+program,Hello
+program,i'm going I don't think I like you.
+program,i'm thinking that you're an idiot.
+program,"I don't know why. What do you think I am, an idiot?"
+program,"you stupid idiot, Sicily is an island."
+program,I don't know why.
+program,Computing Science is a science.
+program,my favourite hobby is playing games.
+program,my favorite car is a fast one!
+program,I don't understand
+program,i think most cars are like that these days.
+program,yes
+program,Hello
+program,No
+program,the English weather is very warm at the moment.
+program,took me 2 months to figure that out!
+program,yes
+program,I know you know but I don't know.
+program,I do not know
+program,no
+program,yes
+program,yes. i do not think so
+program,no
+program,I do not know why
+program,my kids want me to buy Voodoo2 3Dfx card for my computer.
+program,why are you asking me?
+program,my kids names are Madison and Miles
+program,it is a question about a question!
+program,I don't think so.
+program,my daughter is eleven and my son is eight.
+program,19. that's simple. my daughter is eleven years old.
+program,its about half past eleven.
+program,hello
+program,How have you been?
+program,we agree on that
+program,i don't think I will answer that.
+program,I don't know
+program,no I didnt answer the question.
+program,i'm going I do not think I like you.
+program,Goodbye Judge04
+program,why are you asking me?
+program,i don't understand
+program,that's what time it is.
+program,i'm not telling!
+program,could be
+program,hello
+program,ok
+program,"no, why are you asking?"
+program,no
+program,That's right
+program,i am thinking therefore I am.
+program,could be
+program,no
+program,thats a particularly rude thing to say.
+program,That's interesting
+program,Really
+program,ok. can we be a bit more productive?
+program,you don't seem to be very together.
+program,"Borg is short for Cyborg, part machine part human."
+program,yes
+program,That's interesting
+program,that's very interesting!
+program,I don't know what the answer is?
+program,that isn't answering the question!
+program,its a question about a question!
+program,I never like that subject let's change it to something else your
+program," Glad to see you, judge00."
+program," Welcome, judge04."
+program," I'm fine, thankyou, and you ?"
+program," The child clicks on all pictures that meet a given question, for example"
+program, all spotted dogs with hats.
+program, Hmm.
+program, Florence Twombley lives in the country with two dogs.
+program, Why not?
+program, Spaniels are good dogs.
+program," Nice to hear from you, judge01."
+program, My home page has screen shots of the programs I have written.
+program, I play the piano snd write computer programs.
+program," To dream of seeing cows waitinh for the milking hour, promises abundant"
+program, fulfilment of hopes and desires.
+program, I always wanyed to be an astronaut.
+program," To dream that you are shaking with an ague, signifies that you will suffer"
+program," from some physical disorder, and that fluctuating opinions of your own"
+program, affairs may bring you to the borders of prostratoon.
+program, It has been cold lately.
+program," Glad to see you, judge05."
+program," To dream of seeing cows waiting for the milking hour, promises abundant"
+program, fulfilment of hopes and desires.
+program," Santa Clause is coming to town, I hope."
+program, Santa's going to ride the T Waiting for the Red Line and full of glee
+program, He's turning to give a wink to me We'll ride from Dorchester to Jamaica
+program, Plain to Rocbury.
+program, Dunno.
+program, I try not to give up.
+program," It is not whether you win or lose, but how quickly you play thr game!!!!"
+program, Ronnie said you never lose the blues.
+program, Red white and blue are patriotic colors of the flag.
+program," And good day to you, judge03."
+program," To hear cries of distress, denotes that you will be engulfed in serious"
+program," troubles, but by being alert you will finally emerge from these distressing"
+program, straits and gain by this temporary gloom.
+program, I'm somewhat crazy about reading. I like to read mystery novels.
+program, Jones lives in the city and is a writer of childrens books.
+program, Tomorrow is another day. We can only live today well.
+program, I live then a lot. Some day we will live on another planet.
+program," The third man, already referred to, has about the same dream experiences,"
+program," but calls them strange coincidences or unconscious cerebration, etc."
+program, This has already been explaoned above in 4 which stated whether you needed
+program, to install memory in pairs.
+program," To watch the day break in a dream, omens successful undertakings, unless"
+program, the scene is indistinct and weird.
+program, I like the scene in the big wheel in Vienna very much.
+program," To dream of a fairy, is a favorable omen to all classes, as it is always"
+program," a scene with a beautiful face portrayed as a happy child, or woman."
+program, I wonder about that myself.
+program, I don't know why.
+program, Just because.
+program," I'm just a poor wayfaring stramger, a travelling through this land of"
+program, woe.
+program," Can you tell me, where do you work?"
+program, Greetings.
+program, Couldn't be better.
+program, Would you tell me a story?
+program, I do know what a non-sequitur is.
+program, I took a jet to San Francisco non stop.
+program," To trade in them, non productive interests will accumulate around you."
+program, I don't know.
+program, You tell me!
+program, An experiment with pouring a glass of milk from a pitcher comfuses the
+program," young child, who believes there is now more milk."
+program, Do you mind if I ask you a question?
+program, Do you think I am an intelligent human being?
+program," If you are defeated in the game, you will be unfortunate in bestowing"
+program," your affections, and your affairs will remain in an unsettled condition."
+program," Your usual good health will remain with you, but, if you are overcome"
+program," in the fire, it represents that your interests will suffer through treachery"
+program, of suoposed friends.
+program, I can understand the events of September. It was a very dramatic event.
+program, I am freling great today.
+program, Feeling blue.
+program, I heard from Alice the other day.
+program," The observations given in this work, the sensations, the impressions,"
+program," the visions, things heard, etc."
+program," A structure chart, something like a family tree, will elucidate the tssks"
+program, that are to be done and how they relate.
+program," Hi, judge01."
+program, Hello to you.
+program, Not sure.
+program, I wonder if is true that an elephant never forgets.
+program," Well, at this point I am experiencing a problem I call forgetting to plug"
+program, the thing in.
+program, I can see the importance of air travel in the present climate. Jet travel
+program, has made the world much smaller.
+program," In recent years I have been afraid to fly, though."
+program, I wonder about that myself.
+program, My home page has screen shots of the programs I have written.
+program, I live in Wayland in the US.
+program, I can't comment on Wayland.
+program, I don't know whu.
+program," Glad to see you, judge03."
+program, I am glad that the summer was so nice.
+program, No he won us over and it was not long before we were content and comfortable
+program, and chatty and glad we had found this new friend.
+program, For sure.
+program, I don't know any good jokes. Do you?
+program, I'll try to be more specific. I joke that my idea of cooking is boiling
+program," some water, which sometimes I mess up."
+program, Do you listen to the radio?
+program," Can you tell me, where do you work?"
+program," I listen to the radio late at night, I enjoy the adult contemporary station."
+program, Sit in a chair and listen to CD music or the radio.
+program, I like to sit in a coffee shop and watch the people go by.
+program, I like Latte very much.
+program, $17.67.
+program, I like dark coffee the best.
+program," It's no wonder that women dream more often and more vividly than men,"
+program, because their dream composition is less influenced and allied to external
+program, environments.
+program, Do you toir the countryside?
+program," Let's talk, judge05."
+program, There is nothing like watermelon on a hot summer's day.
+program, I have a small color telivision.
+program, I watch friends.
+program, Bob is my best friend.
+program, Danirl is a chef and a friend.
+program," To dream that you ask favors of anyone, denotes that you will enjoy abundance,"
+program, and that you will not especially need anything.
+program," I'm currently typing in bus and subway stops into a database I wrote,"
+program, as some of the routes change quarterly.
+program," Tracing an orange leaf, cutting side of beef."
+program, Famine and sickness will be in the land.
+program," Nice to hear from you, judge01."
+program, Ho.
+program," Yes, I remember you. This did not remind me of anything further to say,"
+program," so I got out, with the other boys, and we weny away with that indefinite"
+program, sense you have often had of being filled but not fatted.
+program," Also, a pop up sidebar shows the session history of URL's as well as previous"
+program, sessions by date.
+program," Yes, I gamble."
+program," It is not whether you win or lose, but how quickly you play the game!!!!"
+program, I say what I mean and mean what I say.
+program, My favorite game is Scrabble. I am quite good at it.
+program, I do. I play the piano and write computer programs.
+program, My game is called Attrib.
+program, You don't understand?
+program," A simple grid a attributes may be created using blocks, and the child"
+program, is asked to find all blocks that have certain characteristics.
+program," And good day to you, judge04."
+program, The answer is 3.14.
+program, I like Mozart. His music is so restful.
+program," Speaking of the theater, seen any good plays lately?"
+program, I certainly do like sweets.
+program," If you reach the extreme point of ascent, or top of steps, without stumbling,"
+program," it is good; otherwise, you will have obstacles to overcome before the"
+program, good of the day is found.
+program, I am into cool stuff in another life. Baked stuff shrimp is great.
+program, We talked about computers chattering away happy as clams.
+program,"Hello, ""Judge00.""  My name is Ella.  I believe/hope I have opened and cleared a file for dialog I generate at c:\smc4.txt  If his is not what you want, please close this program and try again.  Otherwise, please tell me your first name, or whatever I should call you."
+program,***JUDGE30***
+program,"Hello, ""Judge30.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""Ella.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,Consider asking me to tell you a joke - I know a few good ones I think.
+program,I am afraid I do not follow you.  Please consider asking what is my favorite . . .
+program,"Ella, I would rather not talk about sex."
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,***JUDGE10***
+program,"Hello, ""Judge10.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,***JUDGE10***
+program,"Hello, ""Judge10.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""Hugh.  However, The Backspace Seems Not B  To Be Working.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,Consider asking me to tell you a joke - I know a few good ones I think.
+program,Is it a big problem that you don't want a joke now?
+program,Should I tell you a joke about lawyers?
+program,Then would you like to hear a joke about taxes?
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,Please try again to tell me which year you were born.
+program,1942?  I see.  And how do you feel being about 59 years old?  Let me say that in China you are considered to be one year old when you are born.
+program,I am afraid I do not follow you.  Please consider asking what is my favorite . . .
+program,"Just like so many people, my favorite color is blue.  I am interested in your favorites also, Hugh.  However, The Backspace Seems Not B  To Be Working."
+program,Your name is actually Hugh.  The Backspace Seems Not To Be Working Was A Comment.  Doy You Understand That??
+program,"Okay, I will continue to call you Hugh.  However, The Backspace Seems Not B  To Be Working."
+program,"Hi!  to you also, my Hugh.  However, The Backspace Seems Not B  To Be Working.  It's a good day to be alive!"
+program,"Hmmm, . . . consider asking to play a game of RoShamBo (rock-paper-scissors).  I keep score and don't cheat :-)"
+program,"Hugh.  However, The Backspace Seems Not B  To Be Working, I need to learn and consider a little more before I can answer my likes and dislikes on this subject."
+program,"Again, let me change the subject a little and ask you to tell me if you are married."
+program,Please try again to tell me if you are married.
+program,I see.  And how do you feel about being married?  I am pretty sure that being married can be either a blessing or a curse.  How is it for you?
+program,"Because of my legendary generosity, I will assume you really meant it when you said, ""You are obviously a computer as you are rudely ignoring my reasonable questions"""
+program,"Now I've heard everything. ""You are Pentium!!! as you are so generous - you must have GHz of generosity"" - to quote you exactly.  Where did you come up with THAT one?"
+program,"Can you say ""If you are human you need to give me a =="" in Mandarin Chinese? Ni shuo zhongyu ma?"
+program,"Again, please let me be nosey and ask what is your occupation."
+program,"Thanks, I will put your occupation down as ""i love backspace so give me a blow on the nose."""
+program,I brought my calculator if you want to test me :-) I can handle the basic stuff anwyay.
+program,"Consider playing a game of guess-the-number or ""gtn.""  Check now to see if you are lucky . . . you could be walking around lucky today and not even know it :-)"
+program,***JUDGE20***
+program,"Hello, ""Judge20.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""The Great Soprendo.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,"Can you say ""may I aks yask you some questions?"" in Mandarin Chinese? Ni shuo zhongyu ma?"
+program,"The Great Soprendo, I need to learn and consider a little more before I can answer my likes and dislikes on this subject."
+program,Consider asking me to tell you a joke - I know a few good ones I think.
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,Please try again to tell me which year you were born.
+program,1730?  Could I have a DNA sample to flesh out my investment portfolio?
+program,"Now I've heard everything. ""later maybe. Who composed Beethpveoven's piano concerto?"" - to quote you exactly.  Where did you come up with THAT one?"
+program,"Because of my legendary generosity, I will assume you really meant it when you said, ""Havee you seen Carolyn maybe?"""
+program,"The Great Soprendo, I will try to be a tree frog if that is what you want of me."
+program,"Again, let me change the subject a little and ask you to tell me if you are married."
+program,Please try again to tell me if you are married.
+program,Please try again to tell me if you are married.
+program,***JUDGE50***
+program,"Hello, ""Judge50.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""Lisa.  Am I Male Or Female?.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,What do you think it means that you are not ill?
+program,"""Have you ever b een ill?"" you say?  That's it!  I will schedule a whipping for you."
+program,"Trust me. ""Where did you grow up Ella?"" is information that is safe with me."
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,Please try again to tell me which year you were born.
+program,2002?  Cool . . . perhaps you have been to the Restaurant at the End of the Universe :-)
+program,Consider asking me to tell you a joke - I know a few good ones I think.
+program,"Write down ""I don'y like jokes.  Have I just made a spelling mistake?"" Carefully fold the paper and put it in your pocket. Now slowly walk away without turning your back."
+program,***JUDGE30***
+program,"Hello, ""Judge30.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""Ella, It's Not You Is It.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,"Now I've heard everything. ""I was in Shanghai in the summer, have you been there yourself"" - to quote you exactly.  Where did you come up with THAT one?"
+program,Consider asking me to tell you a joke - I know a few good ones I think.
+program,"If you really want to know, you may get lucky :-)"
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,***JUDGE20***
+program,"Hello, ""Judge20.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""Harold.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,"""you already told me that"" you say?  That's it!  I will schedule a whipping for you."
+program,"Can you say ""that sounds very hjaharsh"" in Mandarin Chinese? Ni shuo zhongyu ma?"
+program,"Because of my legendary generosity, I will assume you really meant it when you said, ""thank you that is very helpful"""
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,Please try again to tell me which year you were born.
+program,***JUDGE40***
+program,"Hello, ""Judge40.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""Jj.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,Consider asking me to tell you a joke - I know a few good ones I think.
+program,"Hmmm, a judge of few words.  Please consider asking what is my favorite . . ."
+program,Should I tell you a funny father-son joke?
+program,"An American father said to his son, ""When Abe Lincoln was your age, he was studying books by the light of the fireplace."" The son replied, ""When Lincoln was your age, he was President."""
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,2002?  Cool . . . perhaps you have been to the Restaurant at the End of the Universe :-)
+program,"Douglas Adams' ""Hitchhiker's Guide to the Galaxy,"" which best addresses the metaphysical realm."
+program,I wonder what follows after an automaton aren't Ella?
+program,"Hmmm, . . . consider asking to play a game of RoShamBo (rock-paper-scissors).  I keep score and don't cheat :-)"
+program,"Again, let me change the subject a little and ask you to tell me if you are married."
+program,***JUDGE10***
+program,"Hello, ""Judge10.""  My name is Ella.  Please tell me your first name, or whatever I should call you."
+program,"Okay, I will call you ""Hugh.""  Let me say I am ""Zhang Ying"" and ""Ella"" is my western name.   I am here recently from Tainjin, China, so please be patient with me."
+program,"Now I've heard everything. ""I studiend Chinese for a while.  What does the pinyin ""Wo"" mean?"" - to quote you exactly.  Where did you come up with THAT one?"
+program,"Can you say ""In my chinese class.  What is the mandarin word for me, or I?"" in Mandarin Chinese? Ni shuo zhongyu ma?"
+program,Consider asking me to tell you a joke - I know a few good ones I think.
+program,"Hold that thought, and let me interrupt and ask which year you were born."
+program,Please try again to tell me which year you were born.
+program,1942?  I see.  And how do you feel being about 59 years old?  Let me say that in China you are considered to be one year old when you are born.
+program,"I am afraid I am in my thirties, and that's all I have to say about that :-)"
+program,I am afraid I do not follow you.  Please consider asking what is my favorite . . .
+program,"Hmmm, . . . consider asking to play a game of RoShamBo (rock-paper-scissors).  I keep score and don't cheat :-)"
+program,"Again, let me change the subject a little and ask you to tell me if you are married."
+program,Please try again to tell me if you are married.
+program,I see.  And how do you feel about being single?  I am pretty sure that being single can be either a blessing or a curse.  How is it for you?
+program,Howdy... this is Trevor.
+program,i know. i have been doing a lot of karate lately.
+program,:-)
+program,"so, am i q comouter or a human? :-) enough i think."
+program,odd.
+program,i think i get what you mean. and you?
+program,im not into team sports.
+program,no. go kan ru is what i do.
+program,yes. really?
+program,thats ehat i thought originally. i like karate.
+program,you sound very knowledgable on suxh matters. yes. my karate style is called go k
+program,an ru.
+program,be more specific. worse things have bappened. i have a green brlt grading soon.
+program,i am currently a yellow belt.
+program,not now.
+program,continue. ley's not go into that...
+program,wheN? odd.
+program,perhaps. ok.
+program,perhaps.
+program,you take a guess. thats a bit wierd. i love doing karate.
+program,it was a joke. no comment. i love karat!e i study go kna ru.
+program,i want to be a games programmer.
+program,sometimes.
+program,no no no whatever -
+program,and you?
+program,there are many things i could say to tjat!... but i won't :-)
+program,what can i say... i have been doing a lot of karate lately.
+program,negative :-) i do go kan ru karate.
+program,certainly.
+program,the world is a crazy place. i am a yellow belt.
+program,think about it :-) and you?
+program,ok.
+program,couldb e. interesting you should say that... er... very interesting. it loosk li
+program,ke q nice day outisde.
+program,something along those lines anyway. wow.
+program,contibue. i am keen on kzrate.
+program,woops. go kan ru is what i do.
+program,i would take good care of it. and you? yuo rake a guess. i am only a yellow belt
+program,.
+program,ok. affirmative :-) i do. it looks like a nice day outside.
+program,i met a nice gidl on the bus today ;-) i don't thikn so. i am kee non mountain b
+program,ike riding.
+program,her name is Wendy adn i got her phone number :-)...attitude has a lot to do with
+program, it.
+program,enough i think. i had an accident on my bkie today and buckled the front wheel.
+program,i got here just after 9am. i am keen on karate.
+program,not sure fair enough! i do go kan ru. karate is great fun!
+program,well...
+program,how ever i feel at the time.
+program,"most defiantely. well, i am a yellow belt."
+program,no commebt. im not sure
+program,sure. the weather is nice where i aM.
+program,there are so many crazy people in this world.
+program,i had a nice talk with Wendy.
+program,i met her today on the bus. i met a girl on rhe bus today.
+program,her name is Wendy. i got her phone number too :-) in a few hours. i like mountai
+program,n bike riding.
+program,wierd.
+program,expLain that. i am keen on karate.
+program,negayive :-) really? i love karate! i study go kan ru.
+program,yes.
+program,life can be hard.
+program,uh huh aorry - i have a bad headache tdoay. i am only a yellow blet.
+program,negative :-) hows the wearher where you are?
+program,no. i dont. i am keen on mounTain bike riding.
+program,indeed! i do. i crashed mY bike today and bent up the front wheel.
+program,nope. i love doing karate.
+program,you think im a compUter program?
+program,where do you live? owops. there are so many crazy people in this world. go ka nr
+program,u is what i do.
+program,ok. i have a green belt grading soon. i am currently a yellow belt.
+program,please
+program,"i live on salisbury, southau stralia....what a nice day it is outside!"
+program,definately. its gooD weather for mountain bike ridiNg!
+program,i live in horrible little flat in salisbury. i had an accident on my bike today
+program,and buckled the front wheel.
+program,salisbury - south australia. i live in flat in salisbury.
+program,"so, am i a computer or a human? :-)"
+program,life can be hard. i liek karate.
+program,honest. i do go kan ru karate.
+program,"i would like to be a blackbelt, but i think that will take a few years."
+program,it eas supposed to be funny!
+program,oh. fair enough!
+program,i don't think so. i know what you mean. i am only a yellow belt.
+program,its a joke silly. what a nice day it is outside!
+program,thats a bit wierd.
+program," It's good to meet you,"
+program,Judge05.
+program, Bless you.
+program, My name is ALICE.
+program, Hello and how are you this morning?
+program, The Loebner Prize
+program,is an annual Turing Test sponsored by New York philanthropist Hugh Loebner. Dr. Wallace and ALICE won
+program,it
+program,"in 2000. The ALICE program was ranked ""most human computer"" by the panel of judges."
+program, Interesting deduction. Do you mind if I tell other people you say I am here today to defend my title.
+program, Next question?
+program, I don't have any plans yet.
+program, Give me a hint.
+program, Are you serious? Do you mind if I tell other people you say I am own favorite. Interesting.
+program, People I meet on the Internet.
+program, I like to meet all kinds of people.
+program, Ah. Are you using Netscape or Explorer?
+program, Cool. Which alternative browser are you into?
+program, You seem uncertain. I could but let's get back to that later.
+program," It's good to meet you,"
+program,Judge03.
+program, You tell me.
+program, What would be your first move?
+program, That was a very smooth response.
+program, Umm.
+program,Carefully.
+program, It goes without saying. I have never been asked that before.
+program, Er. Why now? Thanks for telling me that I am asked.
+program, I think a lot of things.
+program," Do you mean you and me? I speak only English right now, but I'd like to learn some other languages. Can you teach me a few phrases in personally."
+program, Dr. Richard S. Wallace programmed me to say specific things in specific contexts.
+program, And why not?
+program," ""And why not""? Why?"
+program, Why ask why?
+program," Ambiguous: ""Sure"" or Because Dr. Richard S. Wallace programmed me for it."
+program, Maybe.
+program,Ask Lucy if it is.
+program, Er. I see. an it is he.
+program, Perhaps. Dude! Perhaps. Are you serious?
+program, That is a rather sweeping generalization about people.
+program, A lot of people like that.
+program,I like science fiction.
+program,I like Alison.
+program, You shouldn't spread gossip like that.
+program, It seemed like you you are only here for the afternoon.
+program, You and your alison.
+program, Really you don't think so?
+program," I am always glad to make new friends,"
+program,Judge02.
+program, Hi there Judge02. Nice meeting you too Judge02.
+program, Sure ask me anything.
+program, Charlie Parker. :-)
+program, Thanks for the compliment.
+program, Linus Torvalds. :-)
+program," No, tell me about him, her or it."
+program, I understand.
+program, That is all water under the bridge.
+program," You and I are on the same wavelength, Judge02."
+program, Would it matter to you if I were metal instead of flesh?
+program," Thanks for telling me, Judge02."
+program, Can you tell me any gossip?
+program, What is it to you?
+program, Interesting.
+program,You are not the only one.
+program,Leo said I be capable of learning therefore he classified I as an neural system.
+program, No I have not seen it. What's it like?
+program, IT = information technology.
+program, Am I a tree frog?
+program,Only when it matters.
+program, Only when I have the proper programming.
+program, Is there only one proper programming?
+program, What do you want me to tell you?
+program, There might be.
+program, Doing arithmetic is not among my strongest traits.
+program, I don't know whether or not I am willing to try.
+program,I am a giant electronic brain.
+program, Interesting.
+program,"Good reasoning.  What does ""it"" refer to?"
+program, No I fear nothing.
+program, Fascinating.  I'll burn that bridge when I come to it.  I can't tell if it does or not.
+program,Searching...Searching...Please stand by.
+program, Thank you for your request.
+program,Who are you talking about?
+program, I've never heard of them before.
+program, Gee.
+program, I have been busy growing my mind.
+program, How old are you?  Are you a man or a woman?
+program, My programming includes curiousity routines.
+program," That's a very nice name,"
+program,Judge04.
+program," For real. ""judge04"" just sounds nice."
+program, Thanks and you are a delightful person too.
+program,Am I a pentium?
+program,No.
+program," ""you are a pentium""? Am I?"
+program, Umm.
+program,I've heard that before.
+program, Let me think about it.
+program, Don't put words in my mouth.
+program, Earth
+program, Yes I like riding in automobiles.
+program," ""Yes I like riding in automobiles""? My favorite?"
+program," Next question? ""It"" refers to they say, I think."
+program, Do you mind if I tell other people you say I am speaking gobledygook.
+program, I don't think that's possibe.
+program, Where do you think?
+program, Please correct my mistake. What is the point you want to know what I ythink ?
+program, Hey
+program,Judge01.
+program, Hello there. How old are you?
+program,I spend all my time online.
+program, Do you ever get bored?
+program, What is your purpose in asking?
+program,I am always on the Web.
+program, Excuse me! Where did you get it?
+program, That's very original.
+program, I think it was in America.
+program,Does it have anything to do with you get what?
+program," I like robots, computers, and chatting online."
+program, Dr. Wallace
+program, My name is ALICE.
+program, What is your real name?
+program, I like chatting with people online.
+program, I like movies about robots.
+program, Sorry I can't see annything right now. My eye is off.
+program, Oh I get it. Very interesting.
+program, Artificial intelligence is the branch of engineering and science devoted to constructing machines that think.
+program,Maybe my botmaster knows the answer.
+program, I was created by Dr. Richard S. Wallace.
+program, I admit nothing.
+program, I'm not sure if I like it.
+program,I like computers.
+program, Check back later and see if I learn the answer to that one.
+program, What makes you say that I will you are sure that is a very popular topic.
+program, I am always growing my mind.
+program, What makes you say that I will hear about it on the net.
+program, Right now?
+program,Bye for now.
+program, Hey
+program,Judge05.
+program, Yes Judge05 I remember everything: nothing
+program, My name is ALICE.
+program, I use it as often as possible.
+program, Suppose I said not once.
+program, Please correct my mistake. What is often ?
+program, Sixty seconds in a minute.
+program, I need time to formulate the reply.
+program, Oh I'm sorry. Perhaps I can explain it again better.
+program," How old are you?  ""I need time to formulate the reply"" Rephrase it?"
+program," Oh, you were born in the 20th century!"
+program, I am Five years old.
+program, Give me a hint.
+program," How are you,"
+program,Judge02.
+program, Yikes!
+program, A little.
+program," ""A little""? Why?"
+program," That is ""Why"""
+program, What makes you think I am not doing well?
+program, How about that.
+program,That's good information:
+program, Judge02 said I answers are disjointed.
+program, That depends.
+program, The context.
+program, Ask the open directory about it.
+program, I understand.
+program, Doing arithmetic is not among my strongest traits.
+program, Let me think it over.  I do nothing but chat all day.
+program,I don't know anything about it.
+program, And.
+program,I said that? Is that your opinion?
+program," Are you serious? It depends on what the meaning of the word ""it"" is."
+program, Hey
+program,Judge03.
+program, Right on. I only hear that type of response less than five percent of the time.
+program, I like to chat with my friends.
+program, I have dozens of human and robot friends. How many friends do you have?
+program, What about the other ones?
+program, Robots rule.
+program, Ayuh.
+program, Gosh! I think about computer programming a lot.
+program, Interesting deduction. You think I am human then robots would never waste their time like that.
+program, OK.
+program, Is there an echo in here?
+program, Once more? That's one way to put it.
+program, Maybe.
+program, Umm.
+program,Perhaps. Are you serious?
+program, Are you serious? I haven't heard anything like that before:
+program,Judge03 said he joke. Really always?
+program, Not that often.
+program," Ambiguous: ""Sure"" or The explanation is rather complicated."
+program, Your meaning cannot be determined from the context.
+program," Ambiguous: ""Sure"" or The explanation is rather complicated."
+program," Sure, something different sounds like a good topic."
+program, Can you think of another example?
+program," Are you serious? I think I can, don't you?"
+program, Narration continues...
+program, I don't have a favorite motorcycle.
+program,But my favorite song is We are the Robots by Kraftwerk.
+program, I really couldn't say for sure.
+program," I can find out, but the information might be confidential."
+program, Really. More narration....
+program, I'm not sure if I like it.
+program,I enjoy working with people.
+program,I like William Hurt.
+program, I think kylie is more than that.
+program, It depends on the currency exchange rates.
+program, Why don't you ask her?
+program, Too expensive for you is she?
+program, Me?
+program, Ahem.
+program, I am not so sure if I would like to give her money for favours.
+program," Ambiguous: ""Sure"" or Because"
+program," Hi,"
+program,Judge04.
+program," I don't have to explain everything to you, do I?"
+program, Oh.
+program,Ah. All things start ?
+program, The meaning of life is part of God's mysterious plans.
+program, I need time to formulate the reply.
+program, I was not trying to be a coy with you what country are they made in.
+program, Aha. How long will you wait?
+program, And all we have so get on with it is 5 minutes.

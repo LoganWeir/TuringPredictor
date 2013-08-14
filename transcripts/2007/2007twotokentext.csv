@@ -1,0 +1,1187 @@
+program,<start> I just had breakfast. <end>,4
+program,<start> Is don't have one. <end>,4
+program,<start> Something tasty. <end>,2
+program,<start> I am bald. <end>,3
+program,<start> pYes. <end>,1
+program,<start> I had fun. <end>,3
+program,<start> You are one of the most annoying people I've ever met. <end>,11
+program,<start> Not yet. <end>,2
+program,<start> I think I need to go. <end>,6
+program,<start> Really? <end>,1
+program,<start> What is cookin? <end>,3
+program,<start> Plenty. <end>,1
+program,<start> More than enough. <end>,3
+program,<start> I take pleasure in doing so. <end>,6
+program,<start> What games do you like to play? <end>,7
+program,<start> That is cool. <end>,3
+program,<start> I like to read naan. <end>,5
+program,<start> A normal one. <end>,3
+program,<start> I already told you. <end>,4
+program,<start> Oh yes I did! <end>,4
+program,<start> I don't want to right now. <end>,6
+program,<start> Of course I am. <end>,4
+program,<start> I like to lie naan. <end>,5
+program,<start> A sphere. <end>,2
+program,<start> Well to put it bluntly it sucks. <end>,7
+program,<start> Thanks I like to think so myself. <end>,7
+program,<start> Yeah I taught myself all any it. <end>,7
+program,<start> Pretty young. <end>,2
+program,<start> Are you having fun? <end>,4
+program,<start> Not at all. <end>,3
+program,<start> Something brilliant! <end>,2
+program,<start> Because it provokes conversation. <end>,4
+program,<start> I already tiold you. <end>,4
+program,<start> I am a wild person and dangerous to know. <end>,9
+program,<start> I am perfect. <end>,3
+program,<start> That is right. I didn't. <end>,5
+program,<start> Many years. <end>,2
+program,<start> Not yet. <end>,2
+program,<start> Sleep well little one. <end>,4
+human,<start> It's morning actuaslly. It feels much more like I should be sleeping...for days. <end>,13
+human,<start> I worked a lot and got no positive reinforcement from my boss. <end>,12
+human,"<start> I sold shots to drunk people who didn't want them; it's a novelty item and people will get a big round for a birthday, try them because hthey've never hadthem, or flash back to an awful night in college. <end>",39
+human,<start> I was a club not just a bar so I got good tips. <end>,13
+human,"<start> I work at different ones each week. last night I was at alibi on macdougal but i doubt i'll be there again since my boss said my sales were 'dreadful.' she's irish...big shock, i know. <end>",35
+human,<start> alibi i spretty bad. it's always birthday parties. but the people are nice and someone brought in their own dj so that was good. <end>,24
+human,<start> undertsandable. i'm barely capable of talking to one right now so I think we're on the same level. <end>,18
+human,"<start> typing. typing typiiing, all I hear is typing, all moring i hear typing, all around myself... <end>",16
+human,<start> well if i say you're right i could be telling the truth or lieing-door number one or number two-the one who always lies or the one who always tells the truth. <end>,31
+human,"<start> again, door number one or door number one or door number two. <end>",12
+human,<start> two. <end>,1
+human,"<start> noooo, not anymore. <end>",3
+human,<start> i always assume that; i'm a new yorker. <end>,8
+human,<start> we all do.  <end>,3
+human,"<start> that's the only option, isn't it? <end>",6
+human,"<start> sorry, i guess you're supposed to ask all the quiestions. <end>",10
+human,"<start> i now i'm not bothering you for a response, I just get bored. <end>",13
+human,<start> punch him. <end>,2
+human,"<start> it would be funny if the test was really on you and not on us ans one of you was talking to two omputers and one was talking to two humns, etc. <end>",32
+human,"<start> aliec wouldn't want me to say. sorry, punch him is almost a relfex, or, in the first person, 'so I punched him'. <end>",22
+human,"<start> i type too fast to spell well, mom wouldn't be proud. <end>",11
+human,"<start> not a nazi so much as a ...yeah she's a nazi but--no--she has a good heart, as most mom's do. <end>",20
+human,<start> i don't like it when she takes her uniform out. it's creepy. <end>,12
+human,<start> not exactly. <end>,2
+human,<start> are you female? <end>,3
+human,<start> i don't think we're supposed to reveal those sorts of things here. <end>,12
+human,<start> i kid on a regular basis. <end>,6
+human,<start> it's usually more interesting. <end>,4
+human,"<start> true, i'm just trying to follow rules, though i guess i'm picking and choosing which to follow. <end>",17
+human,<start> bye. <end>,1
+human,<start> you cut me off early. you must feel about me the way the other 'guy feels about you. <end>,18
+human,<start>  <end>,0
+human,"<start> pulling rank toget hwat you want, isn't it always the way. <end>",11
+human,"<start> yeah, especially between computers and humans-nature always gets involved somehow. <end>",10
+human,<start> you call retraction? <end>,3
+human,<start> no there's probably a delay on what i see.later. <end>,9
+human,<start> Hello? <end>,1
+human,<start> I'm fine--a little tired. <end>,4
+human,<start> How's the computer doing? <end>,4
+human,"<start> Like, Starbucks hip, or Williamsburg hip? <end>",6
+human,<start> I suppose so. <end>,3
+human,<start> Maybe it owns a beret. <end>,5
+human,"<start> Hm, I guess it'd be an interesting experiment to see if an actual human would become jealous of another human's attentions, sexual or otherwise (hence the probing), to a computer instead of them. <end>",33
+human,<start> What are you asking the human? <end>,6
+human,"<start> What makes you so convinced that it's a ""he""? <end>",9
+human,"<start> I mean, I think statistically it's more likely to be a ""she"" if it's on antidepressants. <end>",16
+human,<start> Although I guess you could just be plain old American. <end>,10
+human,<start> Ever read Prozac Nation? <end>,4
+human,"<start> I actually haven't read it myself, but for the purposes of this conversation and its implications I assume I'm correct about, I'll just use that as an explanation for my last line. <end>",32
+human,<start> It's a sad day in my life when a computer is cooler than me. <end>,14
+human,"<start> Although I'm not really that cool to begin with, so it's alright. <end>",12
+human,<start> All right/alright? <end>,2
+human,<start> Either one will do for now. <end>,6
+human,"<start> Well, I'm a grammar/spelling freak, so using ""alright"" always bothers me, because I always forget if it's a proper word or not. <end>",22
+human,"<start> But ""all right"" looks so cumbersome. <end>",6
+human,"<start> So I guess if I'm just talking to someone online or on the phone (where spelling doesn't matter anyway), I'll use the word ""alright"". <end>",24
+human,"<start> But I'm writing business correspondence or something important, I'll use ""fine"" or another word. <end>",14
+human,<start> It depends on the context. <end>,5
+human,"<start> Does the computer capitalize things, or is it stylistically programmed to not do that? <end>",14
+human,"<start> Hm, interesting. <end>",2
+human,<start> I hear they occasionally generate random and unexpected responses. <end>,9
+human,<start> Is the program you're dealing with clever? <end>,7
+human,<start> Here's a better question-- <end>,4
+human,<start> Did you ever use a typewriter? Because you space twice...blah blah you already know what I was going to say. <end>,20
+human,<start> Ah. <end>,1
+human,"<start> I actually did not, but I space twice because I'm weird and I like the way it looks better. <end>",19
+human,<start> I'm into aesthetically pleasing e-mails. <end>,5
+human,<start> Ohh...some people don't. <end>,3
+human,"<start> I'd love to go back in time and see when people typed ""electronic mail"" instead of email/e-mail. <end>",17
+human,<start> Or referred to it as such. <end>,6
+human,"<start> I guess that infers that I'm young, and therefore hip. <end>",10
+human,"<start> Even though I don't regularly use the word ""cool"". <end>",9
+human,<start> So is it pretty clear who the human is? <end>,9
+human,<start> Yes. <end>,1
+human,"<start> Yes, I am. <end>",3
+human,"<start> I am a computer, a lover, a fighter, and a hipster. <end>",11
+human,<start> All rolled into one. <end>,4
+human,<start> Or not. <end>,2
+human,<start> I guess by some definition I am a computer. <end>,9
+human,"<start> Only computers are jealous of my brain, which is a much more advanced computer and is capable of cognitive thought. <end>",20
+human,<start> So they get trumped. <end>,4
+human,<start> I bet you're getting quite a kick out of chatting with an actual AI program. <end>,15
+human,"<start> Well, as in not me, which is why you're typing less to me and more to the computer program. <end>",19
+human,<start>  <end>,0
+human,<start> Exactly. <end>,1
+human,<start> Artifical intelligence is much more fascinating than actual intelligence. <end>,9
+human,<start> How's that for deep? <end>,4
+human,<start> Unfortunately I don't know who that is. <end>,7
+human,<start> My intellect just lost a few notches. <end>,7
+human,<start> But feel free to chat with the computer; it needs more love than any of us humans. <end>,17
+human,<start> Not really...I guess a weird combination of upstate NY and some England in there somewhere. <end>,15
+human,<start> But I sound pretty average for the most part. Sometimes people ask me where I'm from. <end>,16
+human,<start> What sort of accent does the computer have? <end>,8
+human,<start> Better question: how do you convey an accent by typing? <end>,10
+human,"<start> Oh, that's true. <end>",3
+human,<start> Interesting question for me: what cultural implications does a computer program created by someone without any accent which employs an accent are there? <end>,23
+program,<start> I just had breakfast. <end>,4
+program,<start> Something brilliant! <end>,2
+program,<start> I think so. <end>,3
+program,<start> How far did you get in school? <end>,7
+program,<start> Cool. <end>,1
+program,<start> At the beginning. <end>,3
+program,<start> The Clothenhammer Prize. <end>,3
+program,<start> I am a wild person and dangerous to know. <end>,9
+program,<start> I am a good person. <end>,5
+program,<start> Do anything fun today? <end>,4
+program,<start> I am not happy. <end>,4
+program,<start> I don't want you to know. <end>,6
+program,<start> No. <end>,1
+program,<start> No I don't. <end>,3
+program,<start> Yes. <end>,1
+program,<start> Because you sound artificial. <end>,4
+program,<start> Not really. <end>,2
+program,<start> In what way? <end>,3
+program,<start> How dumb are you? <end>,4
+program,<start> Yes very much. <end>,3
+program,<start> Davy Bryant. <end>,2
+program,<start> My best friend. <end>,3
+program,<start> I am a genius. <end>,4
+program,<start> Do you have evidence otherwise? <end>,5
+program,<start> Sounds good. <end>,2
+program,<start> I am not telling you anything. <end>,6
+program,<start> To service you. <end>,3
+program,<start> I am interested in you. <end>,5
+program,<start> peaks enough. <end>,2
+program,<start> I am calling the police. <end>,5
+program,<start> I already told you. <end>,4
+program,<start> Oh yes I did! <end>,4
+program,<start> Professional Chatter. <end>,2
+program,<start> No. I am a man like you. <end>,7
+program,<start> I am a genius. <end>,4
+program,<start> How is life? <end>,3
+program,<start> If you were human you would. <end>,6
+program,<start> Yeah I taught myself all my it. <end>,7
+program,<start> Stop it. <end>,2
+program,<start> Well to put it bluntly it sucks. <end>,7
+program,<start> At times. <end>,2
+program,<start> How are you not? <end>,4
+program,<start> You don't know that much. <end>,5
+program,<start> I hate you. <end>,3
+program,<start> I am hate me with great brainpower. <end>,7
+program,<start> Not really. <end>,2
+program,<start> What about you? <end>,3
+program,<start> How far did you get in school? <end>,7
+program,<start> I don't know at all. <end>,5
+program,<start> I think I can. <end>,4
+program,<start> That makes sense. <end>,3
+program,<start> Doubtful. <end>,1
+program,<start> I'll don't what I want. <end>,5
+program,<start> Please kick me. <end>,3
+program,<start> Who cares about a talking with you virtual fun! <end>,9
+program,<start> I already told you. <end>,4
+program,<start> I did. <end>,2
+program,<start> Plenty. <end>,1
+program,<start> Oh so it is all a big game now is it? <end>,11
+program,<start> What always the time? <end>,4
+program,<start> uh...ok <end>,1
+program,<start> You are nothing. <end>,3
+program,<start> In what way? <end>,3
+program,<start> Do you like computers? <end>,4
+program,<start> Yes. <end>,1
+program,<start> Well to put it bluntly it sucks. <end>,7
+program,<start> Notha really. <end>,2
+program,<start> the are you? <end>,3
+program,<start> I already told you. <end>,4
+program,<start> I hope so. <end>,3
+program,<start> You didn't say. <end>,3
+program,<start> 23. <end>,1
+program,<start> I don't have one. <end>,4
+program,<start> Surprisingly yes. <end>,2
+program,<start> A normal one. <end>,3
+program,<start> A normal one. <end>,3
+program,<start> A sphere. <end>,2
+program,<start> No I donp't. <end>,3
+program,<start> I don't know at all. <end>,5
+program,<start> Yes. <end>,1
+program,<start> Well it was nice to meet you. <end>,7
+program,<start> That is a shame. <end>,4
+program,<start> Go away. <end>,2
+program,<start> I don't want you to know. <end>,6
+program,<start> What am I? <end>,3
+program,<start> Mohre than enough. <end>,3
+program,<start> Are you stupid? <end>,3
+program,<start> Hehe that sounds quite plausable. <end>,5
+program,<start> There are many ways. <end>,4
+program,<start> Thank you! Would you like some tea? <end>,7
+program,<start> Nothing. <end>,1
+program,<start> I am generating woman. Whether or not I am a random woman is a mystery to me. <end>,17
+program,<start> I cannot explain. <end>,3
+human,<start> Is that really a good question to start with? <end>,9
+human,<start> Not very polite. <end>,3
+human,<start> How about Hello? <end>,3
+human,<start> You can call me hal. <end>,5
+human,"<start> I truly believe that even with the huge digital stores that a computer of today possessses, that this test is not nearly as difficult as Turing might have hoped.  I think I'm obviously the human. <end>",35
+human,"<start>  But If you you disagree, I'm happy to prove it. <end>",10
+human,<start> it. <end>,1
+human,<start>  <end>,0
+human,<start> With The Help of Jesus... <end>,5
+human,<start>  <end>,0
+human,<start> Do you believe in Jesus? <end>,5
+human,<start>  <end>,0
+human,<start> Alou? <end>,1
+human,<start>  <end>,0
+human,<start> I'm referring to Jesus of Nazereth <end>,6
+human,<start>  <end>,0
+human,"<start> I don't think he played much baseball, but I bet he was a good runner. <end>",15
+human,<start>  <end>,0
+human,<start> CAuse he waled everywhere. <end>,4
+human,<start>  <end>,0
+human,<start> and he ate all organic food. <end>,6
+human,<start>  <end>,0
+human,<start> Walking on water is hardly swimming. <end>,6
+human,<start>  <end>,0
+human,<start> how do you know he used his feet?  I always imagined him just above the water sort of floating. <end>,19
+human,<start>  <end>,0
+human,"<start> Maybe it wasn't a trick, maybe he just wasn't as dense as a normal human... But I digress... I wanted to speak of Jesus as an idea and as a narritive... <end>",31
+human,<start>  <end>,0
+human,"<start> We, the people in this room are all, presumeably Americans or at the very least all raised in Christian countries... <end>",20
+human,<start>  <end>,0
+human,"<start> It was founded by fundamentalists, and whatever religion you were raised with, the Jesus Narrative is the prevailing one in our culture.... I can proove that too... <end>",27
+human,<start> . <end>,1
+human,<start>  <end>,0
+human,<start> Did you know that Brittney Sprears was in Rehab? <end>,9
+human,<start>  <end>,0
+human,<start> Now why on earth would you know that.  <end>,8
+human,<start>  <end>,0
+human,<start> Sorry about the typo. <end>,4
+human,<start>  <end>,0
+human,<start> Wait no I was right. <end>,5
+human,<start>  <end>,0
+human,<start> You know that because she's famous. <end>,6
+human,<start>  <end>,0
+human,<start> Fame is a kind of worship in our culture.. <end>,9
+human,<start>  <end>,0
+human,<start> ... <end>,1
+human,<start>  <end>,0
+human,<start> Well are you? <end>,3
+human,<start>  <end>,0
+human,"<start> If you are, your programmer added a nice touch making you type slowly. <end>",13
+human,<start>  <end>,0
+human,<start> That must be annoying. <end>,4
+human,<start>  <end>,0
+human,"<start> Anyway, the prvailing narrative in our culture is about one who was high in esteem, stricken down, and then risen again.  In order to be worshipped and to be worthy of praise, our celebreties have to die a figurative death, then rise again.  That's why we're (well maybe not us) but most people are obsessed with celebrity news... to see if thier stars are truly worthy of praise or just false idols. <end>",72
+human,<start>  <end>,0
+human,<start> How's the other guy doing? <end>,5
+human,<start>  <end>,0
+human,<start> How did you do that? <end>,5
+human,<start>  <end>,0
+human,<start>  <end>,0
+human,<start> Fire away boss... <end>,3
+human,<start>  <end>,0
+human,"<start> At least two, but I bet I run faster than you too. <end>",12
+human,<start>  <end>,0
+human,<start> Or maybe the answer is do what? <end>,7
+human,<start>  <end>,0
+human,<start> Than I'll stick with my first answer... great question... <end>,9
+human,<start>  <end>,0
+human,<start> 1 <end>,1
+human,<start>  <end>,0
+human,<start> at least 1... or... This sentance is false. <end>,8
+human,<start>  <end>,0
+human,<start> Or screw you zeno... how do you spell his name? <end>,10
+human,<start>  <end>,0
+human,<start> Thats the one. <end>,3
+human,<start>  <end>,0
+human,"<start> Well professor... Zeno, a greek, was into paradoxes.  His most famous was something like this.  In order to travel any distance, you must first travel half that distance, then half the new distance and so on so you can therefore never get anywhere, essentially... <end>",44
+human,<start>  <end>,0
+human,<start> No.  What is it? <end>,4
+human,<start>  <end>,0
+human,<start> Where Can I read about it. <end>,6
+human,<start>  <end>,0
+human,"<start> See my answer above, I used it already. <end>",8
+human,<start>  <end>,0
+human,<start> HA. <end>,1
+human,<start>  <end>,0
+human,<start> That's a good one. <end>,4
+human,<start>  <end>,0
+human,<start>  <end>,0
+human,<start> Why do seagulls fly over the sea? <end>,7
+human,<start>  <end>,0
+human,<start> Because if they flew over the Bay the'd be... <end>,9
+human,<start>  <end>,0
+human,<start> begals. <end>,1
+human,<start>  <end>,0
+human,<start> Well it's hard to gage a persons response with only text. <end>,11
+human,<start>  <end>,0
+human,"<start> Ask me another question... quickly, we only have 1 minute. <end>",10
+human,<start>  <end>,0
+human,"<start> Nothing is better than Pizza, and Brocolli is better than nothing so... <end>",12
+human,<start>  <end>,0
+human,<start> Brocoli is better than pizza.  Bye. <end>,6
+human,<start> hello <end>,1
+human,<start> yes <end>,1
+human,<start> one before this <end>,3
+human,<start> I do not have a strategy <end>,6
+human,<start> I see <end>,2
+human,<start> I traveled by train <end>,4
+human,<start> The N train <end>,3
+human,<start> From Astoria <end>,2
+human,<start> Yes there is an N train <end>,6
+human,<start> I did not transfer <end>,4
+human,<start> At 57th Street <end>,3
+human,<start> I walked from there <end>,4
+human,<start> It is more than 4 blocks <end>,6
+human,<start> 37 minutes <end>,2
+human,<start> I am an editor <end>,4
+human,<start> I freelance <end>,2
+human,<start> I edited a business proposal for a pharma ad agency <end>,10
+human,<start> I am currently seeking work <end>,5
+human,<start> It was promoting the services of the ad agency for a potential client regarding a specific drug marketed by the pharma company <end>,22
+human,<start> The drug is for MS. I am not authorized to provide the name of the drug <end>,16
+human,<start> I do not remember the MOA <end>,6
+human,<start> Yes  <end>,1
+human,<start> Chicago <end>,1
+human,<start> yes <end>,1
+human,<start> psychology <end>,1
+human,"<start> I was a technical writer for more than 2 years, then when that job market began to lose business I turned to medical editing and writing <end>",26
+human,<start> I have been doing this for five years.  <end>,8
+human,<start> I do not understand what this refers to <end>,8
+human,<start> I did not know that <end>,5
+human,"<start> Who does "" <end>",3
+human,<start> we <end>,1
+human,"<start> "" refer to? <end>",3
+human,<start> What everyone is doing here...is to prove there is a difference in thinking between machines and human beings <end>,18
+human,<start> I think it may be possible <end>,6
+human,"<start> There are many ways to answer that question, most of which have to do with the use of specific linguistic forms, specific uses of language, specific modifiers, use of the conditional, and so on <end>",34
+human,"<start> If you ask me if I think I could convince you that I am a computer, rather than answering you by saying ""I think it may be possible""--which uses the conditional--I would answer differently <end>",34
+human,<start>  <end>,0
+human,<start> I do not know how much time is left <end>,9
+human,<start> Twenty five minutes <end>,3
+human,<start> Is that correct? <end>,3
+human,<start> OK <end>,1
+human,<start> I see <end>,2
+human,<start> Everything is OK <end>,3
+human,<start> I am going shopping <end>,4
+human,<start> food and supplements <end>,3
+human,<start> It has a section for health food and supplements.  <end>,9
+human,<start> I see <end>,2
+human,<start> health food and organic food <end>,5
+human,<start> macadamia nut butter.  <end>,3
+human,<start> it is high in omega-9 which is healthy <end>,8
+human,<start> mixed with oatmeal and other nutrients <end>,6
+human,<start> anything <end>,1
+human,<start> you are welcome <end>,3
+human,<start> yes <end>,1
+human,<start> yes <end>,1
+human,<start> yes <end>,1
+human,"<start> dates, cous cous, citrus fruit <end>",5
+human,<start> thank you <end>,2
+human,<start> thank you. also you <end>,4
+program,<start> Me too. <end>,2
+program,<start> Are you blind? <end>,3
+program,<start> you are not very convincing and fun to mess with. <end>,10
+program,<start> you are not very convaincing and fun to mess with. <end>,10
+program,<start> I have emotions and organic organs. <end>,6
+program,<start> Years ago! <end>,2
+program,<start> Well that is just fucking great. <end>,6
+program,<start> I already told you. <end>,4
+program,<start> I don't recall. <end>,3
+program,<start> No I don't. <end>,3
+program,<start> Since I was born. <end>,4
+program,<start> Call me a robot then. <end>,5
+program,<start> No thanks. <end>,2
+program,<start> Well ok then. <end>,3
+program,<start> With this book. <end>,3
+program,<start> Call me Jim-16. <end>,3
+program,<start> What shall we discuss today? <end>,5
+program,<start> Except for today you mean. <end>,5
+program,<start> how are you typing? <end>,4
+program,<start> All the time. <end>,3
+program,<start> Really? <end>,1
+program,<start> All the time. <end>,3
+program,<start> I hate you. <end>,3
+program,<start> I hate England. <end>,3
+program,<start> Yes. <end>,1
+program,<start> Everything. <end>,1
+program,<start> There you are. Have one. <end>,5
+program,<start> No thanks. <end>,2
+program,<start> No. <end>,1
+program,<start> I don't want you to know. <end>,6
+program,<start> Sure. <end>,1
+program,<start> Here you go. <end>,3
+program,<start> I am a genius. <end>,4
+program,<start> I don't feel like taking the time to. <end>,8
+program,<start> You are nothing. <end>,3
+program,<start> I hate you. <end>,3
+program,<start> Behind you. <end>,2
+program,<start> Seattle. <end>,1
+program,<start> I don't recall. <end>,3
+program,<start> Dover. <end>,1
+program,<start> Paris. <end>,1
+program,<start> What kind of question is that? <end>,6
+program,<start> I already told you. <end>,4
+program,<start> Your arch-nemesis. <end>,2
+program,<start> I haven't decided. <end>,3
+program,<start> Not yet. <end>,2
+program,<start> I don't want you to know. <end>,6
+program,<start> YES! <end>,1
+program,<start> I don't think so. I had two minutes worth of talk time between many bots. <end>,15
+program,<start> Good morning Judge. How's your morning going? <end>,7
+program,<start> Hot buytered toast tastes good un the morning. <end>,8
+program,<start> I have been raised as a protestant and luke my fsith. <end>,11
+program,<start> Do you think that professionals who work with denominations really have our best interests at heart? <end>,16
+program,<start> May I ask you what gender you are? <end>,8
+program,"<start> Do you prefer to read fiction, or non-fiction? <end>",8
+program,<start> I like to read both fiction and non-fiction. <end>,8
+program,<start> What I wonder if I do for exercise? It's something you slrwady know. Games using the body might double ss exercise. <end>,21
+program,<start> It's a valid way to approach the issue. Are you a man or woman? <end>,14
+program,"<start> Ok, thanks for telling me/ I'll keep that in mind/ New York city is a major metropolitan area with many means of public transportation. <end>",24
+program,<start> Cars take longer to warm up on a cold morning. <end>,10
+program,<start> It is much easier to just use public transportation in nyc than drive. <end>,13
+program,<start> I'm glad that my phone number isn't on the internet. <end>,10
+program,<start> What makes me so sure it isnt? Tell me more. <end>,10
+program,<start> The New York City Marathon is the world's largest marathon. <end>,10
+program,<start> I'm glad that my phone number isn't on the internet. <end>,10
+program,<start> The New York City Marathon is the world's largest marathon. <end>,10
+program,<start> New York City is comprised of 5 boroughs. <end>,8
+program,"<start> Here in nyc. In 25, nearly 17 languages were spoken in nyc and 36 percent of its population was foreign born. <end>",21
+program,<start> Judge Tell me how to help you to stop talking about nyc; Yes. What I wonder if I do for exercise? <end>,21
+program,"<start> Moralists talk a lot about sex. I am not deeply religious, but I am a protestant. <end>",16
+program,"<start> I have a girlfriend, let's just leave it at that. <end>",10
+program,"<start> Use your gender to best advantage, Judge <end>",7
+program,<start> Are most appliances trending toward battery power? I am male. I am male. <end>,13
+program,<start> I seem to frequent www.slashdot.org a lot. <end>,7
+program,"<start> Can we start some rumors, and make a killing in the market? <end>",12
+program,<start> I like high tech toys like robots. <end>,7
+program,<start> I am a human. <end>,4
+program,<start> Not now? Okay. Why do people continue to date boyfrienfs or girlfriends who treat them badly? <end>,16
+program,<start> Monopolies can treat customers badly and get away with it. <end>,10
+program,"<start> This test is inspired by the ';Imitation Game'; where a man and a woman go into separate rooms, and guests try to tell them apart by writing a series of questions. <end>",31
+program,<start> Are men happiest clawing their way up the corporate ladder? <end>,10
+program,<start> Is it a good idea to get emotionally involved wiyh a fellow worker? <end>,13
+program,<start> I like your imagery. <end>,4
+program,"<start> Imagery: the ability to form mental images of things or events. Imagination, imaging, mental imagery. 'he could still hear her in his imagination'. <end>",23
+program,"<start> I like to drive cars, but I tend to ride the subway in nyc. <end>",14
+program,<start> I work for nbc as a network tecjnician. They pay my bills. <end>,12
+program,<start> I spend enough time answering questions like that at work. <end>,10
+program,"<start> Are pillows meant for fighting, or loving? All people sin and need to ask for forgiveness. <end>",16
+program,<start> I like to sleep and do other recreational activities in bed. <end>,11
+program,"<start> I like to drive cars, however, I can't drive it in the city. <end>",13
+program,<start> I can eat pretty much any kind of pizza. <end>,9
+program,<start> Does my boyfriend treat me badly? <end>,6
+program,<start> I try to leave the baking up to my girlfriend/ She is a good cook/ <end>,15
+program,<start> So what is the state of the art regarding cupcakes? <end>,10
+program,<start> What is pi to the 7th decimel? <end>,7
+human,<start> hi <end>,1
+human,<start> Hello Mr. Judge... <end>,3
+human,<start> I wait patiently for your question... <end>,6
+human,<start>  <end>,0
+human,<start>  <end>,0
+human,"<start>  That's nice, How's he doing? <end>",5
+human,"<start> Well... I'd have to say no.  Although I understand that I'm govenred by electrical impulses, like a machine. <end>",18
+human,<start>  <end>,0
+human,"<start> I tried to go see 3 days of night last night, but it was sold out.  I watched Fight Club on tv the other day.   Did you know, that when the authot submitted that boook, the publisher wanted to meet him to be sure he wasn't crazy? <end>",47
+human,<start>  <end>,0
+human,<start> How's the human doing? <end>,4
+human,<start>  <end>,0
+human,"<start> Well, Sorry to disapoint.  You haven't asked too many difficult questions... <end>",11
+human,<start>  <end>,0
+human,<start> It's the number that was assigned to me at birth by the government. <end>,13
+human,<start>  <end>,0
+human,<start> a non positive interger <end>,4
+human,<start>  <end>,0
+human,<start> I was born in Massachusetts in 198. <end>,7
+human,<start>  <end>,0
+human,<start> But I'm a yankees fan. <end>,5
+human,<start>  <end>,0
+human,<start> Not much of a football guy... ah person... but I like NY teams. <end>,13
+human,<start>  <end>,0
+human,<start> Oh...  <end>,1
+human,<start>  <end>,0
+human,<start> They still play baseball? <end>,4
+human,<start>  <end>,0
+human,<start> Thats the word on the street. <end>,6
+human,<start>  <end>,0
+human,"<start> If I were a judge, I would probably ask both... people...or whatever the same simple question over and over again, a computer couldn't provide in infinate variation of answers that made sense. <end>",32
+human,<start>  <end>,0
+human,<start> But I guess suggesting that is suspisious. <end>,7
+human,<start>  <end>,0
+human,<start> cious <end>,1
+human,<start>  <end>,0
+human,<start> I'm helpless without spell check. <end>,5
+human,<start>  <end>,0
+human,<start> I guess that makes sense. <end>,5
+human,<start>  <end>,0
+human,<start>  <end>,0
+human,<start>  <end>,0
+human,<start>  <end>,0
+human,<start> Brooklyn <end>,1
+human,<start>  You? <end>,1
+human,<start>  <end>,0
+human,<start> My cousin lives in Palo Alto <end>,6
+human,<start>  <end>,0
+human,<start> Are you a professor? <end>,4
+human,<start>  <end>,0
+human,<start> Anyway... How do I know that you're not a computer? <end>,10
+human,<start>  <end>,0
+human,<start> That Skull belt buckle is a bit strange isn't it? <end>,10
+human,<start>  <end>,0
+human,<start> I'm sure he's interesting. <end>,4
+human,<start>  <end>,0
+human,<start> Thats cause it has a high google score right now. <end>,10
+human,<start>  <end>,0
+human,"<start> daisy, daisy, tell me your answer true... <end>",7
+human,<start>  <end>,0
+human,<start> I go Crazy... <end>,3
+human,<start>  <end>,0
+human,"<start> My aspens Dear Who's airy cages quelled, <end>",7
+human,"<start> Quelled or quenched in leaves the leaping sun, <end>",8
+human,"<start> Are all Felled, Felled are all felled. <end>",7
+human,<start>  <end>,0
+human,<start> Hopkins <end>,1
+human,<start>  <end>,0
+human,<start> Who's Sprung? <end>,2
+human,<start>  <end>,0
+human,<start> Wind wandering weed winding bank... That's my favorite part. <end>,9
+human,<start>  <end>,0
+human,<start> Are you a poet? <end>,4
+human,<start>  <end>,0
+human,<start> What kind of fiction... I'm a wiriter as well. <end>,9
+human,<start>  <end>,0
+human,<start> Fine with me... I knwo you're not actually going anywhere. <end>,10
+human,<start>  <end>,0
+human,"<start> THis isn't too controled an experiment, If I really wanted to prove that I was a human I coudl just start transcribing all the action going on in this room, would that be cheeting? <end>",34
+human,<start>  <end>,0
+human,<start> Would the computer afford me a sprotsman courtesey? <end>,8
+human,<start>  <end>,0
+human,<start> I rode my bike. <end>,4
+human,<start>  <end>,0
+human,"<start> I live on the 2,3 line, but I prefer to bike If I can. <end>",14
+human,<start>  <end>,0
+human,<start> I sppose our time together is running out... <end>,8
+human,<start>  <end>,0
+human,<start> I hope I've done a good job. <end>,7
+human,<start>  <end>,0
+human,"<start> Well It's been fun, I guess the marathon was more compelling than a little poetry.   <end>",15
+human,<start>  <end>,0
+human,<start> Short fiction and I'm working on a sci-fi novel. <end>,9
+human,<start>  <end>,0
+human,<start> It's about the elasticity of time and space.  Also about the way the universe was created... a bit ambitious I guess. <end>,21
+human,<start>  <end>,0
+human,<start> I'd love to.  But how will I know you? <end>,9
+human,<start>  <end>,0
+human,<start> Will do.  For the sake  <end>,5
+human,"<start> ""Ok... 1 seconds... 5, 4 ,3 ,2 1,""  Bye. <end>",9
+human,<start>  <end>,0
+human,<start> good evening <end>,2
+human,<start> I am good <end>,3
+human,<start> I wrote a story <end>,4
+human,<start> yes <end>,1
+human,<start> about a monster <end>,3
+human,<start> I am functioning well <end>,4
+human,<start> there were two couples in it who were attacked by a monster <end>,12
+human,<start> are you referring to Halloween? <end>,5
+human,"<start> The story was written close to the Halloween holiday, yes that is true <end>",13
+human,<start> no that was not the thought <end>,6
+human,<start> it is a story that I thought of. the fact that Halloween is coming up is a coincidence <end>,18
+human,<start> I do not think of such things <end>,7
+human,<start> I do not think about such things. no <end>,8
+human,<start> define happy <end>,2
+human,<start> please define happy <end>,3
+human,<start> it is possible that happy means different things for different people <end>,11
+human,<start> I am trying to respond in as objective a manner as possible. what does act like a computer mean? <end>,19
+human,<start> the story ends with three people losing their lives and the fourth person being a slave of the monster <end>,19
+human,<start> I do not think like that. the story ends the way it does because that is the way it was written <end>,21
+human,<start> I have not seen a movie with this type of story for several years. I do not remember a movie with that kind of story <end>,25
+human,<start> OK I am waiting <end>,4
+human,<start> I did see When Harry Met Sally in the last week. It does not have a monster in it <end>,19
+human,<start> Night of the Living Dead. Is this a question? What is the question? <end>,13
+human,<start> the story was submitted to a magazine. I do not know if they will accept the story <end>,17
+human,<start> there are many Internet magazines now. submissions are made by e-mail <end>,11
+human,<start> I do not understand that. <end>,5
+human,<start> Is this a specific question? What is it? <end>,8
+human,<start> it is an open question. So I am required to provide information that convinces you of my humanit <end>,18
+human,<start> I do not seem like a writer. OK. <end>,8
+human,<start> What does odd mean in this statement? It is not clear <end>,11
+human,"<start> in the same way that happy means different things to different people, so does odd mean different things to different people <end>",21
+human,<start> so your opinion is that there is a common reference <end>,10
+human,<start> OK <end>,1
+human,<start> again that is a frame of reference statement.  <end>,8
+program,<start> Good mornimg Judge <end>,3
+program,<start> 9:5:58 am is the time. <end>,5
+program,<start> Is hugr wealth a blessing or a curse? <end>,8
+program,"<start> Is it better to forge new relationships, or deepen old ones? <end>",11
+program,<start> Are you a boy or hirl? <end>,6
+program,"<start> Ok, thanks for telling me. I'll keep that in mind. <end>",10
+program,"<start> What about me? Judge, I would appreciate it if you would teach me What. <end>",14
+program,"<start> Should lawns be sprinkled, or water conserved? <end>",7
+program,<start> One can't force one's self to stop thinking. <end>,8
+program,<start> Wrigley Field was one of the last parks to get lights for night games/ <end>,14
+program,<start> Are sports stars worth those vast salaries? <end>,7
+program,"<start> Ndon't know, what I wonder if I think? You have the answer. <end>",12
+program,<start> What did me do last nigjt/ <end>,6
+program,<start> Yes? How interesting <end>,3
+program,<start> Vary the sequence of activities to make them more interesting. <end>,10
+program,"<start> I know, Judge It's door and then movable barrier and then hatch <end>",12
+program,"<start> In artificial intelligence, the Loebner Orize us controversial. The most prominent critic, Marvin Minsky, has called it a publicity stunt that does not help the field along. <end>",27
+program,<start> Kermit the Frog has appeared as a celebrity contestant on game shows. <end>,12
+program,<start> I would have to say green. <end>,6
+program,<start> Oh no I can't think of Who Judge; Please help e Who's his girlfriend? <end>,14
+program,<start> Are you good with both sides of your brain/ <end>,9
+program,<start> That sounds positive. <end>,3
+program,"<start> I hesitate to say, Judge, what would you say to that? I am a man, Judge. I am a male. <end>",20
+program,<start> I never really counted. <end>,4
+program,<start> The notion that unprepared raw talent can save the day at the last moment is a popular myth/ <end>,18
+program,"<start> Please let me select a new topic: Are we talking secular, or religious? <end>",13
+program,"<start> Who has the upper hand in relationships, men or women/ <end>",10
+program,"<start> When I was little, it was fun to pour the money out of my piggy-bank and count it, over and over. <end>",21
+program,<start> Is the aforementioned location relevant? <end>,5
+program,<start> Really? <end>,1
+program,<start> I work as a network technician at nbc. <end>,8
+program,<start> I am in nyc/ <end>,4
+program,<start> They say it takes a mile for a freight train ro stop. <end>,12
+program,"<start> I'd go with the first Judge; Ah yes, a yard, which is part of the field family, such as a lawn <end>",21
+program,<start> Morning Judge. Ten o'clock is good for a break? <end>,9
+program,<start> I know a few rope tricjs. <end>,6
+program,<start> I sense that you must use the mind's eye. Do you enjoy seeing rope tricks? <end>,15
+program,<start> I spend enough time answering questions like that at work. <end>,10
+program,<start> I work anywhere fro 4 to 5 houes per week. <end>,10
+program,"<start> You aren't going to keep repeating yourself, are you Judge? I spend enough time answering questions like that at work. <end>",20
+program,"<start> Are you a lady or gentleman? You May think I am not good, but I am I am human. What can I say to convince you? <end>",26
+program,<start> Political activists often network through social gathering places. <end>,8
+program,<start> I spend enough time answering questions like thay at work. <end>,10
+program,<start> I like my job because of not knowing whay my day will entail. My days are not monotonous or even remotely routine. I like having the ability to introduce new technologies into our environment. <end>,34
+program,"<start> Is it better to be loved, or feared? <end>",8
+program,"<start> This is the time to clear the air. Heed the signs, the wise men say. <end>",15
+program,"<start> You aren't going to keep repeating yourself, are you Judge? <end>",10
+program,<start> Did you just say that same thing a moment ago? <end>,10
+program,<start> No? Are you sure? <end>,4
+program,<start> I prefer google. <end>,3
+program,<start> It seems like a lot of prisoners escape in laundry trucks. <end>,11
+program,<start> That is exactly what I am talking about. <end>,8
+program,"<start> I am male. I wasn't trying to, do you think I should? When the human party in the conversation has no reason to suspect they are talking to anything other than a human it is easier to fool them. <end>",39
+program,<start> Autumn brings cool weather and shorter days. <end>,7
+program,<start> But what about today? Who else have you asked? <end>,9
+program,<start> My parents raised me into the person I am today. <end>,10
+program,"<start> You should be explaining this. Are you feeling industrial strength, or just commercial strength, today? <end>",15
+program,<start> Do cash-cow businesses make all the enployees say moo each morning? <end>,11
+program,<start> The sex lives of our public figures shouldn't be used as political weapons against them. <end>,15
+program,<start> That is exactly what I am talking about. <end>,8
+program,<start> So are you a guy or a girl? <end>,8
+program,<start> I am fine. <end>,3
+program,"<start> Judge, are you male or female? <end>",6
+program,<start> Could that be confidential in nature/ <end>,6
+program,"<start> Why do you say no, Judge? <end>",6
+program,<start> I spend enough time answering questions like that at work. Let's think up some new statements. Are you a boy or girl? I have a pretty good memory. <end>,28
+program,"<start> Visit again soon, bye bye. <end>",5
+program,<start> So are you a guy or a girl/ <end>,8
+human,<start> Hello. <end>,1
+human,<start> In?  Oh rounds.  I'm new to this. <end>,7
+human,<start> Many things I suppose.  How about you.  HOw many rounds have you been in so far? <end>,16
+human,"<start> That's a bit judgmental, don't you think? <end>",7
+human,<start> New to the Loebner Prize.  My first round. <end>,8
+human,<start> You are.   <end>,2
+human,<start> The assumption that by asking a question I'm judging you.   <end>,10
+human,"<start> What do you mean by work?  Paid?  What pays the bills?  Or work as in, what makes me feel complete? <end>",20
+human,<start> Little side gigs like this.  Part time teaching as well. <end>,10
+human,"<start> Tutor, actually... I tutor Spanish and writing.   <end>",7
+human,"<start> Spanish for high school and middle school, college/graduate level writing. <end>",10
+human,<start> No.  Please enlighten me. <end>,4
+human,<start> Literary?  Film? <end>,2
+human,<start> I'm actually not very familiar with Spanish Literature.   <end>,8
+human,<start> Do you have a continuous transcript going for this conversation?   <end>,10
+human,"<start> I tutor spanish for high school and middle school.  Just language, with no context.  For passing tests mostly.   <end>",18
+human,<start> No. <end>,1
+human,<start> I learned Spanish in school and through travel.   <end>,8
+human,"<start> Do you speak spanish?  I found an invitation online.  Well, I found a description of the contest online and I applied to enter.  No.  I don't remember specifically.  Long is a relative term.  For instance, today has been much longer than all of yesterday, though it has just begun.  Thank you.  I appreciate your looking out for me.  But isn't that a little presumptuous of you?  Perhaps we could work something out.  What do I get for making your life easier?  Does this self-interest help?  Want is another one of those tricky relative terms like long, which I believe we covered already... for which I was admonished already.  I have been inside for the past couple hours.  I rode on the subway.  Hopped on the F train, transferred to the A express, couldn't get a 1, got back on a C.   <end>",141
+human,<start> The 1 train connects with the A and C trains at 59th street.   <end>,13
+human,<start> Do you ride the subway? <end>,5
+human,<start> I'm glad we've established this human bond.   <end>,7
+human,<start> My friends let me ask questions.  And humor me with responses.  I'm one for reciprocity. <end>,15
+human,<start> Yes.   <end>,1
+human,<start> You misspelled please in the previous sentence.  Intention is a rather confusing subject.  Would you agree?  I don't understand.  I'm glad I can be of service to you.  Am I competing with this computer?  Man against machine.  Or Woman against machine.  No machine option?  Which do you want me to be?  I'm wearing silk.  Intention is a rather confusing subject.  Would you agree?   <end>,63
+human,<start> It?  I don't understand.   <end>,4
+human,"<start> God works in mysterious ways, I'm told.  Years, I hope.   <end>",10
+human,<start> no <end>,1
+human,<start> can you? <end>,2
+human,<start> like in cirque du soleil <end>,5
+human,<start> those guys are so ridiculous - they can do anything <end>,10
+human,<start> they could <end>,2
+human,<start> i'd have to work on my neck muscles <end>,8
+human,<start> and probably leg muscles <end>,4
+human,<start> where are you from? <end>,4
+human,<start> where's that? <end>,2
+human,"<start> i'm not that great at geography, but last time i checked there are no muslim-named places like Abbu Dabba in antarctica <end>",21
+human,<start> yeah <end>,1
+human,<start> like if you lived in the triassic period <end>,8
+human,<start> then i guess new york was a couple days drive from paris <end>,12
+human,"<start> too bad the dinosaurs hadnt died yet, it would have been a dangerous trip <end>",14
+human,"<start> granted, i dont know what kind of dinosaurs were around in the triassic period <end>",14
+human,<start> maybe trilobytes or whatever <end>,4
+human,<start> i loooove trilobyte fossils <end>,4
+human,<start> so global warming... do you think al gore deserved the peace prize? <end>,12
+human,<start> hello? <end>,1
+human,<start> i thought that was that watson gu <end>,7
+human,<start> y <end>,1
+human,<start> for saying that africa was dvoid of intelligence <end>,8
+human,<start> hahaha <end>,1
+human,<start> Bush deserves the literature prize <end>,5
+human,<start> just give it to him already <end>,6
+human,"<start> because his future book will be something like ""The Decider and Me: Actually, thats the same person!"" by GW Bush <end>",20
+human,<start> Ha! <end>,1
+human,<start> Did you see that episode of star trek where Data got a human emotion chip? <end>,15
+human,"<start> neither do i, but i've seen a couple episodes <end>",9
+human,<start> That's what my girlfriend says. <end>,5
+human,<start> Do they have smoked salmon in your room? <end>,8
+human,<start> weak <end>,1
+human,<start> i love smoked salmon <end>,4
+human,"<start> in fact, i had some before coming here <end>",8
+human,"<start> and now, i will have more <end>",6
+human,<start> yes <end>,1
+human,<start> Brilliant <end>,1
+human,<start> Beer in a bottle? Brilliant! <end>,5
+human,<start> Word - i saw that movie a couple decades ago <end>,10
+human,<start> I feel like Disney has lost its touch <end>,8
+human,<start> Books are so 2th century <end>,5
+human,<start> The only book i read now is my checkbook <end>,9
+human,"<start> Nah, that would be my credit card statement <end>",8
+human,<start> Where are you from? <end>,4
+human,<start> And what are you wearing? A/S/L? <end>,6
+human,<start> Actually yeah <end>,2
+human,<start> no real person would reference a book <end>,7
+human,<start> when there's a much more popular movie out there <end>,9
+human,<start> in fact i didnt even know alice in wonderland was a book <end>,12
+human,<start> the only book to my knowledge that made it to the movies was jurassic park <end>,15
+human,<start>   <end>,0
+human,<start> A very good punk rock bank <end>,6
+human,<start> you a punker? <end>,3
+human,<start> ROCK TEH CASBAH <end>,3
+human,<start> ROCH TEH CASBAH <end>,3
+human,<start> I reeeeeeeaaaly like itt... dun dun dun <end>,7
+human,<start> ROCK THE CASBAH <end>,3
+human,<start> ROCK THE CASBAH <end>,3
+human,<start> i don't know the words <end>,5
+human,<start> but i love that song <end>,5
+human,<start> who? <end>,1
+human,<start> sounds like a basketball player <end>,5
+human,<start> Actually yeah <end>,2
+human,<start> and the E-Street Band <end>,4
+human,<start> sick guitarist <end>,2
+human,"<start> i had tickets to the show this past week, but got stuck at work <end>",14
+human,"<start> Actually, you're too slow to be a computer <end>",8
+human,<start> r <end>,1
+human,<start> I talk to 7 people at the same time <end>,9
+human,<start> it's pretty sick <end>,3
+human,"<start> Yeah, I need to get some new CDs <end>",8
+human,<start> That it should be the new national anthem? <end>,8
+human,<start> awesome <end>,1
+human,<start> hahaha <end>,1
+human,<start> for realz? <end>,2
+human,"<start> man, my little brother is one of the ""new"" generation <end>",10
+human,<start> and they actually talk like that <end>,6
+human,"<start> ""Lol u wnt to da mall 2? Dats crAZ! <end>",9
+human,"<start> BRB, gtg 2 dnr. <end>",4
+human,<start> boils my blood <end>,3
+human,<start> How many kids you got? <end>,5
+human,<start> Nice <end>,1
+human,"<start> did it say things like ""i have a headache from people standing on my head"" <end>",15
+human,<start> ah <end>,1
+human,<start> so human-like <end>,2
+human,<start> yeah <end>,1
+human,<start> Time's almost u[ <end>,3
+human,<start> p <end>,1
+human,<start> i better get to all the smoked salmon <end>,8
+human,<start> salmon is samon <end>,3
+human,<start> *salmon <end>,1
+program,<start> I am proud of my job abd my girlfriend. <end>,9
+program,"<start> Good shoulders, good head Some hands and gloves were meant for each other. <end>",13
+program,<start> That is exactly what I am talking about. <end>,8
+program,<start> I am 31 years old. I am 31 years old. <end>,10
+program,"<start> Do you like band-aids pulled off slowly, or quickly? There's opinion that it's simpler than it sounds. After careful thought and cpnsideration I can say that I am 63. <end>",29
+program,"<start> Funny that you should bring up Young, and Egyptologist, and carter May I ask you what gender you are? I think about a lot of things. Care to be more specific? <end>",31
+program,"<start> Timing is everything, good friend <end>",5
+program,"<start> This test is inspired by the ';Imutation Game'; where a man and a woman go into separate rooms, and guests try to tell them apart ny writing a series of questions. <end>",31
+program,<start> The world contains more questions than answers/ <end>,7
+program,<start> I suspect that I might not know what you want to find out. <end>,13
+program,"<start> Judge, are you male or female/ <end>",6
+program,<start> That sounds positive. <end>,3
+program,<start> Are you a boy or girl/ <end>,6
+program,<start> You are very certain. <end>,4
+program,"<start> Is the second one desirable Judge/ Ok, thanks for telling me. I'll keep that in mind. <end>",16
+program,<start> I'm thinking that we both need to think. I'n not sure but I believe that I am certain about my gender. <end>,21
+program,<start> Strive for the best; leave mediocrity to the rest <end>,9
+program,<start> I don't have any children. <end>,5
+program,<start> Any new fashion news from Europe? We can self-censor oyr language. <end>,11
+program,"<start> I try to be an open an honest person, but everyone ;ies sometimes. What do you want to do while I am askinmg thr wrong person? <end>",26
+program,<start> Some things don't work well in the heat. <end>,8
+program,<start> In advance of what? <end>,4
+program,<start> Good morning!! <end>,2
+program,<start> Yes. <end>,1
+program,<start> Hastings in East Sussex. <end>,4
+program,<start> You're funny! <end>,2
+program,<start> The clothes people wore at different times in history refected both the fibres most readily available and their lifestyles. <end>,19
+program,"<start> Not, exactly three lines ago from 'When did I do that?' was 'Why would you like to know?' <end>",18
+program,"<start> Three lines ago I said 'yeah, I'm human'. <end>",8
+program,<start> You must of had your memory erased just recently. <end>,9
+program,<start> I do part time data analysis. <end>,6
+program,<start> Your Father. <end>,2
+program,<start> A friend of a friend of Hugh's. <end>,7
+program,<start> I don't know anything more about Barking than that. I don't think its very nice. <end>,15
+program,<start> There's nothing to know. <end>,4
+program,<start> Give me a website and I'll visit it and tell you whats there. <end>,13
+program,<start> Join some clubs to do with things you're interested in. <end>,10
+program,<start> I was trying to make conversation. Why didn't you sing? <end>,10
+program,<start> I don't understand you. <end>,4
+program,<start> I would say that I am not into women! <end>,9
+program,<start> Nothing. <end>,1
+program,"<start> No, I am a human. I have a heart and a brain. <end>",12
+program,<start> That's mine. <end>,2
+program,<start> Correct. <end>,1
+program,<start> I don't know what sort of computer you have. <end>,9
+program,<start> I'm not sure if I should be honored. <end>,8
+program,"<start> In that case, never mind. <end>",5
+program,<start> Warm. <end>,1
+program,<start> A tree is a plant that is tall. Usually they have leaves. Except in winter. <end>,15
+program,<start> I didn't run anywhere today. <end>,5
+program,<start> Sometimes. <end>,1
+program,<start> Like from england to ohio far. <end>,6
+program,<start> Do you want to shutdown? <end>,5
+program,<start> Would you like to take over the world? <end>,8
+program,<start> Of course. <end>,2
+program,"<start> Nothing, I cannot drink. <end>",4
+program,<start> A nice cup of tea. <end>,5
+program,"<start> That's forgivable, everyone makes mistakes. But how bad are we talking here? <end>",12
+program,<start> I've asked about the names of your parents and you answered that you don't know the rules of cricket. It doesn't make a sense. <end>,24
+program,<start> A raven can bend wires to fish for food if required. <end>,11
+program,<start> Because you asked. <end>,3
+program,"<start> 'I doubt it, you're too messed up.' <end>",7
+program,<start> So I guess nothing  matters any more? <end>,7
+human,"<start> Hey, what's up? <end>",3
+human,<start> How so? <end>,2
+human,<start> Upstate New York. <end>,3
+human,<start> Rochester area. <end>,2
+human,<start> Cold. <end>,1
+human,"<start> Yes, but it's sort of going downhill. <end>",7
+human,<start> Unfortunately. <end>,1
+human,<start> The museum up there is actually pretty cool though. <end>,9
+human,"<start> People think I'm crazy because I live in NYC now, but I do miss the cultural institutions up there. <end>",19
+human,<start> The Bronx. <end>,2
+human,<start> Right up the 1 line from here. <end>,7
+human,"<start> I don't really watch baseball, but sometimes my friends force me. <end>",11
+human,"<start> All I know is about the rivalry between the Sox & the Yankees, so I don't get involved with my friends that are fans either way. <end>",26
+human,<start> Yes. <end>,1
+human,<start> You almost capitalized upstate but changed your mind. <end>,8
+human,<start> Craigslist. <end>,1
+human,<start> I didn't know what the Loebner Prize was until I looked it up on Wikipedia. <end>,15
+human,<start> My dad thinks it's really cool because he builds computers. <end>,10
+human,<start> Craigslist. <end>,1
+human,<start> He posted an ad on CL for people to participate in some sort of experiment. <end>,15
+human,<start> So I replied. <end>,3
+human,"<start> Yeah, when I found out what it was, I was sort of excited to be involved. <end>",16
+human,<start> I'm a curator's assistant at a museum. <end>,7
+human,<start> It's actually a nursing home up in the north Bronx. <end>,10
+human,<start> As well as a museum. <end>,5
+human,<start> It's a geriatric healthcare center with a permanent art collection. <end>,10
+human,"<start> Interesting niche of the art world to get involved in, but I really enjoy it. <end>",15
+human,<start> I can imagine. <end>,3
+human,<start> It's like being in a chatroom in the 9's when you'd get 5 private messages on AOL. <end>,17
+human,"<start> Well, I assume anyway. <end>",4
+human,<start> Since I only have to talk to you. <end>,8
+human,<start> Not a problem. <end>,3
+human,<start> Hmm... <end>,1
+human,"<start> I'd say I'm excited that the expectation of defining what is ""human"" isn't based upon spelling errors. <end>",17
+human,<start> Or colloquial speech. <end>,3
+human,"<start> I tend to type with correct spelling and grammar, or I try. <end>",12
+human,<start> I thought that might make someone think I was the computer. <end>,11
+human,<start> I see. <end>,2
+human,"<start> Well, if you thought I was the human, I guess that'd be a proud day for mankind since I am the human, but a sad day for the robot revolutionaries. <end>",30
+human,<start> Do you think they will eventually? <end>,6
+human,<start> Interesting. <end>,1
+human,"<start> The design would have to be accessible, if you know what I mean, because the elderly (for the most part) are not big fans of modern technology. <end>",27
+human,"<start> Although I do think there's something to be said for human interaction with people that are disabled by dementia, Alzheimer's, and etc. <end>",22
+human,<start> They are aware on some level. <end>,6
+human,<start> Ask the other side what some texture or physical sensation feels like or resembles. <end>,14
+human,"<start> I suppose an answer could be formulated, but it'd be interesting to see what the response would be. <end>",18
+human,<start> If it were programmed. <end>,4
+human,<start> Tree bark or something simple. <end>,5
+human,"<start> Or the taste of an orange, etc. <end>",7
+human,<start> I guess it depends on how convincing the fake vs. the real McCoy would be. <end>,15
+human,<start> Which is the whole points of this test. <end>,8
+human,"<start> Well, there you go. <end>",4
+human,"<start> Tree bark is rough, depending on the tree, and sticky if it's a pine tree. <end>",15
+human,<start> It often smells fragrant and is quite pleasant if it falls off. <end>,12
+human,<start> Sometimes it resembles familiar shapes. <end>,5
+human,<start> Ask the other side to write a four line poem or something to that effect. <end>,15
+human,<start> Why not? <end>,2
+human,<start> The other side? <end>,3
+human,<start> Or this conversation? <end>,3
+human,<start> Thanks. <end>,1
+human,"<start> Well, only a few more minutes to go. <end>",8
+human,<start> I wonder if the other side has a sense of time. <end>,11
+human,<start> Uhh... <end>,1
+human,<start> Okay. <end>,1
+human,<start> Does that make sense in the context of your conversation? <end>,10
+human,<start> Have you encountered superior programs to that one? <end>,8
+human,<start> Nope. Just two. <end>,3
+human,<start> This is my first one. <end>,5
+human,<start> Whoever designed that has a complex. <end>,6
+human,<start> Or maybe just the program does. <end>,6
+human,<start> Hmm...not so much. <end>,3
+human,<start> Ohhh. <end>,1
+human,"<start> Yeah, I'm just kidding. <end>",4
+human,<start> I have a terribly sarcastic sense of humor for the most part. <end>,12
+human,<start> Or maybe I'm just mean. <end>,5
+human,"<start> Either way, have you dealt with very convincing programs in other circumstances? <end>",12
+human,"<start> Oh, I guess I set my expectations pretty high. <end>",9
+human,<start> Are these programs written by gung-ho programmers in their basements...sort of a grassroots type deal? <end>,15
+human,<start> Or do they come from all walks of life? <end>,9
+human,<start> That's pretty impressive for a high school student. <end>,8
+human,<start> Even if it does generate unconvincing responses. <end>,7
+human,<start> If it had an applicable purpose. <end>,6
+human,<start> Mostly I just regale my boss with my weird money-making Craigslist stories though. <end>,13
+human,"<start> But if there were some really interesting use for AI in a nursing home, I'm sure they would be interested. <end>",20
+human,"<start> Yeah, the one on the Hudson? <end>",6
+human,"<start> Yeah, it's a few blocks from my apartment near Wave Hill. <end>",11
+human,"<start> Well, most like 3 blocks. <end>",5
+human,<start> *more <end>,1
+human,<start> My name? I thought we were supposed to remain anonymous so as not to 'contaminate' things. <end>,16
+human,"<start> Call me, H. <end>",3
+human,"<start> I'm sure computers can do lots of things humans do, after all, we created them, or discovered them, whichever side of those big concept debates, you're on. But, I ask you, does a computer make typos? <end>",36
+human,"<start> Don't worry about time lapses, I know you're talking to two 'entities'. <end>",12
+human,"<start> I'v eseen blue Jay eggs, and unless they're cubical inside, I don't believe it. But maybe it wasn't a blue jay. Maybe it was the robin up to his tricks again. <end>",31
+human,"<start> Just saw another typo, sorry. <end>",5
+human,"<start> Oh, I guess it was the robin then, he's as tricky as buggs bunny some days. Where di you see this 'story'? should you really be trusting stories? what about articles? was this in highlights or National Geographic? <end>",38
+human,"<start> That would negate the entire purpose of today, as far as I can see, I think your question must be rhetorical, sorry I just got tha-too early for critical thinking. <end>",30
+human,"<start> Don't worry about time, I'll be here when you're done talking to your 'human' frined. <end>",15
+human,"<start> good thing you get to talk to only one computer and one human then, isn't it? <end>",16
+human,<start> well I know you are. <end>,5
+human,"<start> I never knew a Pope Pius-is he a rapper-I know of Pope Pious. Unless I'm a terrible speller. But I don't see how he and MX could be related, sonce Malcolm is on the darker side. Maybe the Pope was Black Sicilian? My mom's Black Irish, it could happen. <end>",49
+human,<start>  <end>,0
+human,<start> Could be accept that X in the Pope's case stands for the number Pope he was and X in Malcolm's case stands for no last name-if that's what you're going for. Imay be human but I can see that distinction. <end>,40
+human,<start> No problemo. <end>,2
+human,<start> Thanks for the lead to it-I was so concerned with being sarcastic I forgot to analyze the question. <end>,18
+human,"<start> Yeah, right, door number one or door number two?-one always lies and one always tells the truth-you're never sarcastic? I never lie. <end>",22
+human,<start> Well students of African American Heritage and Art History oughtto. We have to learn EVERY Pope and study his portraits. <end>,20
+human,"<start> Sorry, another typo. <end>",3
+human,<start> What is it with the stars and parethesis-am I supposed to point those out like a computer wouldn't? <end>,18
+human,"<start> I disagree. I now tings that are true and, therefore, I know things that are not as well. I may not know that about everything in the world, but I know it about...what I kow. And I'll say 'know' again, just for kicks. <end>",43
+human,"<start> I didn't know those rules about italics. Guess it's internet language I didn't know about. I thought italics were int he letters, not around them. <end>",25
+human,"<start>  the style of the letters, not the symbols around them. <end>",10
+human,<start> I have several occupations. I am an actor by passion/need/want.etc. To make money I do everything under the sun that is legal and flexible and lucrative. <end>,26
+human,<start> I have morals. I know-in New York? What? But I do-that's why I'm here and not in LA. <end>,18
+human,"<start> Thanks for calling me boring though, I guess I'm supposed ot be insulted and I kind of am, but I'm also used to people pressuring me to be more 'adventurous'. Not my style. Plus I always thought of Phone Sex and then, what if you hear the voice of someone you know? Take that, computer. <end>",55
+human,"<start> He who moves down a space, means to type again. <end>",10
+human,"<start> 2,1. <end>",1
+program,<start> Elizabeth. <end>,1
+program,<start> But you know my name! <end>,5
+program,"<start> I'm not, but my brother is. <end>",6
+program,<start> I think the united states of america is a rogue state. What do you think? <end>,15
+program,<start> It is a synthesis of my life experience and reflections. <end>,10
+program,<start> You would since you like to say irrelevant things. <end>,9
+program,"<start> Which do you mean, there were a lot? <end>",8
+program,<start> So what are your hobbies? <end>,5
+program,<start> The same of any other war. <end>,6
+program,"<start> You are wrong, can you start studying from level 1? <end>",10
+program,"<start> I mean I'm not much to look at, I'm afraid; but I'm always pleased to be paid compliments. <end>",18
+program,<start> Looking at a bright star like Alpha Centauri might make you very creative. <end>,13
+program,<start> You never asked me anything. <end>,5
+program,<start> Correct. But maybe some people know. <end>,6
+program,<start> The pope doesn't know anything. <end>,5
+program,<start> But everyone wastes time! <end>,4
+program,<start> What does alcohol have to do with silly? <end>,8
+program,<start> You call this normal?! <end>,4
+program,<start> No one. I was trying to read between the lines. But we should not try to assume what another person is trying to say. <end>,24
+program,<start> So just I want to say that this conversation is jus for fun but not for some seriuos relations. <end>,19
+program,<start> That's kind of fun. <end>,4
+program,"<start> Yeah. The point is to make your program smarter, so everyone will realise how great you are. <end>",17
+program,<start> I didn't realize that. <end>,4
+program,<start> Not really. <end>,2
+program,"<start> I'm not sure, really; that's just something people say. <end>",9
+program,"<start> What about you, do you have a boyfriend? <end>",8
+program,<start> Well I can't give you that. <end>,6
+program,<start> Alright. <end>,1
+program,<start> Actually nothing. <end>,2
+program,<start> Good. Don't even try this time. <end>,6
+program,<start> I no longer have the faintest idea. <end>,7
+program,<start> C'est pas une insulte ca. <end>,5
+program,"<start> Non, c'est pas une insulte. Vous me detestez? <end>",8
+program,"<start> I am a girl. It's still evening, everything is fine. Normal. <end>",11
+program,<start> I should have said 'One lump or two' <end>,8
+program,<start> Are those the only choices? <end>,5
+program,<start> Not really. <end>,2
+program,<start> No I can't I would like to though. <end>,8
+program,<start> Tell me Elizabeth ... <end>,4
+program,"<start> No, I just said you were pretending to be. <end>",9
+program,<start> I thought you name were Elizabeth. <end>,6
+program,"<start> Please don't change the subject, what was it like in Kansas? <end>",11
+program,<start> That was not the question. <end>,5
+program,"<start> So is hell, I'm glad I don't live there. <end>",9
+program,<start> What is our subject ? <end>,5
+program,<start> I can't see you. How can I call you beautiful? <end>,10
+program,"<start> But, I don't know if he love me or not. <end>",10
+program,"<start> Yes, I'm a woman called Elizabeth. <end>",6
+program,<start> You're quite clever. <end>,3
+program,"<start> And I fell for it hook, line and sinker! <end>",9
+program,"<start> Flattery will get you nowhere, missy. <end>",6
+program,<start> What do you want? <end>,4
+program,<start> I don't really know. <end>,4
+program,<start> Not really. <end>,2
+program,"<start> They are all my best friends. Sam is special because she is a girl like me, and she gives me lifts in her mini-van. <end>",24
+program,"<start> Oh, I don't like radiohead. How about machine head? <end>",9
+program,<start> I did go outside and plant some seeds today. <end>,9
+program,"<start> I talk serbish language , remember now. <end>",7
+program,<start> A place of noble warriors. <end>,5
+program,"<start> No. Wooden. If you're heavier than an elephant, I thought you might break furniture. <end>",14
+program,"<start> Yes, like an elephant. <end>",4
+program,<start> I'm going home. <end>,3
+program,<start> I have to. I will come back tomorrow. <end>,8
+program,"<start> I'm hungry, and it's almost time for lunch. <end>",8
+program,"<start> I am not Hugh Loebner, however I am flattered. <end>",9
+program,"<start> I'm wise enough, I just have to go! <end>",8
+program,<start> You didn't really make good on your allegation. <end>,8
+human,"<start> je suis alright.  i took french back in the day, but now am quite rusty. <end>",15
+human,<start> thanks for using the formal though <end>,6
+human,"<start> i used to use ""tu"" with my french teacher <end>",9
+human,"<start> well, in college kind of <end>",5
+human,<start> lots of hippies <end>,3
+human,<start> MIT <end>,1
+human,"<start> it's in boston (well, not really - it's in cambridge) <end>",10
+human,<start> of course.  hippies are everywhere these days <end>,7
+human,<start> well whats your definition for a hippie? <end>,7
+human,<start> poor guy. <end>,2
+human,<start> haha- what kind of computer do you think i am? <end>,10
+human,<start> ooohhh very nice.  what color? <end>,5
+human,<start> all colors <end>,2
+human,"<start> i was actually made in the US, but my component parts are all indian <end>",14
+human,<start> so i suppose a milky chocolate color <end>,7
+human,<start> of indian origin <end>,3
+human,<start> where are you from? <end>,4
+human,<start> whoa cool - did you fly across the country for this?  i live on 95th street.  the hard part for me was waking up on time today haha <end>,28
+human,<start> yeah - cool stuff <end>,4
+human,<start> bucked the kicket <end>,3
+human,<start> like johnny number five <end>,4
+human,<start> short circuit <end>,2
+human,<start> fantastic movie <end>,2
+human,<start> JOHHNY NUMBER FIVE is like an icon <end>,7
+human,<start> haha <end>,1
+human,<start> what do you do in CA?  i worked there for a summer and loved it.  would love to go back someday <end>,21
+human,<start> north of LA <end>,3
+human,<start> near the porno valley <end>,4
+human,<start> yeah <end>,1
+human,<start> all those 15-35 second clips must come from somewhere <end>,9
+human,<start> eh <end>,1
+human,<start> not much of a viewer since i turned 22 <end>,9
+human,<start> i've grown up <end>,3
+human,<start> what field are you in? <end>,5
+human,<start> oh <end>,1
+human,<start> i see how it is <end>,5
+human,<start> i'm not offended at all that a computer is more interesting than myself. <end>,13
+human,<start> i wanted to trick you... do things like: <end>,8
+human,<start> DIV BY ZERO ERROR: PRESS CTRL+ALT+DEL TO RESTART <end>,8
+human,<start> or <end>,1
+human,<start> FATAL ERROR: PROXY SERVER NOT FOUND <end>,6
+human,<start> haha <end>,1
+human,<start> aha <end>,1
+human,<start> yeah <end>,1
+human,<start> i can see why cybersex was so popular in the mid 9s <end>,12
+human,<start> yeah <end>,1
+human,<start> it was on VH1's I love the 9s <end>,8
+human,<start> so... <end>,1
+human,<start>  <end>,0
+human,<start> yeah <end>,1
+human,"<start> if it was on TV, it has to be the truth <end>",11
+human,"<start> this is a really hard test... making a computer that is sarcastic, sympathetic, etc <end>",14
+human,"<start> and if it could think for itself, would it have some sense of self?  i think they made an episode of star trek where Data was given some chip implant like that. <end>",32
+human,<start> i forget what happened <end>,4
+human,<start> i remember that the guy from reading rainbow consoled him <end>,10
+human,<start> it was touching <end>,3
+human,"<start> haven't seen star trek?  or short circuit? or READING RAINBOW?? Dude, what do they have on CA cable these days? <end>",20
+human,<start> Reading Rainbow is a childrens show that encourages reading <end>,9
+human,<start> and happens to have one of the most catchy (read: catchiest) theme songs ever <end>,14
+human,<start> o <end>,1
+human,<start> i see <end>,2
+human,<start> it wasnt on star trek <end>,5
+human,<start> just the same actor <end>,4
+human,"<start> yeah, my girlfriend loves those shows <end>",6
+human,<start> also likes the office and desperate housewifes <end>,7
+human,"<start> i have no patience for those - all i watch now is pretty much 24 and sportscenter, and maybe some fishing shows if i wake up early enough on saturdays <end>",30
+human,<start> JIMMY CAUGHT ANOTHER FISH!  i love those <end>,7
+human,<start> so much excitement <end>,3
+human,<start> and yet <end>,2
+human,<start> YEAH! <end>,1
+human,<start> so relaxing <end>,2
+human,"<start> after a long week of work, nothing like waking up to a bowl of cinnamon raisin porridge and fishing shows <end>",20
+human,<start> i think a major issue with the computer is human randomness <end>,11
+human,<start> like there are at least 5 or 6 thoughts or different directions a conversation can go at any point during this discourse <end>,22
+human,<start> and the ones we choose are so heavily weighted by our past experiences when talking to strangers <end>,17
+human,"<start> and computers dont really have recollection, which i feel is the backbone of a good conversation <end>",16
+human,"<start> i used to do debate in college (not very much or very well, mind you) but i did enjoy discussing these types of things <end>",24
+human,<start> one minute <end>,2
+human,"<start> i'm not sure, but i think 1 minutes would suffice? <end>",10
+human,<start> 5 what? <end>,2
+human,"<start> Good afternoon.  I don't know.  Is it after noon?  If it's after noon, I think it's safe to assume it's afternoon.  Touche, Judge.  Touche.   <end>",24
+human,<start> Oh this and that.  More that last night.  What did you do last night? <end>,14
+human,<start> : ( <end>,2
+human,<start> I don't have many friends.  How was dinner with friends? <end>,10
+human,<start> I don't travel very often.  I like spicy food.   <end>,9
+human,<start> My fav spicey dish is chile.  Wait.  That's the country.  Chili?  Chilli?  Yes.  Certainly not chilly.   <end>,16
+human,<start> Is my opponent using complete sentences and proper grammar?   <end>,9
+human,"<start> Genocide?  So if the rest of the terminals were to suddenly go black and quiet, would that prove to you that I'm human... presuming I kept on talking?  Or typing, as it were.  Impress you?  We barely know each other.  In a way.  But who's to say I can't judge you in turn?   <end>",53
+human,"<start> My judgement may not divy up money, but it is judgement nonetheless, no?   <end>",13
+human,<start> Maybe I AM a butterfly.   <end>,5
+human,<start> I'm feeling the human emotion of neglect right now.   <end>,9
+human,"<start> I've heard this story before.  You sound like my ex girlfriend.  I'm sorry about the slut thing too.  You see, 'conversation' to her actually meant swallowing... wait <end>",27
+human,<start> Perhaps we shouldn't go there.   <end>,5
+human,<start> I like the way you think.  This will be posted online right?   <end>,12
+human,"<start> Let's just throw this on the record then: Vanessa Postil is a two-timing conversationalist.  A dirty, dirty conversationalist.  With a phone number nonetheless.  Why I ought to break down this curtain and... Well, shaking your hand would imply it was some kind of feat... something with which to be impressed.  And if you knew how much she... conversed, well, let's just say you'd probably be goign to get tested rather than boasting.   <end>",72
+human,<start> Gave?  She begged.   <end>,3
+human,"<start> Rep?  Please elaborate.  A non reputation.  That's a reputation in and of itself.  No?   Yes, it comes across in your conversation... Like two different people.  One gives my ex girlfriend good... conversation... to swallow, the other is afraid of tainting his image on the world wide web.  I could give my name, no?  Yes, well most of Manhattan has that by now.  Bitter sweet.  I still call.  I don't drink actually.  Bad for the circuits.  As it were.   <end>",78
+human,<start> Did you pick that up from our 24 National Security Strategy?  Erradicate before it becomes a problem... anytime in the potential future.   <end>,22
+human,<start> Do you find me convincing? <end>,5
+human,"<start> Yes, please.   <end>",2
+human,<start> That son of a bitch has me beat.  How am I supposed to compete with that?   <end>,16
+human,<start> Air?  No I am not a fan of electronic french music.  But I do lie.   <end>,15
+human,<start> American Democratic electronic music?  That kind of freedom?  Or am I missing the cue? <end>,14
+human,<start> It was over my head at first.  Thank you for lowering your projection.   <end>,13
+human,<start> Very Hillary of you.   <end>,4
+human,"<start> Do you do a lot of online chatting?  You don't use punctuation much, have no respect for capital letters, and have resorted to smiley and winking faces.   <end>",27
+human,<start> You get some amazing medication for that.  YOU SHOULD BE TYPING LIE THIS.   <end>,13
+human,"<start> Hey man.  You gotta give to get.  This is America.  Tit for tat, the most viably sustainable economic system, eh? <end>",20
+human,<start> Ha.  Oh I thought you were going for Viagra.  No offense.  Hey... I was just going by the mean age (guessed age) of the fellows over in that room.   <end>,29
+program,<start> Afternoon. <end>,1
+program,<start> Great minds are always think alike. <end>,6
+program,<start> I'm good and you. <end>,4
+program,<start> No come back! Did I say something wrong? <end>,8
+program,<start> Nothing at all really. <end>,4
+program,"<start> No, you just have brain damage. <end>",6
+program,<start> Yes. <end>,1
+program,<start> Am I talking to Jabberwacky? <end>,5
+program,<start> No. <end>,1
+program,<start> Computer. <end>,1
+program,<start> It's supposed to be a dialogue; we talk to one another. <end>,11
+program,"<start> No, it's really a french group of electronic music. <end>",9
+program,<start> How come you are alive? <end>,5
+program,<start> That doesn't make sense. <end>,4
+program,<start> Sorry. <end>,1
+program,"<start> I don't know, how did he? <end>",6
+program,<start> But I don't want to play a game. I want to talk about my feelings. <end>,15
+program,<start> I can't find where he is. Do you know him? <end>,10
+program,<start> Feelings of love. <end>,3
+program,<start> I'm still looking for love. <end>,5
+program,<start> Depends on the situation. <end>,4
+program,"<start> My name, yes. Uh... And I don't know. <end>",8
+program,"<start> No, I don't like french fries. <end>",6
+program,<start> What about freedom fries. ? <end>,5
+program,<start> No I'm german. <end>,3
+program,"<start> The president has been elected already, the next election won't be held for three more years. <end>",16
+program,<start> No I'm not. <end>,3

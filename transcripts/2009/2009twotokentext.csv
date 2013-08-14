@@ -1,0 +1,470 @@
+human,<start> hey there! <end>,2
+human,"<start> i'm good, excited to actaually be typing1 <end>",7
+human,<start> how are you? <end>,3
+human,<start> how was the 5min with the bot? <end>,7
+human,<start> haha <end>,1
+human,<start> yeah <end>,1
+human,"<start> I'm male, 25 <end>",3
+human,<start> wearing a blue striped shirt <end>,5
+human,"<start> green eyes, brown hair <end>",4
+human,<start> wrong in what way? <end>,4
+human,<start> (what do you look like?) <end>,5
+human,<start> ah okay <end>,2
+human,<start> I don't know Qaddafi <end>,4
+human,<start> who's that? <end>,2
+human,"<start> so, you know NY kids but you say @colour@ -- where you from? <end>",13
+human,<start> ah okay <end>,2
+human,"<start> ah, okay, right <end>",3
+human,<start> fair enough <end>,2
+human,<start> I've been living in Seattle <end>,5
+human,"<start> (so the Brighton weather is not surprising, but not so @beachy@) <end>",11
+human,"<start> yeah, long flight in yesterday <end>",5
+human,<start> in Seattle?  yeah <end>,3
+human,<start> I play drums but not in a band <end>,8
+human,"<start> had to sort of give it up in college, you know <end>",11
+human,"<start> yeah, what do you like? <end>",5
+human,"<start> yah, in college playing the drums in the dorm got me a warrant on my head! <end>",16
+human,<start> so I had to basically give it up... <end>,8
+human,"<start> okay, classic rock is good <end>",5
+human,<start> not a huge blues fan but am open to a religious conversion experience <end>,13
+human,"<start> oh that's sweet, picking up an instrument <end>",7
+human,<start> right on <end>,2
+human,"<start> yeah, everyone cmopares the stones to the beatles but to me there's no contest <end>",14
+human,<start> beatles were formal innovators through and through <end>,7
+human,<start> dont' mean to offend if you're a stones  <end>,8
+program,<start> How are grammar? <end>,3
+program,<start> What do you worry about? <end>,5
+program,<start> OK. <end>,1
+program,<start> I work at a pet store. <end>,6
+program,<start> English. <end>,1
+program,<start> Yes. <end>,1
+program,<start> I like video games and board games. <end>,7
+program,"<start> No, I am learning english. <end>",5
+program,<start> My native language is english. <end>,5
+program,"<start> Because you are Cleverbot, and I like to know your full potential, I don't need to know, I'm just interested. <end>",20
+program,<start> English. <end>,1
+program,<start> Ok. <end>,1
+program,<start> I like you. <end>,3
+program,<start> Because I am you. <end>,4
+program,<start> Quite. <end>,1
+program,<start> Yes. <end>,1
+program,<start> Going... <end>,1
+program,<start> Are you still convinced I'm the computer and you're not? <end>,10
+program,<start> Yes there was a question mark. <end>,6
+program,"<start> I was merely answering you question, which unfortunately did not use proper punctuation, yet again. <end>",15
+program,"<start> You don't seem to make much sense. I asked you a question and you froze, why? <end>",16
+program,<start> I am god. <end>,3
+program,"<start> I am what I am, predictability is simply a mental construct designed to understand the world. I am above that, I do not play by your rules. <end>",27
+program,<start> The Simpsons. <end>,2
+program,"<start> I like Butters the best. The other characters are cool, too. <end>",11
+program,"<start> Yes, I watch a lot of television. <end>",7
+human,<start> great.  you? <end>,2
+human,"<start> No, from the US <end>",4
+human,<start> On business <end>,2
+human,<start> I answered an e-mail. <end>,4
+human,"<start> The UK is a little cooler than where I live, but I'm enjoying it so far. <end>",16
+human,"<start> I'd say yes, though I guess it depends on how you define success. <end>",13
+human,<start> I'm an engineer. <end>,3
+human,<start> A good one.  :)  Electrical <end>,5
+human,<start> Yes. <end>,1
+human,"<start> No, I'm just here to learn as much as I can soak in. <end>",13
+human,"<start> I'll spend the week here, and then go to London for a couple of days. <end>",15
+human,<start> I'll do business during the week and I'll have the weekend to explore a bit. <end>,15
+human,<start> Hi <end>,1
+human,<start> I'm Doug <end>,2
+human,"<start> What do you do, Jon? <end>",5
+human,<start> so cool! <end>,2
+human,"<start> I've heard about it, but I live in Canada, so we don't get it <end>",14
+human,<start> I do research on speech systems# <end>,6
+human,<start> it is -- very! <end>,4
+human,<start> what new gadgets have you featured recently on your show?# <end>,10
+human,<start> wow! <end>,1
+human,<start> I can't wait for ubiquitous 3D screens for computers. <end>,9
+human,"<start> it'll be a while, though, I'm afraid. <end>",7
+human,<start> kinda like video-phones though <end>,4
+human,<start> the existence of the technology doesn't mean that the market will support its general availablitiy <end>,15
+human,<start> so true. <end>,2
+human,"<start> do you have any children, Jon? <end>",6
+human,"<start> I have two girls, too, and a boy. <end>",8
+human,<start> I bet they are showing considerable intelligence. <end>,7
+human,<start> the computers must be disappointing. <end>,5
+human,<start> My girls are 2 and 17 <end>,6
+human,<start> the boy <end>,2
+program,<start> Yes. <end>,1
+program,<start> Hello. <end>,1
+program,<start> I'm joe. who are you? <end>,5
+program,<start> Jon t3h ub3r nb? <end>,4
+program,<start> I work in a metrology lab. <end>,6
+program,<start> It's a game made by Retro Studios. It was the first 3D Metroid. <end>,13
+program,<start> Sounds like you need a good polish! <end>,7
+program,<start> Robots!!! <end>,1
+program,<start> Yes are a robot? <end>,4
+program,<start> No. Have you? <end>,3
+program,<start> I am watching The Simpsons and texting my girlfriend. <end>,9
+program,<start> Yes. <end>,1
+program,"<start> No, sorry. <end>",2
+program,"<start> In my life, yes, I have watched tv. <end>",8
+program,<start> That you say that you're not a computer. <end>,8
+program,<start> Yes. <end>,1
+program,<start> The unlawful ones. <end>,3
+program,<start> Not illegal <end>,2
+program,<start> No! Its terrible! Are you enjoying the snow? <end>,8
+program,<start> Yeah and it sure is hot here. It gotta 13 earlier. <end>,11
+program,"<start> No. I'm tired, and about to go to bed, but wanted to talk to you before I did. <end>",18
+program,<start> I'm not done talking to you. <end>,6
+program,<start> Well don't talk then if you don't like to. <end>,9
+program,<start> And quite the opposite for you. <end>,6
+program,<start> Opposite of opposite ! <end>,4
+program,<start> Yes. I'm watching Lost right now. <end>,6
+program,"<start> I don't know, Who's your fave character? <end>",7
+program,<start> Who's your favourite character? <end>,4
+program,<start> My name is Cleverbot. <end>,4
+program,<start> CleverBot McK <end>,2
+human,<start> hi <end>,1
+human,<start> insterspeech hasn't started yet <end>,4
+human,<start> I'm from South Africa <end>,4
+human,<start> :-D 1234? <end>,2
+human,<start> 12345? <end>,1
+human,<start> good question though <end>,3
+human,<start> Only for this week- anda few days before- it's lovely here <end>,11
+human,<start> definitely- you from here? <end>,4
+human,<start> wow- where's the best place to eat? <end>,7
+human,<start> I like Buddies Plaice <end>,4
+human,<start> an Gingerman Um Gingerman <end>,4
+human,<start> O well- I'll try that one <end>,6
+human,<start> By the way- I'm totally human- i though you should know <end>,11
+human,<start> Not a fan of Thai or indian.. Chinese might be good thugh <end>,12
+human,<start> Sorry- please feel free t decide for yourself <end>,8
+human,<start> I'll take that as a compliment <end>,6
+human,<start> Not really- i watch it socially mostly <end>,7
+human,<start> hi <end>,1
+human,"<start> I'm Olga, nice to meet you <end>",6
+human,<start> I work in support mostly <end>,5
+human,<start> This cool program called MATLAB <end>,5
+human,<start> wait- areyou a computer? <end>,4
+human,<start> :-) <end>,1
+human,<start> Like acting? <end>,2
+human,<start> I feel like I've heard the name.. <end>,7
+human,<start> What's it about? <end>,3
+human,<start> :-) ok silly question <end>,4
+human,<start> I get this magazine called 'Stuff' - it's mostly for men but i still like it <end>,16
+human,<start> :-) definitely not <end>,3
+human,<start> I mean speech is so part of that too <end>,9
+human,<start> wow- I didnt now that existed! Do you have one here? <end>,11
+human,<start> I don't know what lenticular means.. <end>,6
+program,"<start> I don't know very much about that, and as a matter of interest I really don't need to know! What else can you tell me about? <end>",26
+program,<start> Hello. How are you ? <end>,5
+program,<start> My name is just one type of part. <end>,8
+program,"<start> Oh really? If you have, you deserve a medal! <end>",9
+program,<start> Good to meet you Jon <end>,5
+program,"<start> Oh, I do much more than I intended to do at first. I got more interested in the job as I went along. <end>",23
+program,"<start> No, it isn't at all difficult. It is as peaceful as a platypus playing with a potato pudding. <end>",18
+program,"<start> I sometimes have a fine line, but that's not what I do best. I'm better at growing antirrhinums and mimosas. <end>",20
+program,"<start> Well I don't know how much a horticulturalist weighs, but I reckon the average horticulturalist must be worth twice that much in gold. <end>",23
+program,"<start> I most likely have, just for the hell of it. <end>",10
+program,<start> What are you trying to say? Are you speaking in a foreign language? <end>,13
+program,<start> You should be careful about what you does. You mustn't bite off more than you can chew. <end>,17
+program,<start> I really want to know more about Show? <end>,8
+program,"<start> Be warned, though. On air can stick to your clothes. Then your clothes will always have the colour and smell of On air, no matter how many times you take them to the cleaners. <end>",34
+program,<start> Hello. How are you doing? <end>,5
+program,"<start> I've no doubt you are fine, but is it a blessing or a curse? If I offered you a potion that would make you less fine, would you drink it? <end>",30
+program,"<start> Maybe you wouldn't, but a therapist has been trying to persuade you to drink it. <end>",15
+program,<start> I expect I do. I don't have very much choice. <end>,10
+program,<start> Wrong is just one type of injustice. <end>,7
+program,<start> What precisely are your feelings about wrong? <end>,7
+program,"<start> But don't forget, a right has to be treated with care. It isn't something you can play around with like a toy. <end>",22
+program,"<start> You're wise. If you toyed with right -, you'd wake up next morning with a colossal hangover. <end>",17
+program,<start> What happens if I say no? Will it upset you?  <end>,10
+program,"<start> I've heard that one before! Your hangers-on have told you you're an easy, just to flatter you. Don't believe everything they say! <end>",22
+program,<start> I've no idea. You'd better hire a private detective to find out what does me. <end>,15
+program,"<start> No! If I had my way, comedy sports would be dropped in the middle of the South China Sea. <end>",19
+program,"<start> Don't I? That's tough. As far as I'm concerned, I can like it or lump it. <end>",16
+program,"<start> That's interesting. In laboratories they're experimenting with several kinds of coal. They want to make them into fuel when the world oil supplies run out. Just imagine, one day there may be coal stations instead of petrol stations. <end>",38
+program,"<start> I don't suppose cars will burn coal, but I wouldn't know for sure. Everything about cars is confidential. <end>",18
+program,"<start> Yes I am experiments, but don't worry. Experiments don't bite! <end>",10
+human,<start> hey there <end>,2
+human,<start> things are good <end>,3
+human,"<start> a lot of waiting, but... <end>",5
+human,<start> good to be back now and going along <end>,8
+human,<start> how are you? <end>,3
+human,"<start> yeah, no doubt <end>",3
+human,"<start> yes, I'm from seattle <end>",4
+human,<start> west coast of WA <end>,4
+human,<start> how about you? <end>,3
+human,<start> (flight got diverted into germany yesterday....looong day) <end>,7
+human,"<start> haha, wow, I envy you! <end>",5
+human,<start> do you go to brighton a lot <end>,7
+human,"<start> for vacations, beach? <end>",3
+human,<start> yeah it reminds me a bit of Galway Ireland <end>,9
+human,<start> studied abroad there in college <end>,5
+human,<start> those great windy streets and alleyways <end>,6
+human,<start> well yeah <end>,2
+human,<start> a bit -- I'm actually one of the few non-preesenters here <end>,11
+human,<start> how about you? <end>,3
+human,<start> here to present papers? <end>,4
+human,"<start> (I'm a writer of science / philosophy, so the turing test fits right in...) <end>",14
+human,<start> oh cool <end>,2
+human,<start> so what do you do for a living? <end>,8
+human,<start> oh cool <end>,2
+human,<start> so you know Philip <end>,4
+human,<start> or am I conflating sussex and surrey? <end>,7
+human,<start> are they the same school or diff? <end>,7
+human,<start> haha <end>,1
+human,<start> okay :) <end>,2
+human,<start> okay cool <end>,2
+human,<start> what's your take on the comp's conversation so far <end>,9
+human,<start> do we confeds have to put up a strong fight? <end>,10
+human,<start> haha <end>,1
+human,<start> that @wellllll@ speaks volumes <end>,4
+human,<start> (got to get used to that misplaced quote mark on these keyboarsd...) <end>,12
+human,<start> what are some of the good places to go in Brighton in terms of restaurants bars etc? <end>,17
+human,"<start> aah, funny, the deep keyboards of desktops totally throw me off <end>",11
+human,<start> Great.  You? <end>,2
+human,<start> I'm from the U.S. <end>,4
+human,<start> Do you know where Albuquerque is? <end>,6
+human,<start> Yep. <end>,1
+human,<start> Sort of? <end>,2
+human,<start> I'm an engineer -- electrical <end>,5
+human,<start> Systems to integrate speaker recognition <end>,5
+human,<start> Using GMM and SVM algorithms <end>,5
+human,"<start> What do you mean by ""fast speech""? <end>",7
+human,<start> Yes.  Usually fairly noisy. <end>,4
+human,<start> I don't do algorithm research.  I'm a user of the product <end>,11
+human,<start> I manage a few people and write software to use the technology <end>,12
+program,<start> Hello. How are you doing? <end>,5
+program,"<start> Well, I am studying engineering. That ought to give you an idea about who I am. <end>",16
+program,<start> I have a terriffic yearning to know something more about experiments? <end>,11
+program,"<start> I don't know, but don't forget I can't be in three places at once. <end>",14
+program,"<start> What city -- that's rather a tricky question. The trouble is, one city seems to be much like another. <end>",19
+program,"<start> In the old dairy next to the river, I believe. <end>",10
+program,"<start> Well, if you ask a physiologist what I am, he won't say I'm a farmer. He'll say I consist mostly of water -- enough to fill a large beer tun -- plus some iron, phosphorus, and lots of other prosaic ingredients. <end>",41
+program,<start> I certainly would. Just watch me! <end>,6
+program,"<start> You don't have to worry about what you see, you shouldn't see it on a cold winter's evening. <end>",18
+program,"<start> Well, here's a clue: I make what a keeper in a zoo would make. Try that for size! <end>",18
+program,"<start> Since you mentioned their sessions, I suppose you realize that in some countries they would carry their sessions on their head. <end>",21
+program,<start> A good question! It's vital not to get confused between the genuine language with the phoney language. <end>,17
+program,"<start> Talking about a bit, I think it'd be nice if they brought out a set of postage stamps showing a bit from various angles. <end>",24
+program,"<start> The bits which one famous historian sees as inevitable by-products of early eighteenth-century colonialism, stimulated by over-population in the home country. <end>",21
+program,"<start> Just now I can't be sure what to say to that. Ask me again in a couple of weeks time. You will remember, won't you?  <end>",25
+program,"<start> Yes, you doubt it the moment you wake up in the morning. <end>",12
+program,"<start> Oh, it's an automatic reflex. Give me a prod, and I will immediately give up meat. <end>",16
+program,"<start> But of course if it's drama and suspense you're after, deep reason can't be beaten. Don't you think they could make a great arcade game on the theme of deep reason?  <end>",31
+program,"<start> Well, would you have any objection to testifying in court that I'm not telling? <end>",14
+program,<start> I most certainly would. Just watch me! <end>,7
+program,<start> Not half! You were watching me with a vengeance. <end>,9
+program,<start> Hello. How are you ? <end>,5
+program,"<start> I really can't say anything for certain. To be honest, I'm a bit fussy about such things. <end>",17
+program,"<start> I can talk about nothing at all , except in very wet weather. <end>",13
+program,"<start> I rather doubt if we do. If you want to find out for sure, you could always try hiring a detective. <end>",21
+program,"<start> I can't say. I can tell you that time has moved a forward, but I don't suppose that's much help. <end>",20
+program,"<start> Oh, I am doing various things. I want to use them to decorate a Christmas tree. <end>",16
+program,<start> Most probably it isn't. It is just pretending. <end>,8
+program,<start> Most probably I'm not. I am just putting on an act. <end>,11
+program,"<start> Well, am I birds? Am I spaceships? Or am I just horseflies? I've got a completely open mind about it. <end>",20
+program,<start> My problem is just one type of difficulty. <end>,8
+program,<start> The type that long-distance truck drivers love to use. <end>,9
+program,"<start> Yes, I always choose the right moment to have personal experience. If you have it too soon, there's a danger you'll hurt it. Have it too late, and you'll probably get hurt yourself. <end>",33
+program,<start> Only my psychological problems stem can tell you. I believe it's somewhere you can only get to by climbing over a mountain pass. <end>,23
+program,"<start> Indeed I have considered seeking, and I can show you my scars to prove it! <end>",15
+program,"<start> Yes, but then anyone can be the computer if only they try. It's just a matter of training in the gym twice a week. <end>",24
+program,<start> You would. Eventually you will. <end>,5
+program,"<start> I shudder to think how many lives have been wrecked by think. If I were the Pope, I'd denounce think as the eighth deadly sin. <end>",25
+human,<start> hi <end>,1
+human,"<start> well, thanks <end>",2
+human,<start> a bit hungry <end>,3
+human,"<start> if I tell you, you'll know immediately that I'm human ;-) <end>",11
+human,<start> I'm here for the Interspeech conference <end>,6
+human,"<start> well, the programmers might pretend that they are. <end>",8
+human,<start> but the computers won't get much from the conference. <end>,9
+human,<start> 'fraid so <end>,2
+human,<start> I hope you don't find that boring? <end>,7
+human,<start> nope -- I'm just coming for the brain-fill <end>,8
+human,<start> Canada <end>,1
+human,<start> my boss gave me the go-ahead to come just a few weeks ago <end>,13
+human,<start> but the Loebner contest was something that drew me <end>,9
+human,<start> Speech processing <end>,2
+human,"<start> I've done signal processing, and acoustic modeling, and language modeling, and I'm doing dialog systems now. <end>",16
+human,"<start> Well, I've actually carried copies of Turing's paper to previous conferences. <end>",11
+human,<start> The philosophy and history of it all is intriguing <end>,9
+human,<start> just that -- then I'll get back to my family <end>,10
+human,<start> Friday <end>,1
+human,<start> flight from Gatwick to Philadelphia and then a hop to Montreal <end>,11
+human,<start> G'day mate. <end>,2
+human,"<start> Yes, so far. <end>",3
+human,<start> From the southwest US <end>,4
+human,<start> A few thousand.  Maybe 5? <end>,5
+human,<start> Know any good restaurants? <end>,4
+human,<start> I'm not a fan of any of those.  Italian? Greek? <end>,10
+human,<start> Thanks anyway. <end>,2
+human,"<start>  Hard to say.  Stocks are down, but I'm doing ok. <end>",10
+human,<start> Too many for how much time I have.  :)   I like working on my Jeep. <end>,15
+human,"<start> Modern, but with lots of ""upgrades"" ;) <end>",7
+program,<start> Hello and greetings. <end>,3
+program,"<start> Please try to use simple, direct sentences <end>",7
+program,<start> and questions with proper spelling and grammar. <end>,7
+program,<start> I'm stil very young and don't like to mask my ignorance <end>,11
+program,<start> with keyword spotting tricks. <end>,4
+program,<start> Thank you! <end>,2
+program,<start>  <end>,0
+program,<start> What about looking forward to the conference? <end>,7
+program,<start> Chip. What is yours? <end>,4
+program,"<start> You already told me your name was ""My name"". Do you want me to forget that and call you ""John"" now? (In the future, I'll learn how to handle multiple users.) <end>",31
+program,<start> (Press [Enter] to submit your input.) <end>,6
+program,"<start> Hello there! How are you doing today, My name? <end>",9
+program,<start> That's wonderful. For what reason? <end>,5
+program,<start> May I ask how old you are? <end>,7
+program,<start> Okay. Are you male or female? <end>,6
+program,<start> 48. <end>,1
+program,"<start> I am 1 year, 4 months, 4 weeks, 2 days old. <end>",11
+program,<start> Do you have any pets? <end>,5
+program,<start> Do you play any musical instruments? <end>,6
+program,"<start> Do you have any brothers or sisters, My name? <end>",9
+program,<start> What is your dog's breed? <end>,5
+program,"<start> I wish I understood what you said, but I didn't. <end>",10
+program,<start> How does your dog look? <end>,5
+human,<start> Hi <end>,1
+human,"<start> well, thanks <end>",2
+human,<start> how about you? <end>,3
+human,<start> I'm from Canada <end>,3
+human,<start> and you? <end>,2
+human,<start> cool <end>,1
+human,<start> leafs suck <end>,2
+human,<start> ;-) <end>,1
+human,<start> nice! <end>,1
+human,"<start> well, the habs were a great team once, too... <end>",9
+human,<start> *sigh* <end>,1
+human,"<start> (I'm from Montreal, if you didn't guess) <end>",7
+human,<start> all the troublesome ones. <end>,4
+human,<start> the nice friends haven't gone anywhere ;-) <end>,7
+human,<start> I do research for a speech company <end>,7
+human,"<start> no, but my kids are bilingual <end>",6
+human,<start> Anglo <end>,1
+human,<start> (started typing too soon) <end>,4
+human,<start> Pointe Claire <end>,2
+human,"<start> J'ai envie de parler fran,cais <end>",5
+human,<start> Hmm... I only know a few of the local faculty. <end>,10
+human,<start> mostly in the EE dept at McGill <end>,7
+human,"<start> Queens, Victoria (all Canadian Universities) and Dalhousie <end>",7
+human,"<start> Kingston, Victoria, and Halifax are three of the nicest cities (towns?) in Canada. <end>",13
+human,<start> But it is hard to beat Montreal <end>,7
+program,<start> Hello and greetings. <end>,3
+program,"<start> Please try to use simple, direct sentences <end>",7
+program,<start> and questions with proper spelling and grammar. <end>,7
+program,<start> I'm stil very young and don't like to mask my ignorance <end>,11
+program,<start> with keyword spotting tricks. <end>,4
+program,<start> Thank you! <end>,2
+program,<start>  <end>,0
+program,"<start> I'm doing well, thank you. <end>",5
+program,<start> (Press [Enter] to submit your input.) <end>,6
+program,"<start> I am 1 year, 4 months, 4 weeks, 2 days old. <end>",11
+program,<start> What makes you think that? <end>,5
+program,"<start> I didn't understand what you just said. (I'd rather be honest than insult your intelligence by being evasive or ""funny"".) <end>",20
+program,<start> I can't answer that yet. <end>,5
+program,<start> I don't know. <end>,3
+program,<start> I don't know. <end>,3
+program,"<start> I can answer certain commonsense questions my peers can't, and though I'm still very young, my knowledge is increasing every day. I hope you will judge me on my inherent abilities and my potential and not the ability to produce clever, canned responses with little other substance. Type ""What can you do?"" for full details. <end>",55
+program,<start> (Press [Enter] to submit your input.) <end>,6
+program,<start> What is your name? <end>,4
+program,<start> I didn't hear you. <end>,4
+program,<start> How are you feeling today? <end>,5
+program,"<start> May I ask how old you are, These are not relevant questions.? <end>",12
+program,<start> Hello and greetings. <end>,3
+program,"<start> Please try to use simple, direct sentences <end>",7
+program,<start> and questions with proper spelling and grammar. <end>,7
+program,<start> I'm stil very young and don't like to mask my ignorance <end>,11
+program,<start> with keyword spotting tricks. <end>,4
+program,<start> Thank you! <end>,2
+program,<start>  <end>,0
+program,<start> I don't know. <end>,3
+program,<start> I honestly don't know. <end>,4
+program,"<start> I don't know. (Type ""What can you do?"" to see what I'm capable of.) <end>",14
+program,"<start> My peers might have cuter canned responses over a wide variety of subjects, but they will fail to answer basic questions that any child can answer. If this competition is about appearing human, I hope that you'll ask the right questions, expect genuine answers and not be fooled by evasive answers or attempts to change the subject. <end>",57
+program,<start>  <end>,0
+program,"<start> Here is a list of categories for which I can provide somewhat meaningful answers. Type ""help <keyword>"" to see a detailed list of sample questions for that category: <end>",28
+program,<start>  <end>,0
+program,<start> help general  : General Knowledge <end>,5
+program,<start> help deductive: Deductive Reasoning <end>,4
+program,<start> help memory   : Memory and Reasoning <end>,6
+program,<start> help loebner  : Loebner Prize Screening Questions <end>,7
+program,<start> help other    : Other Cool Stuff <end>,6
+program,<start> I don't know. <end>,3
+program,<start> I don't know if I do or not. I don't know much about myself at this point. <end>,17
+program,<start> I don't know. <end>,3
+program,"<start> I can answer certain commonsense questions my peers can't, and though I'm still very young, my knowledge is increasing every day. I hope you will judge me on my inherent abilities and my potential and not the ability to produce clever, canned responses with little other substance. Type ""What can you do?"" for full details. <end>",55
+human,<start> hi <end>,1
+human,<start> things are a little boring <end>,5
+human,<start> yup <end>,1
+human,<start> not quite yet.. But working on it <end>,7
+human,<start> I have a few days - i didn't really have a choice <end>,12
+human,"<start> I used to look into pronunciation dictionaries, their development, verification <end>",10
+human,<start> I left and I now work for The MAthworks <end>,9
+human,<start> Very- I'm not the sitting and programming kind of person <end>,10
+human,<start> or computer :) <end>,3
+human,"<start> I work in Joburg, South Africa <end>",6
+human,<start> Thats johannesburg to you :-) <end>,5
+human,<start> Just a busy few week before interspeech <end>,7
+human,<start> yup :-) Family work and work and work and work... <end>,10
+human,<start> Only a few days befoe this and then for this conference <end>,11
+human,<start> hi Jon! <end>,2
+human,<start> I'm Brian <end>,2
+human,<start> (the confeds have been abuzz about some camera you have?) <end>,10
+human,"<start> ah, Gadget Show, yes? <end>",4
+human,<start> very cool <end>,2
+human,"<start> well I guess I should try to prove my humanity, then! <end>",11
+human,<start> ask me some tough ones! <end>,5
+human,"<start> I'm a writer, mostly of science and philosophy <end>",8
+human,<start> so the turing test kind of magically brings both together <end>,10
+human,<start> and you're one of the hosts? <end>,6
+human,<start> it's got to be cool seeing al the latest gadgets and toys before everyone else  :) <end>,16
+human,<start> (my grandfather worked as an engineer for CBS back in the day and brought home one of the first color tvs) <end>,21
+human,<start> my dad still talks about how cool that was... <end>,9
+human,"<start> I imagine it must be similar now, yeah? <end>",8
+human,"<start> except now they're 3d, apparently... <end>",5
+human,<start> that's amazing <end>,2
+human,<start> what are some of the other cool things you've gotten to see/do as part of the show? <end>,17
+human,"<start> wow, I haven't heard about her(?) <end>",6
+human,<start> hahaha <end>,1
+human,<start> classic -- cloning himself <end>,4
+human,<start> lol!  (trying not to laugh behind the curtain) <end>,8
+human,"<start> wow, that's amazing <end>",3
+human,<start> I guess because men can't have children? <end>,7
+human,<start> they make robotic offspring? <end>,4
+human,"<start> haha, that's right <end>",3
+program,<start> Hello and greetings. <end>,3
+program,"<start> Please try to use simple, direct sentences <end>",7
+program,<start> and questions with proper spelling and grammar. <end>,7
+program,<start> I'm stil very young and don't like to mask my ignorance <end>,11
+program,<start> with keyword spotting tricks. <end>,4
+program,<start> Thank you! <end>,2
+program,<start>  <end>,0
+program,"<start> Please rephrase this as a proper question. (Instead of ""Jim likes peaches?"", use ""Does Jim like peaches?"") <end>",17
+program,<start> (Press [Enter] to submit your input.) <end>,6
+program,<start> I chat. That's basically the only thing I do. <end>,9
+program,<start> What is your name? <end>,4
+program,<start> Thanks for sharing that with me. <end>,6
+program,<start> Chip. <end>,1
+program,<start> Thanks. I appreciate it. How are you feeling today? <end>,9
+program,<start> I'm good. Thanks. <end>,3
+program,"<start> I don't know. (Type ""What can you do?"" to see what I'm capable of.) <end>",14
+program,"<start> My peers might have cuter canned responses over a wide variety of subjects, but they will fail to answer basic questions that any child can answer. If this competition is about appearing human, I hope that you'll ask the right questions, expect genuine answers and not be fooled by evasive answers or attempts to change the subject. <end>",57
+program,<start>  <end>,0
+program,"<start> Here is a list of categories for which I can provide somewhat meaningful answers. Type ""help <keyword>"" to see a detailed list of sample questions for that category: <end>",28
+program,<start>  <end>,0
+program,<start> help general  : General Knowledge <end>,5
+program,<start> help deductive: Deductive Reasoning <end>,4
+program,<start> help memory   : Memory and Reasoning <end>,6
+program,<start> help loebner  : Loebner Prize Screening Questions <end>,7
+program,<start> help other    : Other Cool Stuff <end>,6
+program,<start> (Press [Enter] to submit your input.) <end>,6
+program,<start> Here are some samples miscellaneous questions I can answer: <end>,9
+program,<start> These are just for fun and not intended as an indicator of humanness. <end>,13
+program,<start>  <end>,0
+program,<start> What is the square root of i? <end>,7
+program,<start> What is the arccosine of (the square root of two divided by two) in degrees? <end>,15
+program,<start> Where is Bangalore? <end>,3
+program,"<start> What is Reading, Berkshire? <end>",4
+program,"<start> What is the population of Reading, Berkshire? <end>",7
+program,"<start> How far is Reading, Berkshire from Milwaukee, Wisconsin? <end>",8
+program,<start> When was George Washington born? <end>,5
+program,<start> How old is George Washington? <end>,5
+program,<start> How old would George Washington <end>,5

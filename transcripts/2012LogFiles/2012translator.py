@@ -12,6 +12,7 @@ writer = csv.writer(product)
 
 utterance = ""
 start = "<start> " 
+end = " <end>"
 
 for line in text:
   items = line.split()
@@ -23,6 +24,10 @@ for line in text:
         utterance += " "
       elif this_addition == "question":
         utterance += "?"
+      elif this_addition == "colon":
+        utterance += ":"
+      elif this_addition == "slash":
+        utterance += "/"    
       elif this_addition == "comma":
         utterance += ","
       elif this_addition == "period":
@@ -37,21 +42,25 @@ for line in text:
         utterance += "("
       elif this_addition == "parenright":
         utterance += ")"
+      # elif this_addition == "BackSpace":
+      #   utterance += " BackSpace "
       elif this_addition == "BackSpace":
-        utterance = utterance[:-1]
+        utterance = utterance[:-1]  
       elif this_addition == "backslash":
         utterance += "\\"
       elif this_addition == "minus":
         utterance += "-" 
       elif this_addition == "Return":
-        writer.writerow ([author , start+utterance])
+        length = len(utterance.split())
+        writer.writerow ([author , start+utterance+end , length])
         utterance = ""
       # elif this_addition == "Return":
       #   utterance += "\n" + author + " |"   
       else:
         utterance += this_addition
 if utterance != "":
-  writer.writerow ([author , start+utterance])
+  length = len(utterance.split())
+  writer.writerow ([author , start+utterance+end, length])
 
 # if utterance != "":
 #   product.write ("\n" + author + "," + utterance)
