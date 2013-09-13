@@ -1,5 +1,6 @@
 import pickle
-# import numpy as np
+import scipy.sparse
+import numpy as np
 # import pandas as pd
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -11,7 +12,13 @@ vectorizer = pickle.load(open("save2.p", "rb"))
 
 userinput = raw_input("How are you doing today? ")
 
-userinput = "<start> " + userinput
+length = len(userinput.split())
+
+userinput = "<start> " + userinput + " <end>"
+
+train1 = vectorizer.transform([userinput])
+
+final = scipy.sparse.hstack( (train1, length ))
 
 # userinput = userinput.toarray()
 
@@ -23,8 +30,7 @@ userinput = "<start> " + userinput
 
 # vectorizer = CountVectorizer(strip_accents='unicode', ngram_range=(1,2))
 
-train1 = vectorizer.transform([userinput])
 
-close = classifier.predict_proba(train1.toarray())
+close = classifier.predict_proba(final.toarray())
 
 print close[:,1:]

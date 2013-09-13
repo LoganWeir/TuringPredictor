@@ -2,8 +2,13 @@
 #86443 - 33924 = 52519
 #9274 coefficents, 52519 words
 #9274/52519 = 0.1766 tokens to words
- 
+
+#twotokenratio
+#human = 0.3908, program = 0.6092
+
 library(ggplot2)
+
+tokens <- read.csv("twotokentext.csv")
 
 coef <- read.csv("coef.csv")
 
