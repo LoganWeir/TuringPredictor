@@ -41,7 +41,7 @@ model = LogisticRegression(class_weight={1:0.3908, 0:0.6092})
 
 classifier = model.fit(final.toarray(), speaker)
 
-print (cross_val_score(model, final.toarray(), speaker, cv = 5).mean())
+print (cross_val_score(model, final.toarray(), speaker, cv = 3).mean())
 
 pickle.dump(classifier, open("save.p","wb"))
 
